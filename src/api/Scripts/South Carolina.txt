@@ -1,0 +1,1108 @@
+County
+29001	
+Clarendon County
+29002	
+Richland County
+29003	
+Bamberg County
+29006	
+Lexington County
+29009	
+Kershaw County
+29010	
+Lee County
+29014	
+Chester County
+29015	
+Fairfield County
+29016	
+Richland County
+29018	
+Orangeburg County
+29020	
+Kershaw County
+29021	
+Kershaw County
+29030	
+Calhoun County
+29031	
+Union County
+29032	
+Kershaw County
+29033	
+Lexington County
+29036	
+Lexington County
+29037	
+Newberry County
+29038	
+Orangeburg County
+29039	
+Orangeburg County
+29040	
+Sumter County
+29041	
+Clarendon County
+29042	
+Bamberg County
+29044	
+Richland County
+29045	
+Kershaw County
+29046	
+Lee County
+29047	
+Orangeburg County
+29048	
+Orangeburg County
+29051	
+Sumter County
+29052	
+Richland County
+29053	
+Lexington County
+29054	
+Lexington County
+29055	
+Chester County
+29056	
+Williamsburg County
+29058	
+Lancaster County
+29059	
+Orangeburg County
+29061	
+Richland County
+29062	
+Sumter County
+29063	
+Richland County
+29065	
+Fairfield County
+29067	
+Lancaster County
+29069	
+Darlington County
+29070	
+Lexington County
+29071	
+Lexington County
+29072	
+Lexington County
+29073	
+Lexington County
+29074	
+Kershaw County
+29075	
+Newberry County
+29078	
+Kershaw County
+29079	
+Darlington County
+29080	
+Lee County
+29081	
+Bamberg County
+29082	
+Colleton County
+29101	
+Chesterfield County
+29102	
+Clarendon County
+29104	
+Sumter County
+29105	
+Aiken County
+29107	
+Orangeburg County
+29108	
+Newberry County
+29111	
+Clarendon County
+29112	
+Orangeburg County
+29113	
+Orangeburg County
+29114	
+Florence County
+29115	
+Orangeburg County
+29116	
+Orangeburg County
+29117	
+Orangeburg County
+29118	
+Orangeburg County
+29122	
+Newberry County
+29123	
+Lexington County
+29125	
+Sumter County
+29126	
+Newberry County
+29127	
+Newberry County
+29128	
+Sumter County
+29129	
+Aiken County
+29130	
+Fairfield County
+29132	
+Fairfield County
+29133	
+Orangeburg County
+29135	
+Calhoun County
+29137	
+Aiken County
+29138	
+Saluda County
+29142	
+Orangeburg County
+29143	
+Clarendon County
+29145	
+Newberry County
+29146	
+Orangeburg County
+29147	
+Richland County
+29148	
+Clarendon County
+29150	
+Sumter County
+29151	
+Sumter County
+29152	
+Sumter County
+29153	
+Sumter County
+29154	
+Sumter County
+29160	
+Lexington County
+29161	
+Florence County
+29162	
+Clarendon County
+29163	
+Orangeburg County
+29164	
+Aiken County
+29166	
+Saluda County
+29168	
+Sumter County
+29169	
+Lexington County
+29170	
+Lexington County
+29171	
+Lexington County
+29172	
+Lexington County
+29175	
+Kershaw County
+29177	
+Richland County
+29178	
+Newberry County
+29180	
+Fairfield County
+29201	
+Richland County
+29202	
+Richland County
+29203	
+Richland County
+29204	
+Richland County
+29205	
+Richland County
+29206	
+Richland County
+29207	
+Richland County
+29208	
+Richland County
+29209	
+Richland County
+29210	
+Richland County
+29211	
+Richland County
+29212	
+Lexington County
+29214	
+Richland County
+29215	
+Richland County
+29216	
+Richland County
+29217	
+Richland County
+29218	
+Richland County
+29219	
+Richland County
+29220	
+Richland County
+29221	
+Richland County
+29222	
+Richland County
+29223	
+Richland County
+29224	
+Richland County
+29225	
+Richland County
+29226	
+Richland County
+29227	
+Richland County
+29228	
+Richland County
+29229	
+Richland County
+29230	
+Richland County
+29240	
+Richland County
+29250	
+Richland County
+29260	
+Richland County
+29290	
+Richland County
+29292	
+Richland County
+29301	
+Spartanburg County
+29302	
+Spartanburg County
+29303	
+Spartanburg County
+29304	
+Spartanburg County
+29305	
+Spartanburg County
+29306	
+Spartanburg County
+29307	
+Spartanburg County
+29316	
+Spartanburg County
+29318	
+Spartanburg County
+29319	
+Spartanburg County
+29320	
+Spartanburg County
+29321	
+Union County
+29322	
+Spartanburg County
+29323	
+Spartanburg County
+29324	
+Spartanburg County
+29325	
+Laurens County
+29329	
+Spartanburg County
+29330	
+Spartanburg County
+29331	
+Spartanburg County
+29332	
+Laurens County
+29333	
+Spartanburg County
+29334	
+Spartanburg County
+29335	
+Spartanburg County
+29336	
+Spartanburg County
+29338	
+Spartanburg County
+29340	
+Cherokee County
+29341	
+Cherokee County
+29342	
+Cherokee County
+29346	
+Spartanburg County
+29348	
+Spartanburg County
+29349	
+Spartanburg County
+29351	
+Laurens County
+29353	
+Union County
+29355	
+Laurens County
+29356	
+Spartanburg County
+29360	
+Laurens County
+29364	
+Union County
+29365	
+Spartanburg County
+29368	
+Spartanburg County
+29369	
+Spartanburg County
+29370	
+Laurens County
+29372	
+Spartanburg County
+29373	
+Spartanburg County
+29374	
+Spartanburg County
+29375	
+Spartanburg County
+29376	
+Spartanburg County
+29377	
+Spartanburg County
+29378	
+Spartanburg County
+29379	
+Union County
+29384	
+Laurens County
+29385	
+Spartanburg County
+29386	
+Spartanburg County
+29388	
+Spartanburg County
+29390	
+Spartanburg County
+29391	
+Spartanburg County
+29395	
+Union County
+29401	
+Charleston County
+29402	
+Charleston County
+29403	
+Charleston County
+29404	
+Charleston County
+29405	
+Charleston County
+29406	
+Charleston County
+29407	
+Charleston County
+29409	
+Charleston County
+29410	
+Berkeley County
+29412	
+Charleston County
+29413	
+Charleston County
+29414	
+Charleston County
+29415	
+Charleston County
+29416	
+Charleston County
+29417	
+Charleston County
+29418	
+Charleston County
+29419	
+Charleston County
+29420	
+Dorchester County
+29422	
+Charleston County
+29423	
+Charleston County
+29424	
+Charleston County
+29425	
+Charleston County
+29426	
+Charleston County
+29429	
+Charleston County
+29430	
+Berkeley County
+29431	
+Berkeley County
+29432	
+Orangeburg County
+29433	
+Colleton County
+29434	
+Berkeley County
+29435	
+Colleton County
+29436	
+Berkeley County
+29437	
+Dorchester County
+29438	
+Charleston County
+29439	
+Charleston County
+29440	
+Georgetown County
+29442	
+Georgetown County
+29445	
+Berkeley County
+29446	
+Colleton County
+29447	
+Dorchester County
+29448	
+Dorchester County
+29449	
+Charleston County
+29450	
+Berkeley County
+29451	
+Charleston County
+29452	
+Colleton County
+29453	
+Berkeley County
+29455	
+Charleston County
+29456	
+Dorchester County
+29457	
+Charleston County
+29458	
+Charleston County
+29461	
+Berkeley County
+29464	
+Charleston County
+29465	
+Charleston County
+29466	
+Charleston County
+29468	
+Berkeley County
+29469	
+Berkeley County
+29470	
+Charleston County
+29471	
+Dorchester County
+29472	
+Dorchester County
+29474	
+Colleton County
+29475	
+Colleton County
+29476	
+Berkeley County
+29477	
+Dorchester County
+29479	
+Berkeley County
+29481	
+Colleton County
+29482	
+Charleston County
+29483	
+Dorchester County
+29484	
+Dorchester County
+29485	
+Dorchester County
+29486	
+Berkeley County
+29487	
+Charleston County
+29488	
+Colleton County
+29492	
+Berkeley County
+29493	
+Colleton County
+29501	
+Florence County
+29502	
+Florence County
+29503	
+Florence County
+29504	
+Florence County
+29505	
+Florence County
+29506	
+Florence County
+29510	
+Georgetown County
+29511	
+Horry County
+29512	
+Marlboro County
+29516	
+Marlboro County
+29518	
+Williamsburg County
+29519	
+Marion County
+29520	
+Chesterfield County
+29525	
+Marlboro County
+29526	
+Horry County
+29527	
+Horry County
+29528	
+Horry County
+29530	
+Florence County
+29532	
+Darlington County
+29536	
+Dillon County
+29540	
+Darlington County
+29541	
+Florence County
+29543	
+Dillon County
+29544	
+Horry County
+29545	
+Horry County
+29546	
+Marion County
+29547	
+Dillon County
+29550	
+Darlington County
+29551	
+Darlington County
+29554	
+Williamsburg County
+29555	
+Florence County
+29556	
+Williamsburg County
+29560	
+Florence County
+29563	
+Dillon County
+29564	
+Williamsburg County
+29565	
+Dillon County
+29566	
+Horry County
+29567	
+Dillon County
+29568	
+Horry County
+29569	
+Horry County
+29570	
+Marlboro County
+29571	
+Marion County
+29572	
+Horry County
+29573	
+Dillon County
+29574	
+Marion County
+29575	
+Horry County
+29576	
+Horry County
+29577	
+Horry County
+29578	
+Horry County
+29579	
+Horry County
+29580	
+Williamsburg County
+29581	
+Horry County
+29582	
+Horry County
+29583	
+Florence County
+29584	
+Chesterfield County
+29585	
+Georgetown County
+29587	
+Horry County
+29588	
+Horry County
+29589	
+Marion County
+29590	
+Williamsburg County
+29591	
+Florence County
+29592	
+Dillon County
+29593	
+Darlington County
+29594	
+Marlboro County
+29596	
+Marlboro County
+29597	
+Horry County
+29598	
+Horry County
+29601	
+Greenville County
+29602	
+Greenville County
+29603	
+Greenville County
+29604	
+Greenville County
+29605	
+Greenville County
+29606	
+Greenville County
+29607	
+Greenville County
+29608	
+Greenville County
+29609	
+Greenville County
+29610	
+Greenville County
+29611	
+Greenville County
+29612	
+Greenville County
+29613	
+Greenville County
+29614	
+Greenville County
+29615	
+Greenville County
+29616	
+Greenville County
+29617	
+Greenville County
+29620	
+Abbeville County
+29621	
+Anderson County
+29622	
+Anderson County
+29623	
+Anderson County
+29624	
+Anderson County
+29625	
+Anderson County
+29626	
+Anderson County
+29627	
+Anderson County
+29628	
+Abbeville County
+29630	
+Pickens County
+29631	
+Pickens County
+29632	
+Pickens County
+29633	
+Pickens County
+29634	
+Pickens County
+29635	
+Greenville County
+29636	
+Greenville County
+29638	
+Abbeville County
+29639	
+Abbeville County
+29640	
+Pickens County
+29641	
+Pickens County
+29642	
+Pickens County
+29643	
+Oconee County
+29644	
+Greenville County
+29645	
+Laurens County
+29646	
+Greenwood County
+29647	
+Greenwood County
+29648	
+Greenwood County
+29649	
+Greenwood County
+29650	
+Greenville County
+29651	
+Greenville County
+29652	
+Spartanburg County
+29653	
+Greenwood County
+29654	
+Anderson County
+29655	
+Anderson County
+29656	
+Anderson County
+29657	
+Pickens County
+29658	
+Oconee County
+29659	
+Abbeville County
+29661	
+Greenville County
+29662	
+Greenville County
+29664	
+Oconee County
+29665	
+Oconee County
+29666	
+Greenwood County
+29667	
+Pickens County
+29669	
+Anderson County
+29670	
+Anderson County
+29671	
+Pickens County
+29672	
+Oconee County
+29673	
+Greenville County
+29675	
+Oconee County
+29676	
+Oconee County
+29677	
+Anderson County
+29678	
+Oconee County
+29679	
+Oconee County
+29680	
+Greenville County
+29681	
+Greenville County
+29682	
+Pickens County
+29683	
+Greenville County
+29684	
+Anderson County
+29685	
+Pickens County
+29686	
+Oconee County
+29687	
+Greenville County
+29688	
+Greenville County
+29689	
+Anderson County
+29690	
+Greenville County
+29691	
+Oconee County
+29692	
+Laurens County
+29693	
+Oconee County
+29695	
+Greenwood County
+29696	
+Oconee County
+29697	
+Anderson County
+29698	
+Greenville County
+29702	
+Cherokee County
+29703	
+York County
+29704	
+York County
+29706	
+Chester County
+29707	
+Lancaster County
+29708	
+York County
+29709	
+Chesterfield County
+29710	
+York County
+29712	
+Chester County
+29714	
+Chester County
+29715	
+York County
+29716	
+York County
+29717	
+York County
+29718	
+Chesterfield County
+29720	
+Lancaster County
+29721	
+Lancaster County
+29722	
+Lancaster County
+29724	
+Chester County
+29726	
+York County
+29727	
+Chesterfield County
+29728	
+Chesterfield County
+29729	
+Chester County
+29730	
+York County
+29731	
+York County
+29732	
+York County
+29733	
+York County
+29734	
+York County
+29741	
+Chesterfield County
+29742	
+York County
+29743	
+York County
+29744	
+Lancaster County
+29745	
+York County
+29801	
+Aiken County
+29802	
+Aiken County
+29803	
+Aiken County
+29804	
+Aiken County
+29805	
+Aiken County
+29808	
+Aiken County
+29809	
+Aiken County
+29810	
+Allendale County
+29812	
+Barnwell County
+29813	
+Barnwell County
+29816	
+Aiken County
+29817	
+Barnwell County
+29819	
+Greenwood County
+29821	
+McCormick County
+29822	
+Aiken County
+29824	
+Edgefield County
+29826	
+Barnwell County
+29827	
+Allendale County
+29828	
+Aiken County
+29829	
+Aiken County
+29831	
+Aiken County
+29832	
+Edgefield County
+29834	
+Aiken County
+29835	
+McCormick County
+29836	
+Allendale County
+29838	
+Edgefield County
+29839	
+Aiken County
+29840	
+McCormick County
+29841	
+Aiken County
+29842	
+Aiken County
+29843	
+Bamberg County
+29844	
+McCormick County
+29845	
+McCormick County
+29846	
+Allendale County
+29847	
+Edgefield County
+29848	
+Greenwood County
+29849	
+Allendale County
+29850	
+Aiken County
+29851	
+Aiken County
+29853	
+Barnwell County
+29856	
+Aiken County
+29860	
+Edgefield County
+29861	
+Aiken County
+29899	
+McCormick County
+29901	
+Beaufort County
+29902	
+Beaufort County
+29903	
+Beaufort County
+29904	
+Beaufort County
+29905	
+Beaufort County
+29906	
+Beaufort County
+29907	
+Beaufort County
+29909	
+Beaufort County
+29910	
+Beaufort County
+29911	
+Hampton County
+29912	
+Jasper County
+29913	
+Hampton County
+29914	
+Beaufort County
+29915	
+Beaufort County
+29916	
+Hampton County
+29918	
+Hampton County
+29920	
+Beaufort County
+29921	
+Hampton County
+29922	
+Hampton County
+29923	
+Hampton County
+29924	
+Hampton County
+29925	
+Beaufort County
+29926	
+Beaufort County
+29927	
+Jasper County
+29928	
+Beaufort County
+29929	
+Colleton County
+29931	
+Beaufort County
+29932	
+Hampton County
+29933	
+Hampton County
+29934	
+Jasper County
+29935	
+Beaufort County
+29936	
+Jasper County
+29938	
+Beaufort County
+29939	
+Hampton County
+29940	
+Beaufort County
+29941	
+Beaufort County
+29943	
+Jasper County
+29944	
+Hampton County
+29945	
+Hampton County
+77057
+15666
+07014
+42758
+20705
+38104
+60062
+30034
+16117
+91362
+15489
+44062
+06095
+43050
+92109
+15063
+06414
+15712
+33625
+94568
+11590
+75025
+77081
+19468
+33713
+15146
+12849

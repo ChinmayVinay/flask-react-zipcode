@@ -1,0 +1,882 @@
+County
+87001	
+Sandoval County
+87002	
+Valencia County
+87004	
+Sandoval County
+87005	
+Cibola County
+87006	
+Socorro County
+87007	
+Cibola County
+87008	
+Bernalillo County
+87009	
+Torrance County
+87010	
+Santa Fe County
+87011	
+Lincoln County
+87012	
+Rio Arriba County
+87013	
+Sandoval County
+87014	
+Cibola County
+87015	
+Santa Fe County
+87016	
+Torrance County
+87017	
+Rio Arriba County
+87018	
+Sandoval County
+87020	
+Cibola County
+87021	
+Cibola County
+87022	
+Bernalillo County
+87023	
+Valencia County
+87024	
+Sandoval County
+87025	
+Sandoval County
+87026	
+Valencia County
+87027	
+Sandoval County
+87028	
+Socorro County
+87029	
+Rio Arriba County
+87031	
+Valencia County
+87032	
+Torrance County
+87034	
+Cibola County
+87035	
+Torrance County
+87036	
+Torrance County
+87037	
+San Juan County
+87038	
+Cibola County
+87040	
+Cibola County
+87041	
+Sandoval County
+87042	
+Valencia County
+87043	
+Sandoval County
+87044	
+Sandoval County
+87045	
+McKinley County
+87046	
+Sandoval County
+87047	
+Bernalillo County
+87048	
+Sandoval County
+87049	
+Cibola County
+87051	
+Cibola County
+87052	
+Sandoval County
+87053	
+Sandoval County
+87056	
+Santa Fe County
+87059	
+Bernalillo County
+87060	
+Valencia County
+87061	
+Torrance County
+87062	
+Socorro County
+87063	
+Torrance County
+87064	
+Rio Arriba County
+87068	
+Valencia County
+87070	
+Torrance County
+87072	
+Sandoval County
+87083	
+Sandoval County
+87101	
+Bernalillo County
+87102	
+Bernalillo County
+87103	
+Bernalillo County
+87104	
+Bernalillo County
+87105	
+Bernalillo County
+87106	
+Bernalillo County
+87107	
+Bernalillo County
+87108	
+Bernalillo County
+87109	
+Bernalillo County
+87110	
+Bernalillo County
+87111	
+Bernalillo County
+87112	
+Bernalillo County
+87113	
+Bernalillo County
+87114	
+Bernalillo County
+87115	
+Bernalillo County
+87116	
+Bernalillo County
+87117	
+Bernalillo County
+87119	
+Bernalillo County
+87120	
+Bernalillo County
+87121	
+Bernalillo County
+87122	
+Bernalillo County
+87123	
+Bernalillo County
+87124	
+Sandoval County
+87125	
+Bernalillo County
+87131	
+Bernalillo County
+87144	
+Sandoval County
+87151	
+Bernalillo County
+87153	
+Bernalillo County
+87154	
+Bernalillo County
+87158	
+Bernalillo County
+87165	
+Bernalillo County
+87174	
+Sandoval County
+87176	
+Bernalillo County
+87181	
+Bernalillo County
+87184	
+Bernalillo County
+87185	
+Bernalillo County
+87187	
+Bernalillo County
+87190	
+Bernalillo County
+87191	
+Bernalillo County
+87192	
+Bernalillo County
+87193	
+Bernalillo County
+87194	
+Bernalillo County
+87195	
+Bernalillo County
+87196	
+Bernalillo County
+87197	
+Bernalillo County
+87198	
+Bernalillo County
+87199	
+Bernalillo County
+87301	
+McKinley County
+87302	
+Mckinley County
+87305	
+McKinley County
+87310	
+McKinley County
+87311	
+McKinley County
+87312	
+McKinley County
+87313	
+McKinley County
+87315	
+Cibola County
+87316	
+McKinley County
+87317	
+McKinley County
+87319	
+McKinley County
+87320	
+McKinley County
+87321	
+McKinley County
+87322	
+McKinley County
+87323	
+McKinley County
+87325	
+McKinley County
+87326	
+McKinley County
+87327	
+Cibola County
+87328	
+McKinley County
+87347	
+McKinley County
+87357	
+Cibola County
+87364	
+San Juan County
+87365	
+McKinley County
+87375	
+McKinley County
+87401	
+San Juan County
+87402	
+San Juan County
+87410	
+San Juan County
+87412	
+San Juan County
+87413	
+San Juan County
+87415	
+San Juan County
+87416	
+San Juan County
+87417	
+San Juan County
+87418	
+San Juan County
+87419	
+San Juan County
+87420	
+San Juan County
+87421	
+San Juan County
+87455	
+San Juan County
+87461	
+San Juan County
+87499	
+San Juan County
+87501	
+Santa Fe County
+87502	
+Santa Fe County
+87503	
+Santa Fe County
+87504	
+Santa Fe County
+87505	
+Santa Fe County
+87506	
+Santa Fe County
+87507	
+Santa Fe County
+87508	
+Santa Fe County
+87509	
+Santa Fe County
+87510	
+Rio Arriba County
+87511	
+Rio Arriba County
+87512	
+Taos County
+87513	
+Taos County
+87514	
+Taos County
+87515	
+Rio Arriba County
+87516	
+Rio Arriba County
+87517	
+Taos County
+87518	
+Rio Arriba County
+87519	
+Taos County
+87520	
+Rio Arriba County
+87521	
+Taos County
+87522	
+Rio Arriba County
+87523	
+Rio Arriba County
+87524	
+Taos County
+87525	
+Taos County
+87527	
+Rio Arriba County
+87528	
+Rio Arriba County
+87529	
+Taos County
+87530	
+Rio Arriba County
+87531	
+Rio Arriba County
+87532	
+Santa Fe County
+87533	
+Rio Arriba County
+87535	
+Santa Fe County
+87537	
+Rio Arriba County
+87538	
+San Miguel County
+87539	
+Rio Arriba County
+87540	
+Santa Fe County
+87543	
+Taos County
+87544	
+Los Alamos County
+87545	
+Los Alamos County
+87547	
+87548	
+Rio Arriba County
+87549	
+Rio Arriba County
+87551	
+Rio Arriba County
+87552	
+San Miguel County
+87553	
+Taos County
+87554	
+Rio Arriba County
+87556	
+Taos County
+87557	
+Taos County
+87558	
+Taos County
+87560	
+San Miguel County
+87562	
+San Miguel County
+87564	
+Taos County
+87565	
+San Miguel County
+87566	
+Rio Arriba County
+87567	
+Santa Fe County
+87569	
+San Miguel County
+87571	
+Taos County
+87573	
+San Miguel County
+87574	
+Santa Fe County
+87575	
+Rio Arriba County
+87576	
+Taos County
+87577	
+Taos County
+87578	
+Rio Arriba County
+87579	
+Taos County
+87580	
+Taos County
+87581	
+Rio Arriba County
+87582	
+Rio Arriba County
+87583	
+San Miguel County
+87592	
+Santa Fe County
+87594	
+Santa Fe County
+87654	
+87701	
+San Miguel County
+87710	
+Colfax County
+87711	
+Guadalupe County
+87712	
+Mora County
+87713	
+Mora County
+87714	
+Colfax County
+87715	
+Mora County
+87718	
+Colfax County
+87722	
+Mora County
+87723	
+Mora County
+87724	
+Guadalupe County
+87728	
+Colfax County
+87729	
+Colfax County
+87730	
+Harding County
+87731	
+San Miguel County
+87732	
+Mora County
+87733	
+Harding County
+87734	
+Mora County
+87735	
+Mora County
+87736	
+Mora County
+87740	
+Colfax County
+87742	
+San Miguel County
+87743	
+Harding County
+87745	
+San Miguel County
+87746	
+San Miguel County
+87747	
+Colfax County
+87749	
+Colfax County
+87750	
+Mora County
+87752	
+Mora County
+87753	
+Mora County
+87801	
+Socorro County
+87820	
+Catron County
+87821	
+Catron County
+87823	
+Socorro County
+87824	
+Catron County
+87825	
+Socorro County
+87827	
+Catron County
+87828	
+Socorro County
+87829	
+Catron County
+87830	
+Catron County
+87831	
+Socorro County
+87832	
+Socorro County
+87901	
+Sierra County
+87930	
+Sierra County
+87931	
+Sierra County
+87933	
+Sierra County
+87935	
+Sierra County
+87936	
+Do�a Ana County
+87937	
+Do�a Ana County
+87939	
+Sierra County
+87940	
+Do�a Ana County
+87941	
+Do�a Ana County
+87942	
+Sierra County
+87943	
+Sierra County
+88001	
+Do�a Ana County
+88002	
+Do�a Ana County
+88003	
+Do�a Ana County
+88004	
+Do�a Ana County
+88005	
+Do�a Ana County
+88006	
+Doña Ana County
+88007	
+Do�a Ana County
+88008	
+Do�a Ana County
+88009	
+Hidalgo County
+88011	
+Do�a Ana County
+88012	
+Do�a Ana County
+88013	
+Doña Ana County
+88020	
+Hidalgo County
+88021	
+Do�a Ana County
+88022	
+Grant County
+88023	
+Grant County
+88024	
+Do�a Ana County
+88025	
+Grant County
+88026	
+Grant County
+88027	
+Do�a Ana County
+88028	
+Grant County
+88029	
+Luna County
+88030	
+Luna County
+88031	
+Luna County
+88032	
+Do�a Ana County
+88033	
+Do�a Ana County
+88034	
+Grant County
+88036	
+Grant County
+88038	
+Grant County
+88039	
+Catron County
+88040	
+Grant County
+88041	
+Grant County
+88042	
+Sierra County
+88043	
+Grant County
+88044	
+Do�a Ana County
+88045	
+Hidalgo County
+88046	
+Do�a Ana County
+88047	
+Do�a Ana County
+88048	
+Do�a Ana County
+88049	
+Grant County
+88051	
+Grant County
+88052	
+Do�a Ana County
+88053	
+Grant County
+88054	
+Dona Ana County
+88055	
+Grant County
+88056	
+Hidalgo County
+88058	
+Dona Ana County
+88061	
+Grant County
+88062	
+Grant County
+88063	
+Do�a Ana County
+88065	
+Grant County
+88072	
+Do�a Ana County
+88081	
+Otero County
+88101	
+Curry County
+88102	
+Curry County
+88103	
+Curry County
+88112	
+Curry County
+88113	
+Roosevelt County
+88114	
+Lea County
+88115	
+Roosevelt County
+88116	
+Roosevelt County
+88118	
+Roosevelt County
+88119	
+De Baca County
+88120	
+Curry County
+88121	
+Quay County
+88122	
+Roosevelt County
+88123	
+Roosevelt County
+88124	
+Curry County
+88125	
+Roosevelt County
+88126	
+Roosevelt County
+88130	
+Roosevelt County
+88132	
+Roosevelt County
+88133	
+Curry County
+88134	
+De Baca County
+88135	
+Curry County
+88136	
+De Baca County
+88201	
+Chaves County
+88202	
+Chaves County
+88203	
+Chaves County
+88210	
+Eddy County
+88211	
+Eddy County
+88213	
+Lea County
+88220	
+Eddy County
+88221	
+Eddy County
+88230	
+Chaves County
+88231	
+Lea County
+88232	
+Chaves County
+88240	
+Lea County
+88241	
+Lea County
+88242	
+Lea County
+88244	
+Lea County
+88250	
+Eddy County
+88252	
+Lea County
+88253	
+Chaves County
+88254	
+Eddy County
+88255	
+Eddy County
+88256	
+Eddy County
+88260	
+Lea County
+88262	
+Lea County
+88263	
+Eddy County
+88264	
+Lea County
+88265	
+Lea County
+88267	
+Lea County
+88268	
+Eddy County
+88301	
+Lincoln County
+88310	
+Otero County
+88311	
+Otero County
+88312	
+Lincoln County
+88314	
+Otero County
+88316	
+Lincoln County
+88317	
+Otero County
+88318	
+Lincoln County
+88321	
+Torrance County
+88323	
+Lincoln County
+88324	
+Lincoln County
+88325	
+Otero County
+88330	
+Otero County
+88336	
+Lincoln County
+88337	
+Otero County
+88338	
+Lincoln County
+88339	
+Otero County
+88340	
+Otero County
+88341	
+Lincoln County
+88342	
+Otero County
+88343	
+Lincoln County
+88344	
+Otero County
+88345	
+Lincoln County
+88346	
+Lincoln County
+88347	
+Otero County
+88348	
+Lincoln County
+88349	
+Otero County
+88350	
+Otero County
+88351	
+Lincoln County
+88352	
+Otero County
+88353	
+Guadalupe County
+88354	
+Otero County
+88355	
+Lincoln County
+88401	
+Quay County
+88410	
+Union County
+88411	
+Quay County
+88414	
+Union County
+88415	
+Union County
+88416	
+San Miguel County
+88417	
+Guadalupe County
+88418	
+Union County
+88419	
+Union County
+88421	
+San Miguel County
+88422	
+Union County
+88424	
+Union County
+88426	
+Quay County
+88427	
+Quay County
+88430	
+Quay County
+88431	
+Guadalupe County
+88433	
+Quay County
+88434	
+Quay County
+88435	
+Guadalupe County
+88436	
+Union County
+88439	
+San Miguel County
+10314
+33442
+20678
+22304
+43110
+10004
+37379
+10031
+89054
+94566
+92570
+35601
+10022
+28040
+94123
+94403
+91403
+12189
+37683
+33952
+23188
+28202
+33155
+32277
+44410
+84645
+11234

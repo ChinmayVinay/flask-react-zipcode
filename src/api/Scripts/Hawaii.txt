@@ -1,0 +1,306 @@
+County
+96701	
+Honolulu County
+96703	
+Kauai County
+96704	
+Hawaii County
+96705	
+Kauai County
+96706	
+Honolulu County
+96707	
+Honolulu County
+96708	
+Maui County
+96709	
+Honolulu County
+96710	
+Hawaii County
+96712	
+Honolulu County
+96713	
+Maui County
+96714	
+Kauai County
+96715	
+Kauai County
+96716	
+Kauai County
+96717	
+Honolulu County
+96718	
+Hawaii County
+96719	
+Hawaii County
+96720	
+Hawaii County
+96721	
+Hawaii County
+96722	
+Kauai County
+96725	
+Hawaii County
+96726	
+Hawaii County
+96727	
+Hawaii County
+96728	
+Hawaii County
+96729	
+Maui County
+96730	
+Honolulu County
+96731	
+Honolulu County
+96732	
+Maui County
+96733	
+Maui County
+96734	
+Honolulu County
+96737	
+Hawaii County
+96738	
+Hawaii County
+96739	
+Hawaii County
+96740	
+Hawaii County
+96741	
+Kauai County
+96742	
+Kalawao County
+96743	
+Hawaii County
+96744	
+Honolulu County
+96745	
+Hawaii County
+96746	
+Kauai County
+96747	
+Kauai County
+96748	
+Maui County
+96749	
+Hawaii County
+96750	
+Hawaii County
+96751	
+Kauai County
+96752	
+Kauai County
+96753	
+Maui County
+96754	
+Kauai County
+96755	
+Hawaii County
+96756	
+Kauai County
+96757	
+Maui County
+96759	
+Honolulu County
+96760	
+Hawaii County
+96761	
+Maui County
+96762	
+Honolulu County
+96763	
+Maui County
+96764	
+Hawaii County
+96765	
+Kauai County
+96766	
+Kauai County
+96767	
+Maui County
+96768	
+Maui County
+96769	
+Kauai County
+96770	
+Maui County
+96771	
+Hawaii County
+96772	
+Hawaii County
+96773	
+Hawaii County
+96774	
+Hawaii County
+96776	
+Hawaii County
+96777	
+Hawaii County
+96778	
+Hawaii County
+96779	
+Maui County
+96780	
+Hawaii County
+96781	
+Hawaii County
+96782	
+Honolulu County
+96783	
+Hawaii County
+96784	
+Maui County
+96785	
+Hawaii County
+96786	
+Honolulu County
+96788	
+Maui County
+96789	
+Honolulu County
+96790	
+Maui County
+96791	
+Honolulu County
+96792	
+Honolulu County
+96793	
+Maui County
+96795	
+Honolulu County
+96796	
+Kauai County
+96797	
+Honolulu County
+96801	
+Honolulu County
+96802	
+Honolulu County
+96803	
+Honolulu County
+96804	
+Honolulu County
+96805	
+Honolulu County
+96806	
+Honolulu County
+96807	
+Honolulu County
+96808	
+Honolulu County
+96809	
+Honolulu County
+96810	
+Honolulu County
+96811	
+Honolulu County
+96812	
+Honolulu County
+96813	
+Honolulu County
+96814	
+Honolulu County
+96815	
+Honolulu County
+96816	
+Honolulu County
+96817	
+Honolulu County
+96818	
+Honolulu County
+96819	
+Honolulu County
+96820	
+Honolulu County
+96821	
+Honolulu County
+96822	
+Honolulu County
+96823	
+Honolulu County
+96824	
+Honolulu County
+96825	
+Honolulu County
+96826	
+Honolulu County
+96827	
+Honolulu County
+96828	
+Honolulu County
+96830	
+Honolulu County
+96835	
+Honolulu County
+96836	
+Honolulu County
+96837	
+Honolulu County
+96838	
+Honolulu County
+96839	
+Honolulu County
+96840	
+Honolulu County
+96841	
+Honolulu County
+96843	
+Honolulu County
+96844	
+Honolulu County
+96846	
+Honolulu County
+96847	
+Honolulu County
+96848	
+Honolulu County
+96849	
+Honolulu County
+96850	
+Honolulu County
+96853	
+Honolulu County
+96854	
+Honolulu County
+96857	
+Honolulu County
+96858	
+Honolulu County
+96859	
+Honolulu County
+96860	
+Honolulu County
+96861	
+Honolulu County
+96863	
+Honolulu County
+96898	
+Honolulu County
+55068
+80631
+16510
+23188
+49971
+18419
+18452
+50119
+79761
+48001
+56278
+28574
+07057
+17967
+47104
+30075
+35801
+95571
+95681
+95120
+27545
+11231
+43230
+72774
+24934
+64112
+27801

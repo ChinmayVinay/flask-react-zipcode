@@ -1,0 +1,1677 @@
+35004	
+St. Clair County
+35005	
+Jefferson County
+35006	
+Jefferson County
+35007	
+Shelby County
+35010	
+Tallapoosa County
+35011	
+Tallapoosa County
+35013	
+Blount County
+35014	
+Talladega County
+35015	
+Jefferson County
+35016	
+Marshall County
+35019	
+Cullman County
+35020	
+Jefferson County
+35021	
+Jefferson County
+35022	
+Jefferson County
+35023	
+Jefferson County
+35031	
+Blount County
+35032	
+Talladega County
+35033	
+Cullman County
+35034	
+Bibb County
+35035	
+Bibb County
+35036	
+Jefferson County
+35038	
+Walker County
+35040	
+Shelby County
+35041	
+Jefferson County
+35042	
+Bibb County
+35043	
+Shelby County
+35044	
+Talladega County
+35045	
+Chilton County
+35046	
+Chilton County
+35048	
+Jefferson County
+35049	
+Blount County
+35051	
+Shelby County
+35052	
+St. Clair County
+35053	
+Cullman County
+35054	
+St. Clair County
+35055	
+Cullman County
+35056	
+Cullman County
+35057	
+Cullman County
+35058	
+Cullman County
+35060	
+Jefferson County
+35061	
+Jefferson County
+35062	
+Jefferson County
+35063	
+Walker County
+35064	
+Jefferson County
+35068	
+Jefferson County
+35070	
+Cullman County
+35071	
+Jefferson County
+35072	
+Coosa County
+35073	
+Jefferson County
+35074	
+Bibb County
+35077	
+Cullman County
+35078	
+Shelby County
+35079	
+Blount County
+35080	
+Shelby County
+35082	
+Clay County
+35083	
+Cullman County
+35085	
+Chilton County
+35087	
+Cullman County
+35089	
+Coosa County
+35091	
+Jefferson County
+35094	
+Jefferson County
+35096	
+Talladega County
+35097	
+Blount County
+35098	
+Cullman County
+35111	
+Tuscaloosa County
+35112	
+St. Clair County
+35114	
+Shelby County
+35115	
+Shelby County
+35116	
+Jefferson County
+35117	
+Jefferson County
+35118	
+Jefferson County
+35119	
+Jefferson County
+35120	
+St. Clair County
+35121	
+Blount County
+35123	
+Jefferson County
+35124	
+Shelby County
+35125	
+St. Clair County
+35126	
+Jefferson County
+35127	
+Jefferson County
+35128	
+St. Clair County
+35130	
+Walker County
+35131	
+St. Clair County
+35133	
+Blount County
+35135	
+St. Clair County
+35136	
+Coosa County
+35137	
+Shelby County
+35139	
+Jefferson County
+35142	
+Jefferson County
+35143	
+Shelby County
+35144	
+Shelby County
+35146	
+St. Clair County
+35147	
+Shelby County
+35148	
+Walker County
+35149	
+Talladega County
+35150	
+Talladega County
+35151	
+Talladega County
+35160	
+Talladega County
+35161	
+Talladega County
+35171	
+Chilton County
+35172	
+Blount County
+35173	
+Jefferson County
+35175	
+Marshall County
+35176	
+Shelby County
+35178	
+Shelby County
+35179	
+Cullman County
+35180	
+Jefferson County
+35181	
+Jefferson County
+35182	
+St Clair County
+35183	
+Coosa County
+35184	
+Bibb County
+35185	
+Shelby County
+35186	
+Shelby County
+35187	
+Shelby County
+35188	
+Bibb County
+35201	
+Jefferson County
+35202	
+Jefferson County
+35203	
+Jefferson County
+35204	
+Jefferson County
+35205	
+Jefferson County
+35206	
+Jefferson County
+35207	
+Jefferson County
+35208	
+Jefferson County
+35209	
+Jefferson County
+35210	
+Jefferson County
+35211	
+Jefferson County
+35212	
+Jefferson County
+35213	
+Jefferson County
+35214	
+Jefferson County
+35215	
+Jefferson County
+35216	
+Jefferson County
+35217	
+Jefferson County
+35218	
+Jefferson County
+35219	
+Jefferson County
+35220	
+Jefferson County
+35221	
+Jefferson County
+35222	
+Jefferson County
+35223	
+Jefferson County
+35224	
+Jefferson County
+35225	
+Jefferson County
+35226	
+Jefferson County
+35228	
+Jefferson County
+35229	
+Jefferson County
+35230	
+Jefferson County
+35231	
+Jefferson County
+35232	
+Jefferson County
+35233	
+Jefferson County
+35234	
+Jefferson County
+35235	
+Jefferson County
+35236	
+Jefferson County
+35237	
+Jefferson County
+35238	
+Jefferson County
+35240	
+Jefferson County
+35242	
+Shelby County
+35243	
+Jefferson County
+35244	
+Jefferson County
+35245	
+Jefferson County
+35246	
+Jefferson County
+35249	
+Jefferson County
+35253	
+Jefferson County
+35254	
+Jefferson County
+35255	
+Jefferson County
+35259	
+Jefferson County
+35260	
+Jefferson County
+35261	
+Jefferson County
+35263	
+Jefferson County
+35266	
+Jefferson County
+35270	
+35277	
+Jefferson County
+35278	
+Jefferson County
+35279	
+Jefferson County
+35280	
+Jefferson County
+35281	
+Jefferson County
+35282	
+Jefferson County
+35283	
+Jefferson County
+35285	
+Jefferson County
+35286	
+Jefferson County
+35287	
+Jefferson County
+35288	
+Jefferson County
+35289	
+Jefferson County
+35290	
+Jefferson County
+35291	
+Jefferson County
+35292	
+Jefferson County
+35293	
+Jefferson County
+35294	
+Jefferson County
+35295	
+Jefferson County
+35296	
+Jefferson County
+35297	
+Jefferson County
+35298	
+Jefferson County
+35299	
+Jefferson County
+35401	
+Tuscaloosa County
+35402	
+Tuscaloosa County
+35403	
+Tuscaloosa County
+35404	
+Tuscaloosa County
+35405	
+Tuscaloosa County
+35406	
+Tuscaloosa County
+35407	
+Tuscaloosa County
+35440	
+Tuscaloosa County
+35441	
+Hale County
+35442	
+Pickens County
+35443	
+Greene County
+35444	
+Tuscaloosa County
+35446	
+Tuscaloosa County
+35447	
+Pickens County
+35448	
+Greene County
+35449	
+Tuscaloosa County
+35452	
+Tuscaloosa County
+35453	
+Tuscaloosa County
+35456	
+Tuscaloosa County
+35457	
+Tuscaloosa County
+35458	
+Tuscaloosa County
+35459	
+Sumter County
+35460	
+Sumter County
+35461	
+Pickens County
+35462	
+Greene County
+35463	
+Tuscaloosa County
+35464	
+Sumter County
+35466	
+Pickens County
+35468	
+Tuscaloosa County
+35469	
+Greene County
+35470	
+Sumter County
+35471	
+Pickens County
+35473	
+Tuscaloosa County
+35474	
+Hale County
+35475	
+Tuscaloosa County
+35476	
+Tuscaloosa County
+35477	
+Sumter County
+35478	
+Tuscaloosa County
+35480	
+Tuscaloosa County
+35481	
+Pickens County
+35482	
+Tuscaloosa County
+35485	
+Tuscaloosa County
+35486	
+Tuscaloosa County
+35487	
+Tuscaloosa County
+35490	
+Tuscaloosa County
+35491	
+Greene County
+35501	
+Walker County
+35502	
+Walker County
+35503	
+Walker County
+35504	
+Walker County
+35540	
+Winston County
+35541	
+Winston County
+35542	
+Fayette County
+35543	
+Marion County
+35544	
+Lamar County
+35545	
+Fayette County
+35546	
+Fayette County
+35548	
+Marion County
+35549	
+Walker County
+35550	
+Walker County
+35551	
+Winston County
+35552	
+Lamar County
+35553	
+Winston County
+35554	
+Fayette County
+35555	
+Fayette County
+35559	
+Fayette County
+35560	
+Walker County
+35563	
+Marion County
+35564	
+Marion County
+35565	
+Winston County
+35570	
+Marion County
+35571	
+Franklin County
+35572	
+Winston County
+35573	
+Walker County
+35574	
+Lamar County
+35575	
+Winston County
+35576	
+Lamar County
+35577	
+Winston County
+35578	
+Walker County
+35579	
+Walker County
+35580	
+Walker County
+35581	
+Franklin County
+35582	
+Franklin County
+35584	
+Walker County
+35585	
+Franklin County
+35586	
+Lamar County
+35587	
+Walker County
+35592	
+Lamar County
+35593	
+Franklin County
+35594	
+Marion County
+35601	
+Morgan County
+35602	
+Morgan County
+35603	
+Morgan County
+35609	
+Morgan County
+35610	
+Lauderdale County
+35611	
+Limestone County
+35612	
+Limestone County
+35613	
+Limestone County
+35614	
+Limestone County
+35615	
+Limestone County
+35616	
+Colbert County
+35617	
+Lauderdale County
+35618	
+Lawrence County
+35619	
+Morgan County
+35620	
+Limestone County
+35621	
+Morgan County
+35622	
+Morgan County
+35630	
+Lauderdale County
+35631	
+Lauderdale County
+35632	
+Lauderdale County
+35633	
+Lauderdale County
+35634	
+Lauderdale County
+35640	
+Morgan County
+35643	
+Lawrence County
+35645	
+Lauderdale County
+35646	
+Colbert County
+35647	
+Limestone County
+35648	
+Lauderdale County
+35649	
+Limestone County
+35650	
+Lawrence County
+35651	
+Lawrence County
+35652	
+Lauderdale County
+35653	
+Franklin County
+35654	
+Franklin County
+35660	
+Colbert County
+35661	
+Colbert County
+35662	
+Colbert County
+35670	
+Morgan County
+35671	
+Limestone County
+35672	
+Lawrence County
+35673	
+Morgan County
+35674	
+Colbert County
+35677	
+Lauderdale County
+35699	
+Morgan County
+35739	
+Limestone County
+35740	
+Jackson County
+35741	
+Madison County
+35742	
+Limestone County
+35744	
+Jackson County
+35745	
+Jackson County
+35746	
+Jackson County
+35747	
+Marshall County
+35748	
+Madison County
+35749	
+Madison County
+35750	
+Madison County
+35751	
+Jackson County
+35752	
+Jackson County
+35754	
+Morgan County
+35755	
+Marshall County
+35756	
+Limestone County
+35757	
+Madison County
+35758	
+Madison County
+35759	
+Madison County
+35760	
+Madison County
+35761	
+Madison County
+35762	
+Madison County
+35763	
+Madison County
+35764	
+Jackson County
+35765	
+Jackson County
+35766	
+Jackson County
+35767	
+Madison County
+35768	
+Jackson County
+35769	
+Jackson County
+35771	
+Jackson County
+35772	
+Jackson County
+35773	
+Madison County
+35774	
+Jackson County
+35775	
+Morgan County
+35776	
+Jackson County
+35801	
+Madison County
+35802	
+Madison County
+35803	
+Madison County
+35804	
+Madison County
+35805	
+Madison County
+35806	
+Madison County
+35807	
+Madison County
+35808	
+Madison County
+35809	
+Madison County
+35810	
+Madison County
+35811	
+Madison County
+35812	
+Madison County
+35813	
+Madison County
+35814	
+Madison County
+35815	
+Madison County
+35816	
+Madison County
+35824	
+Madison County
+35893	
+Madison County
+35894	
+Madison County
+35895	
+Madison County
+35896	
+Madison County
+35897	
+Madison County
+35898	
+Madison County
+35899	
+Madison County
+35901	
+Etowah County
+35902	
+Etowah County
+35903	
+Etowah County
+35904	
+Etowah County
+35905	
+Etowah County
+35906	
+Etowah County
+35907	
+Etowah County
+35950	
+Marshall County
+35951	
+Marshall County
+35952	
+Etowah County
+35953	
+St. Clair County
+35954	
+Etowah County
+35956	
+Etowah County
+35957	
+Marshall County
+35958	
+Jackson County
+35959	
+Cherokee County
+35960	
+Cherokee County
+35961	
+DeKalb County
+35962	
+DeKalb County
+35963	
+DeKalb County
+35964	
+Marshall County
+35966	
+Jackson County
+35967	
+DeKalb County
+35968	
+DeKalb County
+35971	
+DeKalb County
+35972	
+Etowah County
+35973	
+Cherokee County
+35974	
+DeKalb County
+35975	
+DeKalb County
+35976	
+Marshall County
+35978	
+DeKalb County
+35979	
+DeKalb County
+35980	
+Marshall County
+35981	
+DeKalb County
+35983	
+Cherokee County
+35984	
+DeKalb County
+35986	
+DeKalb County
+35987	
+St. Clair County
+35988	
+DeKalb County
+35989	
+DeKalb County
+35990	
+Etowah County
+36003	
+Autauga County
+36005	
+Pike County
+36006	
+Autauga County
+36008	
+Autauga County
+36009	
+Crenshaw County
+36010	
+Pike County
+36013	
+Montgomery County
+36015	
+Butler County
+36016	
+Barbour County
+36017	
+Barbour County
+36020	
+Elmore County
+36022	
+Elmore County
+36023	
+Tallapoosa County
+36024	
+Elmore County
+36025	
+Elmore County
+36026	
+Coosa County
+36027	
+Barbour County
+36028	
+Covington County
+36029	
+Bullock County
+36030	
+Butler County
+36031	
+Macon County
+36032	
+Lowndes County
+36033	
+Butler County
+36034	
+Pike County
+36035	
+Pike County
+36036	
+Montgomery County
+36037	
+Butler County
+36038	
+Covington County
+36039	
+Macon County
+36040	
+Lowndes County
+36041	
+Crenshaw County
+36042	
+Crenshaw County
+36043	
+Montgomery County
+36045	
+Elmore County
+36046	
+Crenshaw County
+36047	
+Lowndes County
+36048	
+Barbour County
+36049	
+Crenshaw County
+36051	
+Autauga County
+36052	
+Montgomery County
+36053	
+Bullock County
+36054	
+Elmore County
+36057	
+Montgomery County
+36061	
+Bullock County
+36062	
+Crenshaw County
+36064	
+Montgomery County
+36065	
+Montgomery County
+36066	
+Autauga County
+36067	
+Autauga County
+36068	
+Autauga County
+36069	
+Montgomery County
+36071	
+Crenshaw County
+36072	
+Barbour County
+36075	
+Macon County
+36078	
+Elmore County
+36079	
+Pike County
+36080	
+Elmore County
+36081	
+Pike County
+36082	
+Pike County
+36083	
+Macon County
+36087	
+Macon County
+36088	
+Macon County
+36089	
+Bullock County
+36091	
+Chilton County
+36092	
+Elmore County
+36093	
+Elmore County
+36101	
+Montgomery County
+36102	
+Montgomery County
+36103	
+Montgomery County
+36104	
+Montgomery County
+36105	
+Montgomery County
+36106	
+Montgomery County
+36107	
+Montgomery County
+36108	
+Montgomery County
+36109	
+Montgomery County
+36110	
+Montgomery County
+36111	
+Montgomery County
+36112	
+Montgomery County
+36113	
+Montgomery County
+36114	
+Montgomery County
+36115	
+Montgomery County
+36116	
+Montgomery County
+36117	
+Montgomery County
+36118	
+Montgomery County
+36119	
+Montgomery County
+36120	
+Montgomery County
+36121	
+Montgomery County
+36123	
+Montgomery County
+36124	
+Montgomery County
+36125	
+Montgomery County
+36130	
+Montgomery County
+36131	
+Montgomery County
+36132	
+Montgomery County
+36133	
+Montgomery County
+36134	
+Montgomery County
+36135	
+Montgomery County
+36140	
+Montgomery County
+36141	
+Montgomery County
+36142	
+Montgomery County
+36177	
+Montgomery County
+36191	
+Montgomery County
+36201	
+Calhoun County
+36202	
+Calhoun County
+36203	
+Calhoun County
+36204	
+Calhoun County
+36205	
+Calhoun County
+36206	
+Calhoun County
+36207	
+Calhoun County
+36210	
+Calhoun County
+36250	
+Calhoun County
+36251	
+Clay County
+36253	
+Calhoun County
+36254	
+Calhoun County
+36255	
+Clay County
+36256	
+Tallapoosa County
+36257	
+Calhoun County
+36258	
+Clay County
+36260	
+Calhoun County
+36261	
+Cleburne County
+36262	
+Cleburne County
+36263	
+Randolph County
+36264	
+Cleburne County
+36265	
+Calhoun County
+36266	
+Clay County
+36267	
+Clay County
+36268	
+Talladega County
+36269	
+Cleburne County
+36271	
+Calhoun County
+36272	
+Calhoun County
+36273	
+Cleburne County
+36274	
+Randolph County
+36275	
+Cherokee County
+36276	
+Randolph County
+36277	
+Calhoun County
+36278	
+Randolph County
+36279	
+Calhoun County
+36280	
+Randolph County
+36301	
+Houston County
+36302	
+Houston County
+36303	
+Houston County
+36304	
+Houston County
+36305	
+Houston County
+36310	
+Henry County
+36311	
+Dale County
+36312	
+Houston County
+36313	
+Geneva County
+36314	
+Geneva County
+36316	
+Geneva County
+36317	
+Henry County
+36318	
+Geneva County
+36319	
+Houston County
+36320	
+Houston County
+36321	
+Houston County
+36322	
+Dale County
+36323	
+Coffee County
+36330	
+Coffee County
+36331	
+Coffee County
+36340	
+Geneva County
+36343	
+Houston County
+36344	
+Geneva County
+36345	
+Henry County
+36346	
+Coffee County
+36349	
+Geneva County
+36350	
+Dale County
+36351	
+Coffee County
+36352	
+Houston County
+36353	
+Henry County
+36360	
+Dale County
+36361	
+Dale County
+36362	
+Dale County
+36370	
+Houston County
+36371	
+Dale County
+36373	
+Henry County
+36374	
+Dale County
+36375	
+Geneva County
+36376	
+Houston County
+36401	
+Conecuh County
+36420	
+Covington County
+36421	
+Covington County
+36425	
+Monroe County
+36426	
+Escambia County
+36427	
+Escambia County
+36429	
+Conecuh County
+36432	
+Conecuh County
+36435	
+Wilcox County
+36436	
+Clarke County
+36439	
+Monroe County
+36441	
+Escambia County
+36442	
+Covington County
+36444	
+Monroe County
+36445	
+Monroe County
+36446	
+Clarke County
+36449	
+Monroe County
+36451	
+Clarke County
+36453	
+Covington County
+36454	
+Conecuh County
+36455	
+Covington County
+36456	
+Butler County
+36457	
+Monroe County
+36458	
+Monroe County
+36460	
+Monroe County
+36461	
+Monroe County
+36462	
+Monroe County
+36467	
+Covington County
+36470	
+Monroe County
+36471	
+Monroe County
+36473	
+Conecuh County
+36474	
+Covington County
+36475	
+Conecuh County
+36476	
+Covington County
+36477	
+Geneva County
+36480	
+Monroe County
+36481	
+Monroe County
+36482	
+Clarke County
+36483	
+Covington County
+36501	
+Clarke County
+36502	
+Escambia County
+36503	
+Escambia County
+36504	
+Escambia County
+36505	
+Mobile County
+36507	
+Baldwin County
+36509	
+Mobile County
+36511	
+Baldwin County
+36512	
+Mobile County
+36513	
+Washington County
+36515	
+Clarke County
+36518	
+Washington County
+36521	
+Mobile County
+36522	
+Mobile County
+36523	
+Mobile County
+36524	
+Clarke County
+36525	
+Mobile County
+36526	
+Baldwin County
+36527	
+Baldwin County
+36528	
+Mobile County
+36529	
+Washington County
+36530	
+Baldwin County
+36532	
+Baldwin County
+36533	
+Baldwin County
+36535	
+Baldwin County
+36536	
+Baldwin County
+36538	
+Washington County
+36539	
+Washington County
+36540	
+Clarke County
+36541	
+Mobile County
+36542	
+Baldwin County
+36543	
+Escambia County
+36544	
+Mobile County
+36545	
+Clarke County
+36547	
+Baldwin County
+36548	
+Washington County
+36549	
+Baldwin County
+36550	
+Baldwin County
+36551	
+Baldwin County
+36553	
+Washington County
+36555	
+Baldwin County
+36556	
+Washington County
+36558	
+Washington County
+36559	
+Baldwin County
+36560	
+Mobile County
+36561	
+Baldwin County
+36562	
+Baldwin County
+36564	
+Baldwin County
+36567	
+Baldwin County
+36568	
+Mobile County
+36569	
+Washington County
+36571	
+Mobile County
+36572	
+Mobile County
+36574	
+Baldwin County
+36575	
+Mobile County
+36576	
+Baldwin County
+36577	
+Baldwin County
+36578	
+Baldwin County
+36579	
+Baldwin County
+36580	
+Baldwin County
+36581	
+Washington County
+36582	
+Mobile County
+36583	
+Washington County
+36584	
+Washington County
+36585	
+Washington County
+36587	
+Mobile County
+36590	
+Mobile County
+36601	
+Mobile County
+36602	
+Mobile County
+36603	
+Mobile County
+36604	
+Mobile County
+36605	
+Mobile County
+36606	
+Mobile County
+36607	
+Mobile County
+36608	
+Mobile County
+36609	
+Mobile County
+36610	
+Mobile County
+36611	
+Mobile County
+36612	
+Mobile County
+36613	
+Mobile County
+36615	
+Mobile County
+36616	
+Mobile County
+36617	
+Mobile County
+36618	
+Mobile County
+36619	
+Mobile County
+36621	
+Mobile County
+36622	
+Mobile County
+36625	
+Mobile County
+36628	
+Mobile County
+36630	
+Mobile County
+36633	
+Mobile County
+36640	
+Mobile County
+36641	
+Mobile County
+36644	
+Mobile County
+36652	
+Mobile County
+36660	
+Mobile County
+36663	
+Mobile County
+36670	
+Mobile County
+36671	
+Mobile County
+36675	
+Mobile County
+36685	
+Mobile County
+36688	
+Mobile County
+36689	
+Mobile County
+36690	
+Mobile County
+36691	
+Mobile County
+36693	
+Mobile County
+36695	
+Mobile County
+36701	
+Dallas County
+36702	
+Dallas County
+36703	
+Dallas County
+36720	
+Wilcox County
+36721	
+Wilcox County
+36722	
+Wilcox County
+36723	
+Wilcox County
+36726	
+Wilcox County
+36727	
+Clarke County
+36728	
+Wilcox County
+36732	
+Marengo County
+36736	
+Marengo County
+36738	
+Marengo County
+36740	
+Greene County
+36741	
+Wilcox County
+36742	
+Marengo County
+36744	
+Hale County
+36745	
+Marengo County
+36748	
+Marengo County
+36749	
+Autauga County
+36750	
+Chilton County
+36751	
+Monroe County
+36752	
+Lowndes County
+36753	
+Monroe County
+36754	
+Marengo County
+36756	
+Perry County
+36758	
+Dallas County
+36759	
+Dallas County
+36761	
+Dallas County
+36762	
+Clarke County
+36763	
+Marengo County
+36764	
+Marengo County
+36765	
+Hale County
+36766	
+Wilcox County
+36767	
+Dallas County
+36768	
+Wilcox County
+36769	
+Wilcox County
+36773	
+Dallas County
+36775	
+Dallas County
+36776	
+Hale County
+36782	
+Marengo County
+36783	
+Marengo County
+36784	
+Clarke County
+36785	
+Lowndes County
+36786	
+Perry County
+36790	
+Chilton County
+36792	
+Bibb County
+36793	
+Bibb County
+36801	
+Lee County
+36802	
+Lee County
+36803	
+Lee County
+36804	
+Lee County
+36830	
+Lee County
+36831	
+Lee County
+36832	
+Lee County
+36849	
+Lee County
+36850	
+Tallapoosa County
+36851	
+Russell County
+36852	
+Lee County
+36853	
+Tallapoosa County
+36854	
+Chambers County
+36855	
+Chambers County
+36856	
+Russell County
+36858	
+Russell County
+36859	
+Russell County
+36860	
+Russell County
+36861	
+Tallapoosa County
+36862	
+Chambers County
+36863	
+Chambers County
+36865	
+Lee County
+36866	
+Macon County
+36867	
+Russell County
+36868	
+Russell County
+36869	
+Russell County
+36870	
+Lee County
+36871	
+Russell County
+36872	
+Chambers County
+36874	
+Lee County
+36875	
+Russell County
+36877	
+Lee County
+36879	
+Lee County
+36901	
+Sumter County
+36904	
+Choctaw County
+36907	
+Sumter County
+36908	
+Choctaw County
+36910	
+Choctaw County
+36912	
+Choctaw County
+36913	
+Choctaw County
+36915	
+Choctaw County
+36916	
+Choctaw County
+36919	
+Choctaw County
+36921	
+Choctaw County
+36922	
+Choctaw County
+36925	
+Sumter County

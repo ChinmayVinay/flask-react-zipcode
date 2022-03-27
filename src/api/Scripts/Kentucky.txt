@@ -1,0 +1,1956 @@
+County
+40003	
+Shelby County
+40004	
+Nelson County
+40006	
+Trimble County
+40007	
+Henry County
+40008	
+Nelson County
+40009	
+Marion County
+40010	
+Oldham County
+40011	
+Henry County
+40012	
+Nelson County
+40013	
+Nelson County
+40014	
+Oldham County
+40018	
+Jefferson County
+40019	
+Henry County
+40020	
+Nelson County
+40022	
+Shelby County
+40023	
+Jefferson County
+40025	
+Jefferson County
+40026	
+Oldham County
+40027	
+Jefferson County
+40031	
+Oldham County
+40032	
+Oldham County
+40033	
+Marion County
+40036	
+Henry County
+40037	
+Marion County
+40040	
+Washington County
+40041	
+Jefferson County
+40045	
+Trimble County
+40046	
+Spencer County
+40047	
+Bullitt County
+40048	
+Nelson County
+40049	
+Marion County
+40050	
+Henry County
+40051	
+Nelson County
+40052	
+Nelson County
+40055	
+Henry County
+40056	
+Oldham County
+40057	
+Henry County
+40058	
+Henry County
+40059	
+Jefferson County
+40060	
+Marion County
+40061	
+Washington County
+40062	
+Marion County
+40063	
+Marion County
+40065	
+Shelby County
+40066	
+Shelby County
+40067	
+Shelby County
+40068	
+Henry County
+40069	
+Washington County
+40070	
+Henry County
+40071	
+Spencer County
+40075	
+Henry County
+40076	
+Shelby County
+40077	
+Oldham County
+40078	
+Washington County
+40104	
+Meade County
+40107	
+Nelson County
+40108	
+Meade County
+40109	
+Bullitt County
+40110	
+Bullitt County
+40111	
+Breckinridge County
+40115	
+Breckinridge County
+40117	
+Meade County
+40118	
+Jefferson County
+40119	
+Grayson County
+40121	
+Hardin County
+40122	
+Hardin County
+40129	
+Bullitt County
+40140	
+Breckinridge County
+40142	
+Meade County
+40143	
+Breckinridge County
+40144	
+Breckinridge County
+40145	
+Breckinridge County
+40146	
+Breckinridge County
+40150	
+Bullitt County
+40152	
+Breckinridge County
+40153	
+Breckinridge County
+40155	
+Meade County
+40157	
+Meade County
+40159	
+Hardin County
+40160	
+Hardin County
+40161	
+Meade County
+40162	
+Hardin County
+40165	
+Bullitt County
+40166	
+40170	
+Breckinridge County
+40171	
+Breckinridge County
+40175	
+Hardin County
+40176	
+Breckinridge County
+40177	
+Hardin County
+40178	
+Breckinridge County
+40201	
+Jefferson County
+40202	
+Jefferson County
+40203	
+Jefferson County
+40204	
+Jefferson County
+40205	
+Jefferson County
+40206	
+Jefferson County
+40207	
+Jefferson County
+40208	
+Jefferson County
+40209	
+Jefferson County
+40210	
+Jefferson County
+40211	
+Jefferson County
+40212	
+Jefferson County
+40213	
+Jefferson County
+40214	
+Jefferson County
+40215	
+Jefferson County
+40216	
+Jefferson County
+40217	
+Jefferson County
+40218	
+Jefferson County
+40219	
+Jefferson County
+40220	
+Jefferson County
+40221	
+Jefferson County
+40222	
+Jefferson County
+40223	
+Jefferson County
+40224	
+Jefferson County
+40225	
+Jefferson County
+40228	
+Jefferson County
+40229	
+Jefferson County
+40231	
+Jefferson County
+40232	
+Jefferson County
+40233	
+Jefferson County
+40241	
+Jefferson County
+40242	
+Jefferson County
+40243	
+Jefferson County
+40245	
+Jefferson County
+40250	
+Jefferson County
+40251	
+Jefferson County
+40252	
+Jefferson County
+40253	
+Jefferson County
+40255	
+Jefferson County
+40256	
+Jefferson County
+40257	
+Jefferson County
+40258	
+Jefferson County
+40259	
+Jefferson County
+40261	
+Jefferson County
+40266	
+Jefferson County
+40268	
+Jefferson County
+40269	
+Jefferson County
+40270	
+Jefferson County
+40272	
+Jefferson County
+40280	
+Jefferson County
+40281	
+Jefferson County
+40282	
+Jefferson County
+40283	
+Jefferson County
+40285	
+Jefferson County
+40287	
+Jefferson County
+40289	
+Jefferson County
+40290	
+Jefferson County
+40291	
+Jefferson County
+40292	
+Jefferson County
+40293	
+Jefferson County
+40294	
+Jefferson County
+40295	
+Jefferson County
+40296	
+Jefferson County
+40297	
+Jefferson County
+40298	
+Jefferson County
+40299	
+Jefferson County
+40310	
+Mercer County
+40311	
+Nicholas County
+40312	
+Powell County
+40313	
+Rowan County
+40316	
+Menifee County
+40317	
+Rowan County
+40319	
+Rowan County
+40322	
+Menifee County
+40324	
+Scott County
+40328	
+Marion County
+40330	
+Mercer County
+40334	
+Montgomery County
+40336	
+Estill County
+40337	
+Montgomery County
+40339	
+Jessamine County
+40340	
+Jessamine County
+40342	
+Anderson County
+40346	
+Menifee County
+40347	
+Woodford County
+40348	
+Bourbon County
+40350	
+Nicholas County
+40351	
+Rowan County
+40353	
+Montgomery County
+40355	
+Owen County
+40356	
+Jessamine County
+40357	
+Bourbon County
+40358	
+Bath County
+40359	
+Owen County
+40360	
+Bath County
+40361	
+Bourbon County
+40362	
+Bourbon County
+40363	
+Owen County
+40366	
+Bath County
+40370	
+Scott County
+40371	
+Bath County
+40372	
+Mercer County
+40374	
+Bath County
+40376	
+Powell County
+40379	
+Scott County
+40380	
+Powell County
+40383	
+Woodford County
+40384	
+Woodford County
+40385	
+Madison County
+40386	
+Woodford County
+40387	
+Menifee County
+40390	
+Jessamine County
+40391	
+Clark County
+40392	
+Clark County
+40402	
+Jackson County
+40403	
+Madison County
+40404	
+Madison County
+40405	
+Jackson County
+40409	
+Rockcastle County
+40410	
+Garrard County
+40419	
+Lincoln County
+40422	
+Boyle County
+40423	
+Boyle County
+40434	
+Jackson County
+40437	
+Lincoln County
+40440	
+Boyle County
+40442	
+Lincoln County
+40444	
+Garrard County
+40445	
+Rockcastle County
+40446	
+Garrard County
+40447	
+Jackson County
+40448	
+Lincoln County
+40452	
+Boyle County
+40456	
+Rockcastle County
+40460	
+Rockcastle County
+40461	
+Madison County
+40464	
+Boyle County
+40468	
+Boyle County
+40472	
+Estill County
+40473	
+Rockcastle County
+40475	
+Madison County
+40476	
+Madison County
+40481	
+Jackson County
+40484	
+Lincoln County
+40486	
+Jackson County
+40488	
+Jackson County
+40489	
+Lincoln County
+40492	
+Rockcastle County
+40495	
+Estill County
+40502	
+Fayette County
+40503	
+Fayette County
+40504	
+Fayette County
+40505	
+Fayette County
+40506	
+Fayette County
+40507	
+Fayette County
+40508	
+Fayette County
+40509	
+Fayette County
+40510	
+Fayette County
+40511	
+Fayette County
+40512	
+Fayette County
+40513	
+Fayette County
+40514	
+Fayette County
+40515	
+Fayette County
+40516	
+Fayette County
+40517	
+Fayette County
+40522	
+Fayette County
+40523	
+Fayette County
+40524	
+Fayette County
+40526	
+Fayette County
+40533	
+Fayette County
+40536	
+Fayette County
+40544	
+Fayette County
+40546	
+Fayette County
+40550	
+Fayette County
+40555	
+Fayette County
+40574	
+Fayette County
+40575	
+Fayette County
+40576	
+Fayette County
+40577	
+Fayette County
+40578	
+Fayette County
+40579	
+Fayette County
+40580	
+Fayette County
+40581	
+Fayette County
+40582	
+Fayette County
+40583	
+Fayette County
+40588	
+Fayette County
+40591	
+Fayette County
+40598	
+Fayette County
+40601	
+Franklin County
+40602	
+Franklin County
+40603	
+Franklin County
+40604	
+Franklin County
+40618	
+Franklin County
+40619	
+Franklin County
+40620	
+Franklin County
+40621	
+Franklin County
+40622	
+Franklin County
+40701	
+Whitley County
+40702	
+Whitley County
+40724	
+Laurel County
+40729	
+Laurel County
+40730	
+Whitley County
+40734	
+Knox County
+40737	
+Laurel County
+40740	
+Laurel County
+40741	
+Laurel County
+40742	
+Laurel County
+40743	
+Laurel County
+40744	
+Laurel County
+40745	
+Laurel County
+40750	
+40754	
+Whitley County
+40755	
+Laurel County
+40759	
+Whitley County
+40763	
+Whitley County
+40769	
+Whitley County
+40771	
+Knox County
+40801	
+Harlan County
+40803	
+Leslie County
+40806	
+Harlan County
+40807	
+Harlan County
+40808	
+Harlan County
+40810	
+Harlan County
+40813	
+Bell County
+40815	
+Harlan County
+40816	
+Leslie County
+40818	
+Harlan County
+40819	
+Harlan County
+40820	
+Harlan County
+40823	
+Harlan County
+40824	
+Harlan County
+40826	
+Letcher County
+40827	
+Leslie County
+40828	
+Harlan County
+40829	
+Harlan County
+40830	
+Harlan County
+40831	
+Harlan County
+40840	
+Leslie County
+40843	
+Harlan County
+40844	
+Leslie County
+40845	
+Bell County
+40847	
+Harlan County
+40849	
+Harlan County
+40854	
+Harlan County
+40855	
+Harlan County
+40856	
+Bell County
+40858	
+Leslie County
+40862	
+Letcher County
+40863	
+Harlan County
+40865	
+Harlan County
+40868	
+Leslie County
+40870	
+Harlan County
+40873	
+Harlan County
+40874	
+Leslie County
+40902	
+Bell County
+40903	
+Knox County
+40906	
+Knox County
+40913	
+Clay County
+40914	
+Clay County
+40915	
+Knox County
+40921	
+Knox County
+40923	
+Knox County
+40927	
+Harlan County
+40930	
+Knox County
+40931	
+Clay County
+40932	
+Clay County
+40935	
+Knox County
+40939	
+Bell County
+40940	
+Whitley County
+40941	
+Clay County
+40943	
+Knox County
+40944	
+Clay County
+40946	
+Knox County
+40949	
+Knox County
+40951	
+Clay County
+40953	
+Knox County
+40955	
+Bell County
+40958	
+Bell County
+40962	
+Clay County
+40964	
+Harlan County
+40965	
+Bell County
+40972	
+Clay County
+40977	
+Bell County
+40979	
+Leslie County
+40981	
+Perry County
+40982	
+Knox County
+40983	
+Clay County
+40988	
+Bell County
+40995	
+Knox County
+40997	
+Knox County
+40999	
+Knox County
+41001	
+Campbell County
+41002	
+Bracken County
+41003	
+Harrison County
+41004	
+Bracken County
+41005	
+Boone County
+41006	
+Pendleton County
+41007	
+Campbell County
+41008	
+Carroll County
+41010	
+Grant County
+41011	
+Kenton County
+41012	
+Kenton County
+41014	
+Kenton County
+41015	
+Kenton County
+41016	
+Kenton County
+41017	
+Kenton County
+41018	
+Kenton County
+41019	
+Kenton County
+41021	
+41022	
+Boone County
+41025	
+41030	
+Grant County
+41031	
+Harrison County
+41033	
+Pendleton County
+41034	
+Mason County
+41035	
+Grant County
+41037	
+Fleming County
+41039	
+Fleming County
+41040	
+Pendleton County
+41041	
+Fleming County
+41042	
+Boone County
+41043	
+Bracken County
+41044	
+Bracken County
+41045	
+Carroll County
+41046	
+Gallatin County
+41048	
+Boone County
+41049	
+Fleming County
+41051	
+Kenton County
+41052	
+Grant County
+41053	
+Kenton County
+41054	
+Grant County
+41055	
+Mason County
+41056	
+Mason County
+41059	
+Campbell County
+41061	
+Bracken County
+41062	
+Mason County
+41063	
+Kenton County
+41064	
+Robertson County
+41065	
+Fleming County
+41071	
+Campbell County
+41072	
+Campbell County
+41073	
+Campbell County
+41074	
+Campbell County
+41075	
+Campbell County
+41076	
+Campbell County
+41080	
+Boone County
+41081	
+Fleming County
+41083	
+Carroll County
+41085	
+Campbell County
+41086	
+Gallatin County
+41091	
+Boone County
+41092	
+Boone County
+41093	
+Fleming County
+41094	
+Boone County
+41095	
+Gallatin County
+41096	
+Mason County
+41097	
+Grant County
+41098	
+Owen County
+41099	
+Campbell County
+41101	
+Boyd County
+41102	
+Boyd County
+41105	
+Boyd County
+41114	
+Boyd County
+41121	
+Greenup County
+41124	
+Lawrence County
+41128	
+Carter County
+41129	
+Boyd County
+41132	
+Carter County
+41135	
+Lewis County
+41139	
+Greenup County
+41141	
+Lewis County
+41142	
+Carter County
+41143	
+Carter County
+41144	
+Greenup County
+41146	
+Carter County
+41149	
+Elliott County
+41159	
+Lawrence County
+41160	
+Lawrence County
+41164	
+Carter County
+41166	
+Lewis County
+41168	
+Boyd County
+41169	
+Greenup County
+41171	
+Elliott County
+41173	
+Carter County
+41174	
+Greenup County
+41175	
+Greenup County
+41179	
+Lewis County
+41180	
+Lawrence County
+41181	
+Carter County
+41183	
+Greenup County
+41189	
+Lewis County
+41201	
+Lawrence County
+41203	
+Martin County
+41204	
+Johnson County
+41214	
+Martin County
+41216	
+Floyd County
+41219	
+Johnson County
+41222	
+Johnson County
+41224	
+Martin County
+41226	
+Johnson County
+41230	
+Lawrence County
+41231	
+Martin County
+41232	
+Lawrence County
+41234	
+Johnson County
+41238	
+Johnson County
+41240	
+Johnson County
+41250	
+Martin County
+41254	
+Johnson County
+41255	
+Johnson County
+41256	
+Johnson County
+41257	
+Johnson County
+41260	
+Johnson County
+41262	
+Martin County
+41263	
+Johnson County
+41264	
+Lawrence County
+41265	
+Johnson County
+41267	
+Martin County
+41268	
+Johnson County
+41271	
+Johnson County
+41274	
+Johnson County
+41301	
+Wolfe County
+41307	
+Lee County
+41310	
+Breathitt County
+41311	
+Lee County
+41313	
+Wolfe County
+41314	
+Owsley County
+41317	
+Breathitt County
+41332	
+Wolfe County
+41333	
+Lee County
+41338	
+Owsley County
+41339	
+Breathitt County
+41347	
+Lee County
+41348	
+Breathitt County
+41351	
+Owsley County
+41352	
+Morgan County
+41360	
+Wolfe County
+41362	
+Lee County
+41364	
+Owsley County
+41365	
+Wolfe County
+41366	
+Breathitt County
+41367	
+Perry County
+41368	
+Lee County
+41385	
+Breathitt County
+41386	
+Owsley County
+41390	
+Breathitt County
+41397	
+Lee County
+41408	
+Morgan County
+41413	
+Morgan County
+41421	
+Morgan County
+41425	
+Morgan County
+41426	
+Magoffin County
+41433	
+Magoffin County
+41451	
+Morgan County
+41459	
+Morgan County
+41464	
+Magoffin County
+41465	
+Magoffin County
+41472	
+Morgan County
+41477	
+Morgan County
+41501	
+Pike County
+41502	
+Pike County
+41503	
+Pike County
+41512	
+Pike County
+41513	
+Pike County
+41514	
+Pike County
+41517	
+Letcher County
+41519	
+Pike County
+41520	
+Pike County
+41522	
+Pike County
+41524	
+Pike County
+41526	
+Pike County
+41527	
+Pike County
+41528	
+Pike County
+41531	
+Pike County
+41534	
+Pike County
+41535	
+Pike County
+41537	
+Letcher County
+41538	
+Pike County
+41539	
+Pike County
+41540	
+Pike County
+41542	
+Pike County
+41543	
+Pike County
+41544	
+Pike County
+41547	
+Pike County
+41548	
+Pike County
+41549	
+Pike County
+41553	
+Pike County
+41554	
+Pike County
+41555	
+Pike County
+41557	
+Pike County
+41558	
+Pike County
+41559	
+Pike County
+41560	
+Pike County
+41561	
+Pike County
+41562	
+Pike County
+41563	
+Pike County
+41564	
+Pike County
+41566	
+Pike County
+41567	
+Pike County
+41568	
+Pike County
+41571	
+Pike County
+41572	
+Pike County
+41601	
+Floyd County
+41602	
+Floyd County
+41603	
+Floyd County
+41604	
+Floyd County
+41605	
+Floyd County
+41606	
+Floyd County
+41607	
+Floyd County
+41612	
+Floyd County
+41615	
+Floyd County
+41616	
+Floyd County
+41619	
+Floyd County
+41621	
+Floyd County
+41622	
+Floyd County
+41630	
+Floyd County
+41631	
+Floyd County
+41632	
+Magoffin County
+41635	
+Floyd County
+41636	
+Floyd County
+41640	
+Floyd County
+41642	
+Floyd County
+41643	
+Knott County
+41645	
+Floyd County
+41647	
+Floyd County
+41649	
+Floyd County
+41650	
+Floyd County
+41651	
+Floyd County
+41653	
+Floyd County
+41655	
+Floyd County
+41659	
+Floyd County
+41660	
+Floyd County
+41663	
+Floyd County
+41666	
+Floyd County
+41667	
+Floyd County
+41669	
+Floyd County
+41701	
+Perry County
+41702	
+Perry County
+41712	
+Perry County
+41713	
+Perry County
+41714	
+Leslie County
+41719	
+Perry County
+41721	
+Perry County
+41722	
+Perry County
+41723	
+Perry County
+41725	
+Knott County
+41727	
+Perry County
+41729	
+Perry County
+41731	
+Perry County
+41735	
+Perry County
+41736	
+Perry County
+41739	
+Perry County
+41740	
+Knott County
+41743	
+Knott County
+41745	
+Perry County
+41746	
+Perry County
+41747	
+Perry County
+41749	
+Leslie County
+41751	
+Perry County
+41754	
+Perry County
+41759	
+Knott County
+41760	
+Perry County
+41762	
+Leslie County
+41763	
+Perry County
+41764	
+Leslie County
+41766	
+Leslie County
+41772	
+Knott County
+41773	
+Perry County
+41774	
+Perry County
+41775	
+Leslie County
+41776	
+Leslie County
+41777	
+Leslie County
+41778	
+Perry County
+41804	
+Letcher County
+41810	
+Letcher County
+41812	
+Letcher County
+41815	
+Letcher County
+41817	
+Knott County
+41819	
+Letcher County
+41821	
+Letcher County
+41822	
+Knott County
+41824	
+Letcher County
+41825	
+Letcher County
+41826	
+Letcher County
+41828	
+Knott County
+41831	
+Knott County
+41832	
+Letcher County
+41833	
+Letcher County
+41834	
+Knott County
+41835	
+Letcher County
+41836	
+Knott County
+41837	
+Letcher County
+41838	
+Letcher County
+41839	
+Knott County
+41840	
+Letcher County
+41843	
+Knott County
+41844	
+Knott County
+41845	
+Letcher County
+41847	
+Knott County
+41848	
+Letcher County
+41849	
+Letcher County
+41855	
+Letcher County
+41858	
+Letcher County
+41859	
+Knott County
+41861	
+Knott County
+41862	
+Knott County
+42001	
+McCracken County
+42002	
+Mccracken County
+42003	
+McCracken County
+42020	
+Calloway County
+42021	
+Carlisle County
+42022	
+Ballard County
+42023	
+Carlisle County
+42024	
+Ballard County
+42025	
+Marshall County
+42027	
+Graves County
+42028	
+Livingston County
+42029	
+Marshall County
+42031	
+Hickman County
+42032	
+Hickman County
+42033	
+Crittenden County
+42035	
+Carlisle County
+42036	
+Calloway County
+42037	
+Crittenden County
+42038	
+Lyon County
+42039	
+Graves County
+42040	
+Graves County
+42041	
+Fulton County
+42044	
+Marshall County
+42045	
+Livingston County
+42047	
+Livingston County
+42048	
+Marshall County
+42049	
+Calloway County
+42050	
+Fulton County
+42051	
+Graves County
+42053	
+McCracken County
+42054	
+Calloway County
+42055	
+Lyon County
+42056	
+Ballard County
+42058	
+Livingston County
+42060	
+Ballard County
+42061	
+Graves County
+42063	
+Graves County
+42064	
+Crittenden County
+42066	
+Graves County
+42069	
+Graves County
+42070	
+Carlisle County
+42071	
+Calloway County
+42076	
+Calloway County
+42078	
+Livingston County
+42079	
+Graves County
+42081	
+Livingston County
+42082	
+Graves County
+42083	
+Livingston County
+42084	
+Crittenden County
+42085	
+Graves County
+42086	
+McCracken County
+42087	
+Ballard County
+42088	
+Graves County
+42101	
+Warren County
+42102	
+Warren County
+42103	
+Warren County
+42104	
+Warren County
+42120	
+Allen County
+42122	
+Warren County
+42123	
+Barren County
+42124	
+Metcalfe County
+42127	
+Barren County
+42128	
+Warren County
+42129	
+Metcalfe County
+42130	
+Barren County
+42131	
+Barren County
+42133	
+Monroe County
+42134	
+Simpson County
+42135	
+Simpson County
+42140	
+Monroe County
+42141	
+Barren County
+42142	
+Barren County
+42151	
+Monroe County
+42152	
+Barren County
+42153	
+Allen County
+42154	
+Metcalfe County
+42156	
+Barren County
+42157	
+Monroe County
+42159	
+Warren County
+42160	
+Barren County
+42163	
+Edmonson County
+42164	
+Allen County
+42166	
+Metcalfe County
+42167	
+Monroe County
+42170	
+Warren County
+42171	
+Warren County
+42201	
+Butler County
+42202	
+Logan County
+42204	
+Todd County
+42206	
+Logan County
+42207	
+Edmonson County
+42210	
+Edmonson County
+42211	
+Trigg County
+42214	
+Metcalfe County
+42215	
+Christian County
+42216	
+Todd County
+42217	
+Christian County
+42219	
+Butler County
+42220	
+Todd County
+42221	
+Todd County
+42223	
+Christian County
+42232	
+Christian County
+42234	
+Todd County
+42236	
+Christian County
+42240	
+Christian County
+42241	
+Christian County
+42252	
+Butler County
+42254	
+Christian County
+42256	
+Logan County
+42259	
+Edmonson County
+42261	
+Butler County
+42262	
+Christian County
+42265	
+Logan County
+42266	
+Christian County
+42273	
+Butler County
+42274	
+Warren County
+42275	
+Butler County
+42276	
+Logan County
+42280	
+Todd County
+42283	
+Logan County
+42285	
+Edmonson County
+42286	
+Todd County
+42287	
+Butler County
+42288	
+Butler County
+42301	
+Daviess County
+42302	
+Daviess County
+42303	
+Daviess County
+42304	
+Daviess County
+42320	
+Ohio County
+42321	
+Muhlenberg County
+42322	
+McLean County
+42323	
+Muhlenberg County
+42324	
+Muhlenberg County
+42325	
+Muhlenberg County
+42326	
+Muhlenberg County
+42327	
+McLean County
+42328	
+Ohio County
+42330	
+Muhlenberg County
+42332	
+Muhlenberg County
+42333	
+Ohio County
+42334	
+Henderson County
+42337	
+Muhlenberg County
+42338	
+Ohio County
+42339	
+Muhlenberg County
+42343	
+Ohio County
+42344	
+Muhlenberg County
+42345	
+Muhlenberg County
+42347	
+Ohio County
+42348	
+Hancock County
+42349	
+Ohio County
+42350	
+McLean County
+42351	
+Hancock County
+42352	
+McLean County
+42354	
+Ohio County
+42355	
+Daviess County
+42356	
+Daviess County
+42361	
+Ohio County
+42364	
+Hancock County
+42366	
+Daviess County
+42367	
+Muhlenberg County
+42368	
+Ohio County
+42369	
+Ohio County
+42370	
+Ohio County
+42371	
+McLean County
+42372	
+McLean County
+42374	
+Muhlenberg County
+42375	
+Daviess County
+42376	
+Daviess County
+42377	
+Daviess County
+42378	
+Daviess County
+42402	
+Henderson County
+42403	
+Webster County
+42404	
+Webster County
+42406	
+Henderson County
+42408	
+Hopkins County
+42409	
+Webster County
+42410	
+Hopkins County
+42411	
+Caldwell County
+42413	
+Hopkins County
+42419	
+Henderson County
+42420	
+Henderson County
+42431	
+Hopkins County
+42436	
+Hopkins County
+42437	
+Union County
+42440	
+Hopkins County
+42441	
+Hopkins County
+42442	
+Hopkins County
+42444	
+Webster County
+42445	
+Caldwell County
+42450	
+Webster County
+42451	
+Henderson County
+42452	
+Henderson County
+42453	
+Hopkins County
+42455	
+Webster County
+42456	
+Webster County
+42457	
+Henderson County
+42458	
+Henderson County
+42459	
+Union County
+42460	
+Union County
+42461	
+Union County
+42462	
+Union County
+42463	
+Webster County
+42464	
+Hopkins County
+42501	
+Pulaski County
+42502	
+Pulaski County
+42503	
+Pulaski County
+42516	
+Casey County
+42518	
+Pulaski County
+42519	
+Pulaski County
+42528	
+Casey County
+42533	
+Pulaski County
+42539	
+Casey County
+42541	
+Casey County
+42544	
+Pulaski County
+42553	
+Pulaski County
+42558	
+Pulaski County
+42564	
+Pulaski County
+42565	
+Casey County
+42566	
+Casey County
+42567	
+Pulaski County
+42602	
+Clinton County
+42603	
+Clinton County
+42629	
+Russell County
+42631	
+McCreary County
+42633	
+Wayne County
+42634	
+McCreary County
+42635	
+McCreary County
+42638	
+McCreary County
+42642	
+Russell County
+42647	
+McCreary County
+42649	
+McCreary County
+42653	
+McCreary County
+42701	
+Hardin County
+42702	
+Hardin County
+42712	
+Grayson County
+42713	
+Hart County
+42715	
+Adair County
+42716	
+Larue County
+42717	
+Cumberland County
+42718	
+Taylor County
+42719	
+Taylor County
+42720	
+Adair County
+42721	
+Grayson County
+42722	
+Hart County
+42724	
+Hardin County
+42726	
+Grayson County
+42728	
+Adair County
+42729	
+Hart County
+42731	
+Cumberland County
+42732	
+Hardin County
+42733	
+Taylor County
+42740	
+Hardin County
+42741	
+Adair County
+42742	
+Adair County
+42743	
+Green County
+42746	
+Hart County
+42748	
+Larue County
+42749	
+Hart County
+42753	
+Adair County
+42754	
+Grayson County
+42755	
+Grayson County
+42757	
+Hart County
+42758	
+Taylor County
+42759	
+Cumberland County
+42762	
+Grayson County
+42764	
+Green County
+42765	
+Hart County
+42776	
+Hardin County
+42782	
+Green County
+42784	
+Hardin County
+42788	
+Hardin County
+23320
+17566
+33614
+21230
+32904
+55443
+32244
+10021
+11213
+07871
+07302
+11211
+11201
+91006
+01945
+98053
+22312
+10023
+16510
+11417
+18452
+85257
+18428
+80631
+39355
+17878
+30043

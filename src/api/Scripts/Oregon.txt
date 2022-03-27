@@ -1,0 +1,1007 @@
+County
+97001	
+Wasco County
+97002	
+Marion County
+97003	
+Washington County
+97004	
+Clackamas County
+97005	
+Washington County
+97006	
+Washington County
+97007	
+Washington County
+97008	
+Washington County
+97009	
+Clackamas County
+97010	
+Multnomah County
+97011	
+Clackamas County
+97013	
+Clackamas County
+97014	
+Hood River County
+97015	
+Clackamas County
+97016	
+Columbia County
+97017	
+Clackamas County
+97018	
+Columbia County
+97019	
+Multnomah County
+97020	
+Marion County
+97021	
+Wasco County
+97022	
+Clackamas County
+97023	
+Clackamas County
+97024	
+Multnomah County
+97026	
+Marion County
+97027	
+Clackamas County
+97028	
+Clackamas County
+97029	
+Sherman County
+97030	
+Multnomah County
+97031	
+Hood River County
+97032	
+Marion County
+97033	
+Sherman County
+97034	
+Clackamas County
+97035	
+Clackamas County
+97036	
+Clackamas County
+97037	
+Wasco County
+97038	
+Clackamas County
+97039	
+Sherman County
+97040	
+Wasco County
+97041	
+Hood River County
+97042	
+Clackamas County
+97044	
+Hood River County
+97045	
+Clackamas County
+97048	
+Columbia County
+97049	
+Clackamas County
+97050	
+Sherman County
+97051	
+Columbia County
+97053	
+Columbia County
+97054	
+Columbia County
+97055	
+Clackamas County
+97056	
+Columbia County
+97057	
+Wasco County
+97058	
+Wasco County
+97060	
+Multnomah County
+97062	
+Washington County
+97063	
+Wasco County
+97064	
+Columbia County
+97065	
+Sherman County
+97067	
+Clackamas County
+97068	
+Clackamas County
+97070	
+Clackamas County
+97071	
+Marion County
+97075	
+Washington County
+97076	
+Washington County
+97077	
+Washington County
+97078	
+Washington County
+97079	
+97080	
+Multnomah County
+97086	
+Clackamas County
+97089	
+Clackamas County
+97101	
+Yamhill County
+97102	
+Clatsop County
+97103	
+Clatsop County
+97106	
+Washington County
+97107	
+Tillamook County
+97108	
+Tillamook County
+97109	
+Washington County
+97110	
+Clatsop County
+97111	
+Yamhill County
+97112	
+Tillamook County
+97113	
+Washington County
+97114	
+Yamhill County
+97115	
+Yamhill County
+97116	
+Washington County
+97117	
+Washington County
+97118	
+Tillamook County
+97119	
+Washington County
+97121	
+Clatsop County
+97122	
+Tillamook County
+97123	
+Washington County
+97124	
+Washington County
+97125	
+Washington County
+97127	
+Yamhill County
+97128	
+Yamhill County
+97129	
+97130	
+Tillamook County
+97131	
+Tillamook County
+97132	
+Yamhill County
+97133	
+Washington County
+97134	
+Tillamook County
+97135	
+Tillamook County
+97136	
+Tillamook County
+97137	
+Marion County
+97138	
+Clatsop County
+97140	
+Washington County
+97141	
+Tillamook County
+97143	
+Tillamook County
+97144	
+Washington County
+97145	
+Clatsop County
+97146	
+Clatsop County
+97147	
+Tillamook County
+97148	
+Yamhill County
+97149	
+Tillamook County
+97201	
+Multnomah County
+97202	
+Multnomah County
+97203	
+Multnomah County
+97204	
+Multnomah County
+97205	
+Multnomah County
+97206	
+Multnomah County
+97207	
+Multnomah County
+97208	
+Multnomah County
+97209	
+Multnomah County
+97210	
+Multnomah County
+97211	
+Multnomah County
+97212	
+Multnomah County
+97213	
+Multnomah County
+97214	
+Multnomah County
+97215	
+Multnomah County
+97216	
+Multnomah County
+97217	
+Multnomah County
+97218	
+Multnomah County
+97219	
+Multnomah County
+97220	
+Multnomah County
+97221	
+Multnomah County
+97222	
+Clackamas County
+97223	
+Washington County
+97224	
+Washington County
+97225	
+Washington County
+97227	
+Multnomah County
+97228	
+Multnomah County
+97229	
+Washington County
+97230	
+Multnomah County
+97231	
+Multnomah County
+97232	
+Multnomah County
+97233	
+Multnomah County
+97236	
+Multnomah County
+97238	
+Multnomah County
+97239	
+Multnomah County
+97240	
+Multnomah County
+97242	
+Multnomah County
+97250	
+97251	
+Multnomah County
+97252	
+97253	
+Multnomah County
+97254	
+Multnomah County
+97255	
+Multnomah County
+97256	
+Multnomah County
+97258	
+Multnomah County
+97259	
+Multnomah County
+97266	
+Multnomah County
+97267	
+Clackamas County
+97268	
+Multnomah County
+97269	
+Multnomah County
+97271	
+Multnomah County
+97272	
+Multnomah County
+97280	
+Multnomah County
+97281	
+Multnomah County
+97282	
+Multnomah County
+97283	
+Multnomah County
+97286	
+Multnomah County
+97290	
+Multnomah County
+97291	
+Multnomah County
+97292	
+Multnomah County
+97293	
+Multnomah County
+97294	
+Multnomah County
+97296	
+Multnomah County
+97298	
+Multnomah County
+97299	
+Multnomah County
+97301	
+Marion County
+97302	
+Marion County
+97303	
+Marion County
+97304	
+Polk County
+97305	
+Marion County
+97306	
+Marion County
+97307	
+Marion County
+97308	
+Marion County
+97309	
+Marion County
+97310	
+Marion County
+97311	
+Marion County
+97312	
+Marion County
+97313	
+Marion County
+97314	
+Marion County
+97317	
+Marion County
+97321	
+Linn County
+97322	
+Linn County
+97324	
+Benton County
+97325	
+Marion County
+97326	
+Benton County
+97327	
+Linn County
+97329	
+Linn County
+97330	
+Benton County
+97331	
+Benton County
+97333	
+Benton County
+97335	
+Linn County
+97336	
+Linn County
+97338	
+Polk County
+97339	
+Benton County
+97341	
+Lincoln County
+97342	
+Marion County
+97343	
+Lincoln County
+97344	
+Polk County
+97345	
+Linn County
+97346	
+Marion County
+97347	
+Polk County
+97348	
+Linn County
+97350	
+Marion County
+97351	
+Polk County
+97352	
+Marion County
+97355	
+Linn County
+97357	
+Lincoln County
+97358	
+Linn County
+97360	
+Linn County
+97361	
+Polk County
+97362	
+Marion County
+97364	
+Lincoln County
+97365	
+Lincoln County
+97366	
+Lincoln County
+97367	
+Lincoln County
+97368	
+Lincoln County
+97369	
+Lincoln County
+97370	
+Benton County
+97371	
+Polk County
+97372	
+Lincoln County
+97373	
+Marion County
+97374	
+Linn County
+97375	
+Marion County
+97376	
+Lincoln County
+97377	
+Linn County
+97378	
+Yamhill County
+97380	
+Lincoln County
+97381	
+Marion County
+97383	
+Marion County
+97384	
+Marion County
+97385	
+Marion County
+97386	
+Linn County
+97388	
+Lincoln County
+97389	
+Linn County
+97390	
+Lincoln County
+97391	
+Lincoln County
+97392	
+Marion County
+97394	
+Lincoln County
+97396	
+Yamhill County
+97401	
+Lane County
+97402	
+Lane County
+97403	
+Lane County
+97404	
+Lane County
+97405	
+Lane County
+97406	
+Curry County
+97407	
+Coos County
+97408	
+Lane County
+97409	
+Lane County
+97410	
+Douglas County
+97411	
+Coos County
+97412	
+Lane County
+97413	
+Lane County
+97414	
+Coos County
+97415	
+Curry County
+97416	
+Douglas County
+97417	
+Douglas County
+97419	
+Lane County
+97420	
+Coos County
+97423	
+Coos County
+97424	
+Lane County
+97425	
+Klamath County
+97426	
+Lane County
+97427	
+Lane County
+97428	
+Douglas County
+97429	
+Douglas County
+97430	
+Lane County
+97431	
+Lane County
+97432	
+Douglas County
+97434	
+Lane County
+97435	
+Douglas County
+97436	
+Douglas County
+97437	
+Lane County
+97438	
+Lane County
+97439	
+Lane County
+97440	
+Lane County
+97441	
+Douglas County
+97442	
+Douglas County
+97443	
+Douglas County
+97444	
+Curry County
+97446	
+Linn County
+97447	
+Douglas County
+97448	
+Lane County
+97449	
+Coos County
+97450	
+Curry County
+97451	
+Lane County
+97452	
+Lane County
+97453	
+Lane County
+97454	
+Lane County
+97455	
+Lane County
+97456	
+Benton County
+97457	
+Douglas County
+97458	
+Coos County
+97459	
+Coos County
+97461	
+Lane County
+97462	
+Douglas County
+97463	
+Lane County
+97464	
+Curry County
+97465	
+Curry County
+97466	
+Coos County
+97467	
+Douglas County
+97469	
+Douglas County
+97470	
+Douglas County
+97471	
+Douglas County
+97472	
+Lane County
+97473	
+Douglas County
+97475	
+97476	
+Curry County
+97477	
+Lane County
+97478	
+Lane County
+97479	
+Douglas County
+97480	
+Lane County
+97481	
+Douglas County
+97482	
+Lane County
+97484	
+Douglas County
+97486	
+Douglas County
+97487	
+Lane County
+97488	
+Lane County
+97489	
+Lane County
+97490	
+Lane County
+97491	
+Curry County
+97492	
+Lane County
+97493	
+Lane County
+97494	
+Douglas County
+97495	
+Douglas County
+97496	
+Douglas County
+97497	
+Josephine County
+97498	
+Lincoln County
+97499	
+Douglas County
+97501	
+Jackson County
+97502	
+Jackson County
+97503	
+Jackson County
+97504	
+Jackson County
+97520	
+Jackson County
+97522	
+Jackson County
+97523	
+Josephine County
+97524	
+Jackson County
+97525	
+Jackson County
+97526	
+Josephine County
+97527	
+Josephine County
+97528	
+Josephine County
+97530	
+Jackson County
+97531	
+Josephine County
+97532	
+Josephine County
+97533	
+Josephine County
+97534	
+Josephine County
+97535	
+Jackson County
+97536	
+Jackson County
+97537	
+Jackson County
+97538	
+Josephine County
+97539	
+Jackson County
+97540	
+Jackson County
+97541	
+Jackson County
+97543	
+Josephine County
+97544	
+Josephine County
+97601	
+Klamath County
+97602	
+Klamath County
+97603	
+Klamath County
+97604	
+Klamath County
+97620	
+Lake County
+97621	
+Klamath County
+97622	
+Klamath County
+97623	
+Klamath County
+97624	
+Klamath County
+97625	
+Klamath County
+97626	
+Klamath County
+97627	
+Klamath County
+97630	
+Lake County
+97632	
+Klamath County
+97633	
+Klamath County
+97634	
+Klamath County
+97635	
+Modoc County
+97636	
+Lake County
+97637	
+Lake County
+97638	
+Lake County
+97639	
+Klamath County
+97640	
+Lake County
+97641	
+Lake County
+97701	
+Deschutes County
+97702	
+Deschutes County
+97703	
+Deschutes County
+97707	
+Deschutes County
+97708	
+Deschutes County
+97709	
+Deschutes County
+97710	
+Harney County
+97711	
+Jefferson County
+97712	
+Deschutes County
+97720	
+Harney County
+97721	
+Harney County
+97722	
+Harney County
+97730	
+Jefferson County
+97731	
+Klamath County
+97732	
+Harney County
+97733	
+Klamath County
+97734	
+Jefferson County
+97735	
+Lake County
+97736	
+Harney County
+97737	
+Klamath County
+97738	
+Harney County
+97739	
+Deschutes County
+97741	
+Jefferson County
+97750	
+Wheeler County
+97751	
+Crook County
+97752	
+Crook County
+97753	
+Crook County
+97754	
+Crook County
+97756	
+Deschutes County
+97758	
+Harney County
+97759	
+Deschutes County
+97760	
+Jefferson County
+97761	
+Jefferson County
+97801	
+Umatilla County
+97810	
+Umatilla County
+97812	
+Gilliam County
+97813	
+Umatilla County
+97814	
+Baker County
+97817	
+Grant County
+97818	
+Morrow County
+97819	
+Baker County
+97820	
+Grant County
+97823	
+Gilliam County
+97824	
+Union County
+97825	
+Grant County
+97826	
+Umatilla County
+97827	
+Union County
+97828	
+Wallowa County
+97830	
+Wheeler County
+97833	
+Baker County
+97834	
+Baker County
+97835	
+Umatilla County
+97836	
+Morrow County
+97837	
+Baker County
+97838	
+Umatilla County
+97839	
+Morrow County
+97840	
+Baker County
+97841	
+Union County
+97842	
+Wallowa County
+97843	
+Morrow County
+97844	
+Morrow County
+97845	
+Grant County
+97846	
+Wallowa County
+97848	
+Grant County
+97850	
+Union County
+97856	
+Grant County
+97857	
+Wallowa County
+97859	
+Umatilla County
+97861	
+Gilliam County
+97862	
+Umatilla County
+97864	
+Grant County
+97865	
+Grant County
+97867	
+Union County
+97868	
+Umatilla County
+97869	
+Grant County
+97870	
+Baker County
+97873	
+Grant County
+97874	
+Wheeler County
+97875	
+Umatilla County
+97876	
+Union County
+97877	
+Baker County
+97880	
+Umatilla County
+97882	
+Umatilla County
+97883	
+Union County
+97884	
+Baker County
+97885	
+Wallowa County
+97886	
+Umatilla County
+97901	
+Malheur County
+97902	
+Malheur County
+97903	
+Malheur County
+97904	
+Harney County
+97905	
+Baker County
+97906	
+Malheur County
+97907	
+Baker County
+97908	
+Malheur County
+97909	
+Malheur County
+97910	
+Malheur County
+97911	
+Malheur County
+97913	
+Malheur County
+97914	
+Malheur County
+97917	
+Malheur County
+97918	
+Malheur County
+97920	
+Malheur County
+15043
+70770
+94403
+10035
+94402
+15050
+19125
+20001
+30324
+15027
+22849
+20011
+94123
+21050
+89149
+27705
+15038
+92570
+28262
+94102
+10001
+91326
+13778
+15046
+20639
+33971
+30043

@@ -1,0 +1,843 @@
+County
+58001	
+Richland County
+58002	
+Cass County
+58004	
+Cass County
+58005	
+Cass County
+58006	
+Cass County
+58007	
+Cass County
+58008	
+Richland County
+58009	
+Traill County
+58011	
+Cass County
+58012	
+Cass County
+58013	
+Sargent County
+58015	
+Richland County
+58016	
+Traill County
+58017	
+Sargent County
+58018	
+Richland County
+58021	
+Cass County
+58027	
+Ransom County
+58029	
+Cass County
+58030	
+Richland County
+58031	
+Barnes County
+58032	
+Sargent County
+58033	
+Ransom County
+58035	
+Traill County
+58036	
+Cass County
+58038	
+Cass County
+58040	
+Sargent County
+58041	
+Richland County
+58042	
+Cass County
+58043	
+Sargent County
+58045	
+Traill County
+58046	
+Steele County
+58047	
+Cass County
+58048	
+Cass County
+58049	
+Barnes County
+58051	
+Cass County
+58052	
+Cass County
+58053	
+Richland County
+58054	
+Ransom County
+58056	
+Steele County
+58057	
+Richland County
+58058	
+Richland County
+58059	
+Cass County
+58060	
+Sargent County
+58061	
+Richland County
+58062	
+Barnes County
+58063	
+Barnes County
+58064	
+Cass County
+58065	
+Barnes County
+58067	
+Sargent County
+58068	
+Ransom County
+58069	
+Sargent County
+58071	
+Cass County
+58072	
+Barnes County
+58074	
+Richland County
+58075	
+Richland County
+58076	
+Richland County
+58077	
+Richland County
+58078	
+Cass County
+58079	
+Cass County
+58081	
+Richland County
+58102	
+Cass County
+58103	
+Cass County
+58104	
+Cass County
+58105	
+Cass County
+58106	
+Cass County
+58107	
+Cass County
+58108	
+Cass County
+58109	
+Cass County
+58121	
+Cass County
+58122	
+Cass County
+58124	
+Cass County
+58125	
+Cass County
+58126	
+Cass County
+58201	
+Grand Forks County
+58202	
+Grand Forks County
+58203	
+Grand Forks County
+58204	
+Grand Forks County
+58205	
+Grand Forks County
+58206	
+Grand Forks County
+58207	
+Grand Forks County
+58208	
+Grand Forks County
+58210	
+Walsh County
+58212	
+Nelson County
+58214	
+Grand Forks County
+58216	
+Pembina County
+58218	
+Traill County
+58219	
+Traill County
+58220	
+Pembina County
+58222	
+Pembina County
+58223	
+Traill County
+58224	
+Nelson County
+58225	
+Pembina County
+58227	
+Walsh County
+58228	
+Grand Forks County
+58229	
+Walsh County
+58230	
+Steele County
+58231	
+Walsh County
+58233	
+Walsh County
+58235	
+Grand Forks County
+58236	
+Pembina County
+58237	
+Walsh County
+58238	
+Pembina County
+58239	
+Cavalier County
+58240	
+Traill County
+58241	
+Pembina County
+58243	
+Walsh County
+58244	
+Grand Forks County
+58249	
+Cavalier County
+58250	
+Walsh County
+58251	
+Grand Forks County
+58254	
+Nelson County
+58255	
+Cavalier County
+58256	
+Grand Forks County
+58257	
+Traill County
+58258	
+Grand Forks County
+58259	
+Nelson County
+58260	
+Cavalier County
+58261	
+Walsh County
+58262	
+Pembina County
+58265	
+Pembina County
+58266	
+Grand Forks County
+58267	
+Grand Forks County
+58269	
+Cavalier County
+58270	
+Walsh County
+58271	
+Pembina County
+58272	
+Nelson County
+58273	
+Walsh County
+58274	
+Traill County
+58275	
+Grand Forks County
+58276	
+Pembina County
+58277	
+Steele County
+58278	
+Grand Forks County
+58281	
+Cavalier County
+58282	
+Pembina County
+58301	
+Ramsey County
+58310	
+Rolette County
+58311	
+Cavalier County
+58313	
+Pierce County
+58316	
+Rolette County
+58317	
+Towner County
+58318	
+Bottineau County
+58319	
+Wells County
+58321	
+Ramsey County
+58323	
+Cavalier County
+58324	
+Towner County
+58325	
+Ramsey County
+58327	
+Ramsey County
+58329	
+Rolette County
+58330	
+Ramsey County
+58331	
+Towner County
+58332	
+Benson County
+58335	
+Benson County
+58338	
+Ramsey County
+58339	
+Towner County
+58341	
+Wells County
+58343	
+Benson County
+58344	
+Nelson County
+58345	
+Ramsey County
+58346	
+Benson County
+58348	
+Benson County
+58351	
+Benson County
+58352	
+Cavalier County
+58353	
+Rolette County
+58355	
+Cavalier County
+58356	
+Eddy County
+58357	
+Benson County
+58361	
+Nelson County
+58362	
+Ramsey County
+58363	
+Towner County
+58365	
+Towner County
+58366	
+Rolette County
+58367	
+Rolette County
+58368	
+Pierce County
+58369	
+Rolette County
+58370	
+Benson County
+58372	
+Cavalier County
+58374	
+Eddy County
+58377	
+Ramsey County
+58379	
+Benson County
+58380	
+Nelson County
+58381	
+Eddy County
+58382	
+Ramsey County
+58384	
+Bottineau County
+58385	
+Pierce County
+58386	
+Benson County
+58401	
+Stutsman County
+58402	
+Stutsman County
+58405	
+Stutsman County
+58413	
+McIntosh County
+58415	
+LaMoure County
+58416	
+Griggs County
+58418	
+Wells County
+58420	
+Stutsman County
+58421	
+Foster County
+58422	
+Wells County
+58423	
+Wells County
+58424	
+Stutsman County
+58425	
+Griggs County
+58426	
+Stutsman County
+58428	
+Kidder County
+58429	
+Barnes County
+58430	
+Sheridan County
+58431	
+LaMoure County
+58433	
+LaMoure County
+58436	
+Dickey County
+58438	
+Wells County
+58439	
+McPherson County
+58440	
+Logan County
+58441	
+Dickey County
+58442	
+Logan County
+58443	
+Foster County
+58444	
+Sheridan County
+58445	
+Foster County
+58448	
+Griggs County
+58451	
+Wells County
+58452	
+Griggs County
+58454	
+LaMoure County
+58455	
+Stutsman County
+58456	
+LaMoure County
+58458	
+LaMoure County
+58460	
+McIntosh County
+58461	
+Barnes County
+58463	
+Sheridan County
+58464	
+Foster County
+58466	
+LaMoure County
+58467	
+Stutsman County
+58472	
+Stutsman County
+58474	
+Dickey County
+58475	
+Kidder County
+58476	
+Stutsman County
+58477	
+Burleigh County
+58478	
+Kidder County
+58479	
+Barnes County
+58480	
+Barnes County
+58481	
+Barnes County
+58482	
+Kidder County
+58483	
+Stutsman County
+58484	
+Griggs County
+58486	
+Wells County
+58487	
+Kidder County
+58488	
+Kidder County
+58490	
+LaMoure County
+58492	
+Barnes County
+58494	
+Burleigh County
+58495	
+McIntosh County
+58496	
+Stutsman County
+58497	
+Stutsman County
+58501	
+Burleigh County
+58502	
+Burleigh County
+58503	
+Burleigh County
+58504	
+Burleigh County
+58505	
+Burleigh County
+58506	
+Burleigh County
+58507	
+Burleigh County
+58520	
+Morton County
+58521	
+Burleigh County
+58523	
+Mercer County
+58524	
+Emmons County
+58528	
+Sioux County
+58529	
+Grant County
+58530	
+Oliver County
+58531	
+McLean County
+58532	
+Burleigh County
+58533	
+Grant County
+58535	
+Morton County
+58538	
+Sioux County
+58540	
+McLean County
+58541	
+Mercer County
+58542	
+Emmons County
+58544	
+Emmons County
+58545	
+Mercer County
+58549	
+Emmons County
+58552	
+Emmons County
+58554	
+Morton County
+58558	
+Burleigh County
+58559	
+McLean County
+58560	
+Burleigh County
+58561	
+Logan County
+58562	
+Grant County
+58563	
+Morton County
+58564	
+Grant County
+58565	
+McLean County
+58566	
+Morton County
+58568	
+Sioux County
+58569	
+Grant County
+58570	
+Morton County
+58571	
+Mercer County
+58572	
+Burleigh County
+58573	
+Emmons County
+58575	
+McLean County
+58576	
+McLean County
+58577	
+McLean County
+58579	
+McLean County
+58580	
+Mercer County
+58581	
+McIntosh County
+58601	
+Stark County
+58602	
+Stark County
+58620	
+Slope County
+58621	
+Golden Valley County
+58622	
+Stark County
+58623	
+Bowman County
+58625	
+Dunn County
+58626	
+Dunn County
+58627	
+Billings County
+58630	
+Stark County
+58631	
+Morton County
+58632	
+Golden Valley County
+58634	
+McKenzie County
+58636	
+Dunn County
+58638	
+Morton County
+58639	
+Adams County
+58640	
+Dunn County
+58641	
+Stark County
+58642	
+Dunn County
+58643	
+Slope County
+58644	
+Dunn County
+58645	
+Billings County
+58646	
+Hettinger County
+58647	
+Hettinger County
+58649	
+Adams County
+58650	
+Hettinger County
+58651	
+Bowman County
+58652	
+Stark County
+58653	
+Bowman County
+58654	
+Golden Valley County
+58655	
+Stark County
+58656	
+Stark County
+58701	
+Ward County
+58702	
+Ward County
+58703	
+Ward County
+58704	
+Ward County
+58705	
+Ward County
+58707	
+Ward County
+58710	
+McHenry County
+58711	
+Bottineau County
+58712	
+McHenry County
+58713	
+McHenry County
+58716	
+McLean County
+58718	
+Ward County
+58721	
+Burke County
+58722	
+Ward County
+58723	
+McLean County
+58725	
+Ward County
+58727	
+Burke County
+58730	
+Divide County
+58731	
+McHenry County
+58733	
+Ward County
+58734	
+Ward County
+58735	
+Ward County
+58736	
+McHenry County
+58737	
+Burke County
+58740	
+Renville County
+58741	
+McHenry County
+58744	
+McHenry County
+58746	
+Ward County
+58748	
+Bottineau County
+58750	
+Bottineau County
+58752	
+Burke County
+58755	
+Williams County
+58756	
+Ward County
+58757	
+Dunn County
+58758	
+Sheridan County
+58759	
+McLean County
+58760	
+Bottineau County
+58761	
+Renville County
+58762	
+Bottineau County
+58763	
+Mountrail County
+58765	
+Divide County
+58768	
+McHenry County
+58769	
+Mountrail County
+58770	
+Mountrail County
+58771	
+Mountrail County
+58772	
+Burke County
+58773	
+Burke County
+58775	
+McLean County
+58776	
+Mountrail County
+58778	
+McLean County
+58779	
+Ward County
+58781	
+Ward County
+58782	
+Renville County
+58783	
+Bottineau County
+58784	
+Mountrail County
+58785	
+Ward County
+58787	
+Renville County
+58788	
+McHenry County
+58789	
+McHenry County
+58790	
+McHenry County
+58792	
+McHenry County
+58793	
+Bottineau County
+58794	
+Mountrail County
+58795	
+Williams County
+58801	
+Williams County
+58802	
+Williams County
+58803	
+58830	
+Williams County
+58831	
+McKenzie County
+58833	
+Divide County
+58835	
+McKenzie County
+58838	
+McKenzie County
+58843	
+Williams County
+58844	
+Divide County
+58845	
+Williams County
+58847	
+McKenzie County
+58849	
+Williams County
+58852	
+Williams County
+58853	
+Williams County
+58854	
+McKenzie County
+58856	
+Williams County
+60069
+01543
+20778
+75447
+21215
+11234
+35601
+20110
+11235
+91403
+44512
+91326
+30324
+30024
+10002
+37379
+45011
+27587
+75201
+21209
+32210
+33971
+85255
+33021
+11201
+95113
+30044

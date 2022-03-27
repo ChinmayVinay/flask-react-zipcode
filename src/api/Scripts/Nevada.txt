@@ -1,0 +1,529 @@
+County
+88901	
+Clark County
+88905	
+Clark County
+89001	
+Lincoln County
+89002	
+Clark County
+89003	
+Nye County
+89004	
+Clark County
+89005	
+Clark County
+89006	
+Clark County
+89007	
+Clark County
+89008	
+Lincoln County
+89009	
+Clark County
+89010	
+Esmeralda County
+89011	
+Clark County
+89012	
+Clark County
+89013	
+Esmeralda County
+89014	
+Clark County
+89015	
+Clark County
+89016	
+Clark County
+89017	
+Lincoln County
+89018	
+Clark County
+89019	
+Clark County
+89020	
+Nye County
+89021	
+Clark County
+89022	
+Nye County
+89023	
+Nye County
+89024	
+Clark County
+89025	
+Clark County
+89026	
+Clark County
+89027	
+Clark County
+89028	
+Clark County
+89029	
+Clark County
+89030	
+Clark County
+89031	
+Clark County
+89032	
+Clark County
+89033	
+Clark County
+89034	
+Clark County
+89036	
+Clark County
+89037	
+Clark County
+89039	
+Clark County
+89040	
+Clark County
+89041	
+Nye County
+89042	
+Lincoln County
+89043	
+Lincoln County
+89044	
+Clark County
+89045	
+Nye County
+89046	
+Clark County
+89047	
+Esmeralda County
+89048	
+Nye County
+89049	
+Nye County
+89052	
+Clark County
+89053	
+Clark County
+89054	
+Clark County
+89060	
+Nye County
+89061	
+Nye County
+89067	
+Lincoln County
+89070	
+Clark County
+89074	
+Clark County
+89077	
+Clark County
+89081	
+Clark County
+89084	
+Clark County
+89085	
+Clark County
+89086	
+Clark County
+89087	
+Clark County
+89101	
+Clark County
+89102	
+Clark County
+89103	
+Clark County
+89104	
+Clark County
+89105	
+Clark County
+89106	
+Clark County
+89107	
+Clark County
+89108	
+Clark County
+89109	
+Clark County
+89110	
+Clark County
+89111	
+Clark County
+89112	
+Clark County
+89113	
+Clark County
+89114	
+Clark County
+89115	
+Clark County
+89116	
+Clark County
+89117	
+Clark County
+89118	
+Clark County
+89119	
+Clark County
+89120	
+Clark County
+89121	
+Clark County
+89122	
+Clark County
+89123	
+Clark County
+89124	
+Clark County
+89125	
+Clark County
+89126	
+Clark County
+89127	
+Clark County
+89128	
+Clark County
+89129	
+Clark County
+89130	
+Clark County
+89131	
+Clark County
+89132	
+Clark County
+89133	
+Clark County
+89134	
+Clark County
+89135	
+Clark County
+89136	
+Clark County
+89137	
+Clark County
+89138	
+Clark County
+89139	
+Clark County
+89140	
+Clark County
+89141	
+Clark County
+89142	
+Clark County
+89143	
+Clark County
+89144	
+Clark County
+89145	
+Clark County
+89146	
+Clark County
+89147	
+Clark County
+89148	
+Clark County
+89149	
+Clark County
+89150	
+Clark County
+89151	
+Clark County
+89152	
+Clark County
+89153	
+Clark County
+89154	
+Clark County
+89155	
+Clark County
+89156	
+Clark County
+89157	
+Clark County
+89158	
+Clark County
+89159	
+Clark County
+89160	
+Clark County
+89161	
+Clark County
+89162	
+Clark County
+89163	
+Clark County
+89164	
+Clark County
+89165	
+Clark County
+89166	
+Clark County
+89169	
+Clark County
+89170	
+Clark County
+89173	
+Clark County
+89177	
+Clark County
+89178	
+Clark County
+89179	
+Clark County
+89180	
+Clark County
+89183	
+Clark County
+89185	
+Clark County
+89191	
+Clark County
+89193	
+Clark County
+89195	
+Clark County
+89199	
+Clark County
+89301	
+White Pine County
+89310	
+Lander County
+89311	
+White Pine County
+89314	
+Nye County
+89315	
+White Pine County
+89316	
+Eureka County
+89317	
+White Pine County
+89318	
+White Pine County
+89319	
+White Pine County
+89402	
+Washoe County
+89403	
+Lyon County
+89404	
+Humboldt County
+89405	
+Washoe County
+89406	
+Churchill County
+89407	
+Churchill County
+89408	
+Lyon County
+89409	
+Nye County
+89410	
+Douglas County
+89411	
+Douglas County
+89412	
+Washoe County
+89413	
+Douglas County
+89414	
+Humboldt County
+89415	
+Mineral County
+89418	
+Pershing County
+89419	
+Pershing County
+89420	
+Mineral County
+89421	
+Humboldt County
+89422	
+Mineral County
+89423	
+Douglas County
+89424	
+Washoe County
+89425	
+Humboldt County
+89426	
+Humboldt County
+89427	
+Mineral County
+89428	
+Lyon County
+89429	
+Lyon County
+89430	
+Lyon County
+89431	
+Washoe County
+89432	
+Washoe County
+89433	
+Washoe County
+89434	
+Washoe County
+89435	
+Washoe County
+89436	
+Washoe County
+89437	
+Washoe County
+89438	
+Humboldt County
+89439	
+Washoe County
+89440	
+Storey County
+89441	
+Washoe County
+89442	
+Washoe County
+89444	
+Lyon County
+89445	
+Humboldt County
+89446	
+Humboldt County
+89447	
+Lyon County
+89448	
+Douglas County
+89449	
+Douglas County
+89450	
+Washoe County
+89451	
+Washoe County
+89452	
+Washoe County
+89460	
+Douglas County
+89496	
+Churchill County
+89501	
+Washoe County
+89502	
+Washoe County
+89503	
+Washoe County
+89504	
+Washoe County
+89505	
+Washoe County
+89506	
+Washoe County
+89507	
+Washoe County
+89508	
+Washoe County
+89509	
+Washoe County
+89510	
+Washoe County
+89511	
+Washoe County
+89512	
+Washoe County
+89513	
+Washoe County
+89515	
+Washoe County
+89519	
+Washoe County
+89520	
+Washoe County
+89521	
+Washoe County
+89523	
+Washoe County
+89533	
+Washoe County
+89555	
+Washoe County
+89557	
+Washoe County
+89570	
+Washoe County
+89595	
+Washoe County
+89599	
+Washoe County
+89701	
+89702	
+89703	
+89704	
+Washoe County
+89705	
+Douglas County
+89706	
+89711	
+89712	
+89713	
+89714	
+89721	
+89801	
+Elko County
+89802	
+Elko County
+89803	
+Elko County
+89815	
+Elko County
+89820	
+Lander County
+89821	
+Eureka County
+89822	
+Elko County
+89823	
+Elko County
+89824	
+Elko County
+89825	
+Elko County
+89826	
+Elko County
+89828	
+Elko County
+89830	
+Elko County
+89831	
+Elko County
+89832	
+Elko County
+89833	
+Elko County
+89834	
+Elko County
+89835	
+Elko County
+89883	
+Elko County
+75001
+49445
+10013
+17324
+92563
+70068
+28262
+19335
+95568
+47104
+11102
+08880
+70770
+18508
+97523
+44095
+92804
+10031
+18337
+37174
+68381
+20639
+48002
+07011
+67207
+53538
+17018

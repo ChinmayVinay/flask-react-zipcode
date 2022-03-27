@@ -1,0 +1,1094 @@
+County
+38601	
+Lafayette County
+38602	
+Tate County
+38603	
+Benton County
+38606	
+Panola County
+38609	
+Quitman County
+38610	
+Tippah County
+38611	
+Marshall County
+38614	
+Coahoma County
+38617	
+Coahoma County
+38618	
+Tate County
+38619	
+Panola County
+38620	
+Panola County
+38621	
+Panola County
+38622	
+Quitman County
+38623	
+Quitman County
+38625	
+Tippah County
+38626	
+Tunica County
+38627	
+Union County
+38628	
+Quitman County
+38629	
+Tippah County
+38630	
+Coahoma County
+38631	
+Coahoma County
+38632	
+DeSoto County
+38633	
+Benton County
+38634	
+Marshall County
+38635	
+Marshall County
+38637	
+DeSoto County
+38638	
+Tate County
+38639	
+Coahoma County
+38641	
+DeSoto County
+38642	
+Benton County
+38643	
+Quitman County
+38644	
+Coahoma County
+38645	
+Coahoma County
+38646	
+Quitman County
+38647	
+Benton County
+38649	
+Marshall County
+38650	
+Union County
+38651	
+DeSoto County
+38652	
+Union County
+38654	
+DeSoto County
+38655	
+Lafayette County
+38658	
+Panola County
+38659	
+Marshall County
+38661	
+Marshall County
+38663	
+Tippah County
+38664	
+Tunica County
+38665	
+Tate County
+38666	
+Panola County
+38668	
+Tate County
+38669	
+Coahoma County
+38670	
+Quitman County
+38671	
+DeSoto County
+38672	
+DeSoto County
+38673	
+Lafayette County
+38674	
+Tippah County
+38675	
+Lafayette County
+38676	
+Tunica County
+38677	
+Lafayette County
+38679	
+Marshall County
+38680	
+DeSoto County
+38683	
+Tippah County
+38685	
+Marshall County
+38686	
+Desoto County
+38701	
+Washington County
+38702	
+Bolivar County
+38703	
+Washington County
+38704	
+Issaquena County
+38720	
+Coahoma County
+38721	
+Sharkey County
+38722	
+Washington County
+38723	
+Washington County
+38725	
+Bolivar County
+38726	
+Bolivar County
+38730	
+Bolivar County
+38731	
+Washington County
+38732	
+Bolivar County
+38733	
+Bolivar County
+38736	
+Sunflower County
+38737	
+Sunflower County
+38738	
+Sunflower County
+38739	
+Coahoma County
+38740	
+Bolivar County
+38744	
+Washington County
+38745	
+Issaquena County
+38746	
+Bolivar County
+38748	
+Washington County
+38749	
+Sunflower County
+38751	
+Sunflower County
+38753	
+Sunflower County
+38754	
+Humphreys County
+38756	
+Washington County
+38759	
+Bolivar County
+38760	
+Washington County
+38761	
+Sunflower County
+38762	
+Bolivar County
+38764	
+Bolivar County
+38765	
+Sharkey County
+38767	
+Coahoma County
+38768	
+Sunflower County
+38769	
+Bolivar County
+38771	
+Sunflower County
+38772	
+Bolivar County
+38773	
+Bolivar County
+38774	
+Bolivar County
+38776	
+Washington County
+38778	
+Sunflower County
+38780	
+Washington County
+38781	
+Bolivar County
+38782	
+Washington County
+38801	
+Lee County
+38802	
+Lee County
+38803	
+Lee County
+38804	
+Lee County
+38820	
+Pontotoc County
+38821	
+Monroe County
+38824	
+Prentiss County
+38825	
+Monroe County
+38826	
+Lee County
+38827	
+Tishomingo County
+38828	
+Union County
+38829	
+Prentiss County
+38833	
+Tishomingo County
+38834	
+Alcorn County
+38835	
+Alcorn County
+38838	
+Tishomingo County
+38839	
+Calhoun County
+38841	
+Pontotoc County
+38843	
+Itawamba County
+38844	
+Monroe County
+38846	
+Alcorn County
+38847	
+Itawamba County
+38848	
+Monroe County
+38849	
+Lee County
+38850	
+Chickasaw County
+38851	
+Chickasaw County
+38852	
+Tishomingo County
+38855	
+Itawamba County
+38856	
+Itawamba County
+38857	
+Lee County
+38858	
+Monroe County
+38859	
+Prentiss County
+38860	
+Chickasaw County
+38862	
+Lee County
+38863	
+Pontotoc County
+38864	
+Pontotoc County
+38865	
+Alcorn County
+38866	
+Lee County
+38868	
+Lee County
+38869	
+Pontotoc County
+38870	
+Monroe County
+38871	
+Pontotoc County
+38873	
+Tishomingo County
+38874	
+Pontotoc County
+38875	
+Chickasaw County
+38876	
+Itawamba County
+38877	
+Chickasaw County
+38878	
+Calhoun County
+38879	
+Lee County
+38880	
+Prentiss County
+38901	
+Grenada County
+38902	
+Grenada County
+38913	
+Calhoun County
+38914	
+Calhoun County
+38915	
+Calhoun County
+38916	
+Calhoun County
+38917	
+Carroll County
+38920	
+Tallahatchie County
+38921	
+Tallahatchie County
+38922	
+Yalobusha County
+38923	
+Carroll County
+38924	
+Holmes County
+38925	
+Montgomery County
+38926	
+Grenada County
+38927	
+Tallahatchie County
+38928	
+Tallahatchie County
+38929	
+Grenada County
+38930	
+Leflore County
+38935	
+Leflore County
+38940	
+Grenada County
+38941	
+Leflore County
+38943	
+Carroll County
+38944	
+Leflore County
+38945	
+Leflore County
+38946	
+Leflore County
+38947	
+Carroll County
+38948	
+Yalobusha County
+38949	
+Lafayette County
+38950	
+Tallahatchie County
+38951	
+Calhoun County
+38952	
+Leflore County
+38953	
+Tallahatchie County
+38954	
+Leflore County
+38955	
+Webster County
+38957	
+Tallahatchie County
+38958	
+Leflore County
+38959	
+Leflore County
+38960	
+Grenada County
+38961	
+Yalobusha County
+38962	
+Tallahatchie County
+38963	
+Tallahatchie County
+38964	
+Quitman County
+38965	
+Yalobusha County
+38966	
+Tallahatchie County
+38967	
+Montgomery County
+39038	
+Humphreys County
+39039	
+Yazoo County
+39040	
+Yazoo County
+39041	
+Hinds County
+39042	
+Rankin County
+39043	
+Rankin County
+39044	
+Simpson County
+39045	
+Madison County
+39046	
+Madison County
+39047	
+Rankin County
+39051	
+Leake County
+39054	
+Sharkey County
+39056	
+Hinds County
+39057	
+Newton County
+39058	
+Hinds County
+39059	
+Copiah County
+39060	
+Hinds County
+39061	
+Sharkey County
+39062	
+Simpson County
+39063	
+Holmes County
+39066	
+Hinds County
+39067	
+Attala County
+39069	
+Jefferson County
+39071	
+Madison County
+39072	
+Hinds County
+39073	
+Rankin County
+39074	
+Scott County
+39077	
+Copiah County
+39078	
+Copiah County
+39079	
+Holmes County
+39080	
+Scott County
+39081	
+Jefferson County
+39082	
+Simpson County
+39083	
+Copiah County
+39086	
+Claiborne County
+39087	
+Scott County
+39088	
+Yazoo County
+39090	
+Attala County
+39092	
+Scott County
+39094	
+Leake County
+39095	
+Holmes County
+39096	
+Claiborne County
+39097	
+Humphreys County
+39098	
+Scott County
+39107	
+Attala County
+39108	
+Attala County
+39109	
+Leake County
+39110	
+Madison County
+39111	
+Simpson County
+39113	
+Issaquena County
+39114	
+Simpson County
+39115	
+Humphreys County
+39116	
+Smith County
+39117	
+Scott County
+39119	
+Covington County
+39120	
+Adams County
+39121	
+Adams County
+39122	
+Adams County
+39130	
+Madison County
+39140	
+Lawrence County
+39144	
+Claiborne County
+39145	
+Rankin County
+39146	
+Holmes County
+39148	
+Rankin County
+39149	
+Simpson County
+39150	
+Claiborne County
+39151	
+Rankin County
+39152	
+Smith County
+39153	
+Smith County
+39154	
+Hinds County
+39156	
+Warren County
+39157	
+Madison County
+39158	
+Madison County
+39159	
+Sharkey County
+39160	
+Attala County
+39161	
+Rankin County
+39162	
+Yazoo County
+39163	
+Madison County
+39165	
+Adams County
+39166	
+Humphreys County
+39167	
+Rankin County
+39168	
+Smith County
+39169	
+Holmes County
+39170	
+Hinds County
+39171	
+Leake County
+39173	
+Yazoo County
+39174	
+Madison County
+39175	
+Hinds County
+39176	
+Carroll County
+39177	
+Issaquena County
+39179	
+Yazoo County
+39180	
+Warren County
+39181	
+Warren County
+39182	
+Warren County
+39183	
+Warren County
+39189	
+Leake County
+39190	
+Adams County
+39191	
+Copiah County
+39192	
+Attala County
+39193	
+Rankin County
+39194	
+Yazoo County
+39201	
+Hinds County
+39202	
+Hinds County
+39203	
+Hinds County
+39204	
+Hinds County
+39205	
+Hinds County
+39206	
+Hinds County
+39207	
+Hinds County
+39208	
+Rankin County
+39209	
+Hinds County
+39210	
+Hinds County
+39211	
+Hinds County
+39212	
+Hinds County
+39213	
+Hinds County
+39215	
+Hinds County
+39216	
+Hinds County
+39217	
+Hinds County
+39218	
+Rankin County
+39225	
+Hinds County
+39232	
+Rankin County
+39235	
+Hinds County
+39236	
+Hinds County
+39250	
+Hinds County
+39269	
+Hinds County
+39271	
+Hinds County
+39272	
+Hinds County
+39282	
+Hinds County
+39283	
+Hinds County
+39284	
+Hinds County
+39286	
+Hinds County
+39288	
+Rankin County
+39289	
+Hinds County
+39296	
+Hinds County
+39298	
+Hinds County
+39301	
+Lauderdale County
+39302	
+Lauderdale County
+39303	
+Lauderdale County
+39304	
+Lauderdale County
+39305	
+Lauderdale County
+39307	
+Lauderdale County
+39309	
+Lauderdale County
+39320	
+Lauderdale County
+39322	
+Wayne County
+39323	
+Newton County
+39324	
+Wayne County
+39325	
+Lauderdale County
+39326	
+Lauderdale County
+39327	
+Newton County
+39328	
+Kemper County
+39330	
+Clarke County
+39332	
+Newton County
+39335	
+Lauderdale County
+39336	
+Newton County
+39337	
+Newton County
+39338	
+Jasper County
+39339	
+Winston County
+39341	
+Noxubee County
+39342	
+Lauderdale County
+39345	
+Newton County
+39346	
+Winston County
+39347	
+Jasper County
+39348	
+Jasper County
+39350	
+Neshoba County
+39352	
+Kemper County
+39354	
+Kemper County
+39355	
+Clarke County
+39356	
+Jasper County
+39358	
+Kemper County
+39359	
+Scott County
+39360	
+Clarke County
+39361	
+Noxubee County
+39362	
+Wayne County
+39363	
+Clarke County
+39364	
+Lauderdale County
+39365	
+Neshoba County
+39366	
+Jasper County
+39367	
+Wayne County
+39401	
+Forrest County
+39402	
+Lamar County
+39403	
+Forrest County
+39404	
+Forrest County
+39406	
+Forrest County
+39407	
+Forrest County
+39421	
+Jefferson Davis County
+39422	
+Jasper County
+39423	
+Perry County
+39425	
+Forrest County
+39426	
+Pearl River County
+39427	
+Jefferson Davis County
+39428	
+Covington County
+39429	
+Marion County
+39436	
+Jones County
+39437	
+Jones County
+39439	
+Jasper County
+39440	
+Jones County
+39441	
+Jones County
+39442	
+Jones County
+39443	
+Jones County
+39451	
+Greene County
+39452	
+George County
+39455	
+Lamar County
+39456	
+Greene County
+39457	
+Pearl River County
+39459	
+Jones County
+39460	
+Jasper County
+39461	
+Greene County
+39462	
+Perry County
+39463	
+Pearl River County
+39464	
+Jones County
+39465	
+Forrest County
+39466	
+Pearl River County
+39470	
+Pearl River County
+39474	
+Jefferson Davis County
+39475	
+Lamar County
+39476	
+Perry County
+39477	
+Jones County
+39478	
+Marion County
+39479	
+Covington County
+39480	
+Jones County
+39481	
+Jasper County
+39482	
+Lamar County
+39483	
+Marion County
+39501	
+Harrison County
+39502	
+Harrison County
+39503	
+Harrison County
+39505	
+Harrison County
+39506	
+Harrison County
+39507	
+Harrison County
+39520	
+Hancock County
+39521	
+Hancock County
+39522	
+Hancock County
+39525	
+Hancock County
+39529	
+Hancock County
+39530	
+Harrison County
+39531	
+Harrison County
+39532	
+Harrison County
+39533	
+Harrison County
+39534	
+Harrison County
+39535	
+Harrison County
+39540	
+Harrison County
+39552	
+Jackson County
+39553	
+Jackson County
+39555	
+Jackson County
+39556	
+Hancock County
+39558	
+Hancock County
+39560	
+Harrison County
+39561	
+Stone County
+39562	
+Jackson County
+39563	
+Jackson County
+39564	
+Jackson County
+39565	
+Jackson County
+39566	
+Jackson County
+39567	
+Jackson County
+39568	
+Jackson County
+39569	
+Jackson County
+39571	
+Harrison County
+39572	
+Hancock County
+39573	
+Stone County
+39574	
+Harrison County
+39576	
+Hancock County
+39577	
+Stone County
+39581	
+Jackson County
+39595	
+Jackson County
+39601	
+Lincoln County
+39602	
+Lincoln County
+39603	
+Lincoln County
+39629	
+Lincoln County
+39630	
+Franklin County
+39631	
+Wilkinson County
+39632	
+Pike County
+39633	
+Wilkinson County
+39635	
+Pike County
+39638	
+Amite County
+39641	
+Walthall County
+39643	
+Marion County
+39645	
+Amite County
+39647	
+Franklin County
+39648	
+Pike County
+39649	
+Pike County
+39652	
+Pike County
+39653	
+Franklin County
+39654	
+Lawrence County
+39656	
+Jefferson Davis County
+39657	
+Pike County
+39661	
+Franklin County
+39662	
+Lincoln County
+39663	
+Lawrence County
+39664	
+Amite County
+39665	
+Lawrence County
+39666	
+Pike County
+39667	
+Walthall County
+39668	
+Jefferson County
+39669	
+Wilkinson County
+39701	
+Lowndes County
+39702	
+Lowndes County
+39703	
+Lowndes County
+39704	
+Lowndes County
+39705	
+Lowndes County
+39710	
+Lowndes County
+39730	
+Monroe County
+39735	
+Choctaw County
+39736	
+Lowndes County
+39737	
+Webster County
+39739	
+Noxubee County
+39740	
+Lowndes County
+39741	
+Clay County
+39743	
+Lowndes County
+39744	
+Webster County
+39745	
+Choctaw County
+39746	
+Monroe County
+39747	
+Montgomery County
+39750	
+Webster County
+39751	
+Webster County
+39752	
+Webster County
+39753	
+Lowndes County
+39754	
+Clay County
+39755	
+Clay County
+39756	
+Clay County
+39759	
+Oktibbeha County
+39760	
+Oktibbeha County
+39762	
+Oktibbeha County
+39766	
+Lowndes County
+39767	
+Webster County
+39769	
+Oktibbeha County
+39771	
+Webster County
+39772	
+Choctaw County
+39773	
+Clay County
+39776	
+Chickasaw County
+11211
+32218
+32210
+32244
+11215
+60534
+22304
+90024
+20678
+94109
+10001
+11220
+37174
+40972
+28546
+97116
+16254
+97006
+33411
+20002
+16510
+78861
+10024
+92373
+48104
+97007
+94040

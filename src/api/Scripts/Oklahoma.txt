@@ -1,0 +1,1577 @@
+County
+73001	
+Caddo County
+73002	
+Grady County
+73003	
+Oklahoma County
+73004	
+Grady County
+73005	
+Caddo County
+73006	
+Caddo County
+73007	
+Oklahoma County
+73008	
+Oklahoma County
+73009	
+Caddo County
+73010	
+McClain County
+73011	
+Grady County
+73012	
+Oklahoma County
+73013	
+Oklahoma County
+73014	
+Canadian County
+73015	
+Caddo County
+73016	
+Logan County
+73017	
+Caddo County
+73018	
+Grady County
+73019	
+Cleveland County
+73020	
+Oklahoma County
+73021	
+Washita County
+73022	
+Canadian County
+73023	
+Grady County
+73024	
+Washita County
+73025	
+Oklahoma County
+73026	
+Cleveland County
+73027	
+Payne County
+73028	
+Logan County
+73029	
+Caddo County
+73030	
+Murray County
+73031	
+McClain County
+73032	
+Murray County
+73033	
+Caddo County
+73034	
+Oklahoma County
+73036	
+Canadian County
+73038	
+Caddo County
+73039	
+Murray County
+73040	
+Blaine County
+73041	
+Kiowa County
+73042	
+Caddo County
+73043	
+Blaine County
+73044	
+Logan County
+73045	
+Oklahoma County
+73047	
+73048	
+Caddo County
+73049	
+Oklahoma County
+73050	
+Logan County
+73051	
+Cleveland County
+73052	
+Garvin County
+73053	
+Caddo County
+73054	
+Oklahoma County
+73055	
+Stephens County
+73056	
+Logan County
+73057	
+Garvin County
+73058	
+Logan County
+73059	
+Grady County
+73061	
+Noble County
+73062	
+Kiowa County
+73063	
+Logan County
+73064	
+Canadian County
+73065	
+McClain County
+73066	
+Oklahoma County
+73067	
+Grady County
+73068	
+Cleveland County
+73069	
+Cleveland County
+73070	
+Cleveland County
+73071	
+Cleveland County
+73072	
+Cleveland County
+73073	
+Logan County
+73074	
+Garvin County
+73075	
+Garvin County
+73077	
+Noble County
+73078	
+Canadian County
+73079	
+Grady County
+73080	
+McClain County
+73082	
+Grady County
+73083	
+Oklahoma County
+73084	
+Oklahoma County
+73085	
+Canadian County
+73086	
+Murray County
+73089	
+Grady County
+73090	
+Canadian County
+73092	
+Grady County
+73093	
+McClain County
+73094	
+Caddo County
+73095	
+McClain County
+73096	
+Custer County
+73097	
+Oklahoma County
+73098	
+Garvin County
+73099	
+Canadian County
+73101	
+Oklahoma County
+73102	
+Oklahoma County
+73103	
+Oklahoma County
+73104	
+Oklahoma County
+73105	
+Oklahoma County
+73106	
+Oklahoma County
+73107	
+Oklahoma County
+73108	
+Oklahoma County
+73109	
+Oklahoma County
+73110	
+Oklahoma County
+73111	
+Oklahoma County
+73112	
+Oklahoma County
+73113	
+Oklahoma County
+73114	
+Oklahoma County
+73115	
+Oklahoma County
+73116	
+Oklahoma County
+73117	
+Oklahoma County
+73118	
+Oklahoma County
+73119	
+Oklahoma County
+73120	
+Oklahoma County
+73121	
+Oklahoma County
+73122	
+Oklahoma County
+73123	
+Oklahoma County
+73124	
+Oklahoma County
+73125	
+Oklahoma County
+73126	
+Oklahoma County
+73127	
+Oklahoma County
+73128	
+Canadian County
+73129	
+Oklahoma County
+73130	
+Oklahoma County
+73131	
+Oklahoma County
+73132	
+Oklahoma County
+73134	
+Oklahoma County
+73135	
+Oklahoma County
+73136	
+Oklahoma County
+73137	
+Oklahoma County
+73139	
+Oklahoma County
+73140	
+Oklahoma County
+73141	
+Oklahoma County
+73142	
+Oklahoma County
+73143	
+Oklahoma County
+73144	
+Oklahoma County
+73145	
+Oklahoma County
+73146	
+Oklahoma County
+73147	
+Oklahoma County
+73148	
+Oklahoma County
+73149	
+Oklahoma County
+73150	
+Oklahoma County
+73151	
+Oklahoma County
+73152	
+Oklahoma County
+73153	
+Oklahoma County
+73154	
+Oklahoma County
+73155	
+Oklahoma County
+73156	
+Oklahoma County
+73157	
+Oklahoma County
+73159	
+Oklahoma County
+73160	
+Cleveland County
+73162	
+Oklahoma County
+73163	
+Oklahoma County
+73164	
+Oklahoma County
+73165	
+Cleveland County
+73167	
+Oklahoma County
+73169	
+Oklahoma County
+73170	
+Cleveland County
+73172	
+Oklahoma County
+73173	
+Cleveland County
+73178	
+Oklahoma County
+73179	
+Oklahoma County
+73184	
+Oklahoma County
+73185	
+Oklahoma County
+73189	
+Oklahoma County
+73190	
+Oklahoma County
+73193	
+Oklahoma County
+73194	
+Oklahoma County
+73195	
+Oklahoma County
+73196	
+Oklahoma County
+73197	
+Oklahoma County
+73198	
+Oklahoma County
+73199	
+Oklahoma County
+73401	
+Carter County
+73402	
+Carter County
+73403	
+Carter County
+73425	
+Stephens County
+73430	
+Love County
+73432	
+Johnston County
+73433	
+Garvin County
+73434	
+Garvin County
+73435	
+Carter County
+73436	
+Carter County
+73437	
+Carter County
+73438	
+Carter County
+73439	
+Marshall County
+73440	
+Marshall County
+73441	
+Love County
+73442	
+Stephens County
+73443	
+Carter County
+73444	
+Garvin County
+73446	
+Marshall County
+73447	
+Johnston County
+73448	
+Love County
+73449	
+Bryan County
+73450	
+Johnston County
+73451	
+73453	
+Love County
+73454	
+73455	
+Johnston County
+73456	
+Jefferson County
+73458	
+Carter County
+73459	
+Love County
+73460	
+Johnston County
+73461	
+Johnston County
+73463	
+Carter County
+73481	
+Carter County
+73487	
+Carter County
+73488	
+Carter County
+73491	
+Stephens County
+73501	
+Comanche County
+73502	
+Comanche County
+73503	
+Comanche County
+73505	
+Comanche County
+73506	
+Comanche County
+73507	
+Comanche County
+73520	
+Jefferson County
+73521	
+Jackson County
+73522	
+Jackson County
+73523	
+Jackson County
+73526	
+Jackson County
+73527	
+Comanche County
+73528	
+Tillman County
+73529	
+Stephens County
+73530	
+Tillman County
+73531	
+Cotton County
+73532	
+Jackson County
+73533	
+Stephens County
+73534	
+Stephens County
+73536	
+Stephens County
+73537	
+Jackson County
+73538	
+Comanche County
+73539	
+Jackson County
+73540	
+Comanche County
+73541	
+Comanche County
+73542	
+Tillman County
+73543	
+Comanche County
+73544	
+Harmon County
+73546	
+Tillman County
+73547	
+Greer County
+73548	
+Jefferson County
+73549	
+Jackson County
+73550	
+Harmon County
+73551	
+Tillman County
+73552	
+Comanche County
+73553	
+Tillman County
+73554	
+Greer County
+73555	
+Tillman County
+73556	
+Jackson County
+73557	
+Comanche County
+73558	
+Comanche County
+73559	
+Kiowa County
+73560	
+Jackson County
+73561	
+Jefferson County
+73562	
+Cotton County
+73564	
+Kiowa County
+73565	
+Jefferson County
+73566	
+Kiowa County
+73567	
+Comanche County
+73568	
+Cotton County
+73569	
+Jefferson County
+73570	
+Tillman County
+73571	
+Harmon County
+73572	
+Cotton County
+73573	
+Jefferson County
+73601	
+Custer County
+73620	
+Custer County
+73622	
+Washita County
+73624	
+Washita County
+73625	
+Custer County
+73626	
+Washita County
+73627	
+Beckham County
+73628	
+Roger Mills County
+73632	
+Washita County
+73638	
+Roger Mills County
+73639	
+Custer County
+73641	
+Washita County
+73642	
+Roger Mills County
+73644	
+Beckham County
+73645	
+Beckham County
+73646	
+Dewey County
+73647	
+Washita County
+73648	
+Beckham County
+73650	
+Roger Mills County
+73651	
+Kiowa County
+73654	
+Dewey County
+73655	
+Kiowa County
+73658	
+Dewey County
+73659	
+Dewey County
+73660	
+Roger Mills County
+73661	
+Washita County
+73662	
+Beckham County
+73663	
+Major County
+73664	
+Washita County
+73666	
+Roger Mills County
+73667	
+Dewey County
+73668	
+Beckham County
+73669	
+Custer County
+73673	
+Greer County
+73701	
+Garfield County
+73702	
+Garfield County
+73703	
+Garfield County
+73705	
+Garfield County
+73706	
+Garfield County
+73716	
+Alfalfa County
+73717	
+Woods County
+73718	
+Major County
+73719	
+Alfalfa County
+73720	
+Garfield County
+73722	
+Alfalfa County
+73724	
+Blaine County
+73726	
+Alfalfa County
+73727	
+Garfield County
+73728	
+Alfalfa County
+73729	
+Major County
+73730	
+Garfield County
+73731	
+Woods County
+73733	
+Garfield County
+73734	
+Kingfisher County
+73735	
+Garfield County
+73736	
+Garfield County
+73737	
+Major County
+73738	
+Garfield County
+73739	
+Alfalfa County
+73741	
+Alfalfa County
+73742	
+Kingfisher County
+73743	
+Garfield County
+73744	
+Blaine County
+73746	
+Woods County
+73747	
+Major County
+73749	
+Alfalfa County
+73750	
+Kingfisher County
+73753	
+Garfield County
+73754	
+Garfield County
+73755	
+Major County
+73756	
+Kingfisher County
+73757	
+Noble County
+73758	
+Grant County
+73759	
+Grant County
+73760	
+Major County
+73761	
+Grant County
+73762	
+Kingfisher County
+73763	
+Major County
+73764	
+Kingfisher County
+73766	
+Grant County
+73768	
+Major County
+73770	
+Blaine County
+73771	
+Grant County
+73772	
+Blaine County
+73773	
+Garfield County
+73801	
+Woodward County
+73802	
+Woodward County
+73832	
+Ellis County
+73834	
+Harper County
+73835	
+Dewey County
+73838	
+Major County
+73840	
+Ellis County
+73841	
+Woodward County
+73842	
+Woods County
+73843	
+Ellis County
+73844	
+Beaver County
+73848	
+Harper County
+73851	
+Harper County
+73852	
+Woodward County
+73853	
+Woodward County
+73855	
+Harper County
+73857	
+Woodward County
+73858	
+Ellis County
+73859	
+Woodward County
+73860	
+Woods County
+73901	
+Texas County
+73931	
+Beaver County
+73932	
+Beaver County
+73933	
+Cimarron County
+73937	
+Cimarron County
+73938	
+Beaver County
+73939	
+Texas County
+73942	
+Texas County
+73944	
+Texas County
+73945	
+Texas County
+73946	
+Cimarron County
+73947	
+Cimarron County
+73949	
+Texas County
+73950	
+Beaver County
+73951	
+Texas County
+74001	
+Osage County
+74002	
+Osage County
+74003	
+Osage County
+74004	
+Washington County
+74005	
+Washington County
+74006	
+Washington County
+74008	
+Tulsa County
+74010	
+Creek County
+74011	
+Tulsa County
+74012	
+Tulsa County
+74013	
+Wagoner County
+74014	
+Wagoner County
+74015	
+Rogers County
+74016	
+Rogers County
+74017	
+Rogers County
+74018	
+Rogers County
+74019	
+Rogers County
+74020	
+Pawnee County
+74021	
+Tulsa County
+74022	
+Washington County
+74023	
+Payne County
+74026	
+Lincoln County
+74027	
+Nowata County
+74028	
+Creek County
+74029	
+Washington County
+74030	
+Creek County
+74031	
+Rogers County
+74032	
+Payne County
+74033	
+Tulsa County
+74034	
+Pawnee County
+74035	
+Osage County
+74036	
+Rogers County
+74037	
+Tulsa County
+74038	
+Pawnee County
+74039	
+Creek County
+74041	
+Creek County
+74042	
+Nowata County
+74043	
+Tulsa County
+74044	
+Creek County
+74045	
+Payne County
+74046	
+Creek County
+74047	
+Tulsa County
+74048	
+Nowata County
+74050	
+Creek County
+74051	
+Washington County
+74052	
+Creek County
+74053	
+Rogers County
+74054	
+Osage County
+74055	
+Tulsa County
+74056	
+Osage County
+74058	
+Pawnee County
+74059	
+Payne County
+74060	
+Osage County
+74061	
+Washington County
+74062	
+Payne County
+74063	
+Tulsa County
+74066	
+Creek County
+74067	
+Creek County
+74068	
+Creek County
+74070	
+Osage County
+74071	
+Creek County
+74072	
+Nowata County
+74073	
+Tulsa County
+74074	
+Payne County
+74075	
+Payne County
+74076	
+Payne County
+74077	
+Payne County
+74078	
+Payne County
+74079	
+Lincoln County
+74080	
+Rogers County
+74081	
+Pawnee County
+74082	
+Washington County
+74083	
+Nowata County
+74084	
+Osage County
+74085	
+Payne County
+74101	
+Tulsa County
+74102	
+Tulsa County
+74103	
+Tulsa County
+74104	
+Tulsa County
+74105	
+Tulsa County
+74106	
+Tulsa County
+74107	
+Tulsa County
+74108	
+Tulsa County
+74110	
+Tulsa County
+74112	
+Tulsa County
+74114	
+Tulsa County
+74115	
+Tulsa County
+74116	
+Tulsa County
+74117	
+Tulsa County
+74119	
+Tulsa County
+74120	
+Tulsa County
+74121	
+Tulsa County
+74126	
+Tulsa County
+74127	
+Tulsa County
+74128	
+Tulsa County
+74129	
+Tulsa County
+74130	
+Tulsa County
+74131	
+Creek County
+74132	
+Tulsa County
+74133	
+Tulsa County
+74134	
+Tulsa County
+74135	
+Tulsa County
+74136	
+Tulsa County
+74137	
+Tulsa County
+74141	
+Tulsa County
+74145	
+Tulsa County
+74146	
+Tulsa County
+74147	
+Tulsa County
+74148	
+Tulsa County
+74149	
+Tulsa County
+74150	
+Tulsa County
+74152	
+Tulsa County
+74153	
+Tulsa County
+74155	
+Tulsa County
+74156	
+Tulsa County
+74157	
+Tulsa County
+74158	
+Tulsa County
+74159	
+Tulsa County
+74169	
+Tulsa County
+74170	
+Tulsa County
+74171	
+Tulsa County
+74172	
+Tulsa County
+74182	
+Tulsa County
+74183	
+Tulsa County
+74184	
+Tulsa County
+74186	
+Tulsa County
+74187	
+Tulsa County
+74189	
+Tulsa County
+74192	
+Tulsa County
+74193	
+Tulsa County
+74194	
+Tulsa County
+74301	
+Craig County
+74330	
+Mayes County
+74331	
+Delaware County
+74332	
+Craig County
+74333	
+Craig County
+74335	
+Ottawa County
+74337	
+Mayes County
+74338	
+Delaware County
+74339	
+Ottawa County
+74340	
+Mayes County
+74342	
+Delaware County
+74343	
+Ottawa County
+74344	
+Delaware County
+74345	
+Delaware County
+74346	
+Delaware County
+74347	
+Delaware County
+74349	
+Craig County
+74350	
+Mayes County
+74352	
+Mayes County
+74354	
+Ottawa County
+74355	
+Ottawa County
+74358	
+Ottawa County
+74359	
+Delaware County
+74360	
+Ottawa County
+74361	
+Mayes County
+74362	
+Mayes County
+74363	
+Ottawa County
+74364	
+Delaware County
+74365	
+Mayes County
+74366	
+Mayes County
+74367	
+Mayes County
+74368	
+Delaware County
+74369	
+Craig County
+74370	
+Ottawa County
+74401	
+Muskogee County
+74402	
+Muskogee County
+74403	
+Muskogee County
+74421	
+Okmulgee County
+74422	
+Muskogee County
+74423	
+Muskogee County
+74425	
+Pittsburg County
+74426	
+McIntosh County
+74427	
+Cherokee County
+74428	
+McIntosh County
+74429	
+Wagoner County
+74430	
+Pittsburg County
+74431	
+Okmulgee County
+74432	
+McIntosh County
+74434	
+Muskogee County
+74435	
+Sequoyah County
+74436	
+Muskogee County
+74437	
+Okmulgee County
+74438	
+McIntosh County
+74439	
+Muskogee County
+74440	
+Haskell County
+74441	
+Cherokee County
+74442	
+Pittsburg County
+74444	
+Cherokee County
+74445	
+Okmulgee County
+74446	
+Wagoner County
+74447	
+Okmulgee County
+74450	
+Muskogee County
+74451	
+Cherokee County
+74452	
+Cherokee County
+74454	
+Wagoner County
+74455	
+Muskogee County
+74456	
+Okmulgee County
+74457	
+Adair County
+74458	
+Wagoner County
+74459	
+McIntosh County
+74460	
+Okmulgee County
+74461	
+McIntosh County
+74462	
+Haskell County
+74463	
+Muskogee County
+74464	
+Cherokee County
+74465	
+Cherokee County
+74467	
+Wagoner County
+74468	
+Muskogee County
+74469	
+Muskogee County
+74470	
+Muskogee County
+74471	
+Cherokee County
+74472	
+Haskell County
+74477	
+Wagoner County
+74501	
+Pittsburg County
+74502	
+Pittsburg County
+74521	
+Pushmataha County
+74522	
+Pittsburg County
+74523	
+Pushmataha County
+74525	
+Atoka County
+74528	
+Pittsburg County
+74529	
+Pittsburg County
+74530	
+Johnston County
+74531	
+Hughes County
+74533	
+Atoka County
+74534	
+Coal County
+74535	
+Coal County
+74536	
+Pushmataha County
+74538	
+Coal County
+74540	
+Atoka County
+74542	
+Atoka County
+74543	
+Pushmataha County
+74545	
+Latimer County
+74546	
+Pittsburg County
+74547	
+Pittsburg County
+74549	
+Pushmataha County
+74552	
+Haskell County
+74553	
+Pittsburg County
+74554	
+Pittsburg County
+74555	
+Atoka County
+74556	
+Coal County
+74557	
+Pushmataha County
+74558	
+Pushmataha County
+74559	
+Latimer County
+74560	
+Pittsburg County
+74561	
+Pittsburg County
+74562	
+Pushmataha County
+74563	
+Latimer County
+74565	
+Pittsburg County
+74567	
+Pushmataha County
+74569	
+Atoka County
+74570	
+Hughes County
+74571	
+Le Flore County
+74572	
+Coal County
+74574	
+Pushmataha County
+74576	
+Atoka County
+74577	
+Le Flore County
+74578	
+Latimer County
+74601	
+Kay County
+74602	
+Kay County
+74604	
+Kay County
+74630	
+Noble County
+74631	
+Kay County
+74632	
+Kay County
+74633	
+Osage County
+74636	
+Grant County
+74637	
+Osage County
+74640	
+Garfield County
+74641	
+Kay County
+74643	
+Grant County
+74644	
+Noble County
+74646	
+Kay County
+74647	
+Kay County
+74650	
+Pawnee County
+74651	
+Noble County
+74652	
+Osage County
+74653	
+Noble County
+74701	
+Bryan County
+74702	
+Bryan County
+74720	
+Bryan County
+74721	
+Bryan County
+74722	
+McCurtain County
+74723	
+Bryan County
+74724	
+McCurtain County
+74726	
+Bryan County
+74727	
+Choctaw County
+74728	
+McCurtain County
+74729	
+Bryan County
+74730	
+Bryan County
+74731	
+Bryan County
+74733	
+Bryan County
+74734	
+McCurtain County
+74735	
+Choctaw County
+74736	
+McCurtain County
+74737	
+McCurtain County
+74738	
+Choctaw County
+74740	
+McCurtain County
+74741	
+Bryan County
+74743	
+Choctaw County
+74745	
+McCurtain County
+74747	
+Bryan County
+74748	
+Bryan County
+74750	
+McCurtain County
+74752	
+McCurtain County
+74753	
+Bryan County
+74754	
+McCurtain County
+74755	
+McCurtain County
+74756	
+Choctaw County
+74759	
+Choctaw County
+74760	
+Choctaw County
+74761	
+Choctaw County
+74764	
+McCurtain County
+74766	
+McCurtain County
+74801	
+Pottawatomie County
+74802	
+Pottawatomie County
+74804	
+Pottawatomie County
+74818	
+Seminole County
+74820	
+Pontotoc County
+74821	
+Pontotoc County
+74824	
+Lincoln County
+74825	
+Pontotoc County
+74826	
+Pottawatomie County
+74827	
+Hughes County
+74829	
+Okfuskee County
+74830	
+Seminole County
+74831	
+McClain County
+74832	
+Lincoln County
+74833	
+Okfuskee County
+74834	
+Lincoln County
+74836	
+Johnston County
+74837	
+Seminole County
+74839	
+Hughes County
+74840	
+Pottawatomie County
+74842	
+Pontotoc County
+74843	
+Pontotoc County
+74844	
+Pontotoc County
+74845	
+McIntosh County
+74848	
+Hughes County
+74849	
+Seminole County
+74850	
+Hughes County
+74851	
+Pottawatomie County
+74852	
+Pottawatomie County
+74854	
+Seminole County
+74855	
+Lincoln County
+74856	
+Johnston County
+74857	
+Cleveland County
+74859	
+Okfuskee County
+74860	
+Okfuskee County
+74864	
+Lincoln County
+74865	
+Pontotoc County
+74866	
+Pottawatomie County
+74867	
+Seminole County
+74868	
+Seminole County
+74869	
+Lincoln County
+74871	
+Pontotoc County
+74872	
+Garvin County
+74873	
+Pottawatomie County
+74875	
+Lincoln County
+74878	
+Pottawatomie County
+74880	
+Okfuskee County
+74881	
+Lincoln County
+74883	
+Hughes County
+74884	
+Seminole County
+74901	
+Le Flore County
+74902	
+Le Flore County
+74930	
+Le Flore County
+74931	
+Adair County
+74932	
+Le Flore County
+74935	
+Le Flore County
+74936	
+Sequoyah County
+74937	
+Le Flore County
+74939	
+Le Flore County
+74940	
+Le Flore County
+74941	
+Haskell County
+74942	
+Le Flore County
+74943	
+Haskell County
+74944	
+Haskell County
+74945	
+Sequoyah County
+74946	
+Sequoyah County
+74947	
+Le Flore County
+74948	
+Sequoyah County
+74949	
+Le Flore County
+74951	
+Le Flore County
+74953	
+Le Flore County
+74954	
+Sequoyah County
+74955	
+Sequoyah County
+74956	
+Le Flore County
+74957	
+McCurtain County
+74959	
+Le Flore County
+74960	
+Adair County
+74962	
+Sequoyah County
+74963	
+McCurtain County
+74964	
+Adair County
+74965	
+Adair County
+74966	
+Le Flore County
+76549
+10010
+20110
+08829
+10014
+90011
+23220
+85016
+75201
+30024
+33023
+30044
+60707
+97523
+44460
+21050
+32244
+02110
+68381
+85043
+21213
+91403
+21234
+19125
+48309
+33331
+30022

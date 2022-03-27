@@ -1,0 +1,2152 @@
+County
+50001	
+Warren County
+50002	
+Adair County
+50003	
+Dallas County
+50005	
+Marshall County
+50006	
+Hardin County
+50007	
+Polk County
+50008	
+Wayne County
+50009	
+Polk County
+50010	
+Story County
+50011	
+Story County
+50012	
+Story County
+50013	
+Story County
+50014	
+Story County
+50020	
+Cass County
+50021	
+Polk County
+50022	
+Cass County
+50023	
+Polk County
+50025	
+Audubon County
+50026	
+Guthrie County
+50027	
+Mahaska County
+50028	
+Jasper County
+50029	
+Guthrie County
+50031	
+Boone County
+50032	
+Polk County
+50033	
+Madison County
+50034	
+Hamilton County
+50035	
+Polk County
+50036	
+Boone County
+50037	
+Boone County
+50038	
+Dallas County
+50039	
+Dallas County
+50040	
+Boone County
+50041	
+Franklin County
+50042	
+Audubon County
+50043	
+Hardin County
+50044	
+Marion County
+50046	
+Story County
+50047	
+Warren County
+50048	
+Guthrie County
+50049	
+Lucas County
+50050	
+Greene County
+50051	
+Marshall County
+50052	
+Wayne County
+50054	
+Jasper County
+50055	
+Story County
+50056	
+Story County
+50057	
+Marion County
+50058	
+Carroll County
+50059	
+Greene County
+50060	
+Wayne County
+50061	
+Warren County
+50062	
+Marion County
+50063	
+Dallas County
+50064	
+Greene County
+50065	
+Decatur County
+50066	
+Dallas County
+50067	
+Decatur County
+50068	
+Lucas County
+50069	
+Dallas County
+50070	
+Dallas County
+50071	
+Wright County
+50072	
+Madison County
+50073	
+Polk County
+50074	
+Ringgold County
+50075	
+Hamilton County
+50076	
+Audubon County
+50078	
+Marshall County
+50099	
+Boone County
+50101	
+Wright County
+50102	
+Hardin County
+50103	
+Decatur County
+50104	
+Keokuk County
+50105	
+Story County
+50106	
+Marshall County
+50107	
+Greene County
+50108	
+Decatur County
+50109	
+Dallas County
+50110	
+Audubon County
+50111	
+Polk County
+50112	
+Poweshiek County
+50115	
+Guthrie County
+50116	
+Marion County
+50117	
+Audubon County
+50118	
+Warren County
+50119	
+Marion County
+50120	
+Marshall County
+50122	
+Hardin County
+50123	
+Wayne County
+50124	
+Story County
+50125	
+Warren County
+50126	
+Hardin County
+50127	
+Jasper County
+50128	
+Guthrie County
+50129	
+Greene County
+50130	
+Hamilton County
+50131	
+Polk County
+50132	
+Hamilton County
+50133	
+Ringgold County
+50134	
+Story County
+50135	
+Jasper County
+50136	
+Keokuk County
+50137	
+Jasper County
+50138	
+Marion County
+50139	
+Warren County
+50140	
+Decatur County
+50141	
+Marshall County
+50142	
+Marshall County
+50143	
+Mahaska County
+50144	
+Decatur County
+50145	
+Warren County
+50146	
+Dallas County
+50147	
+Wayne County
+50148	
+Marshall County
+50149	
+Union County
+50150	
+Monroe County
+50151	
+Lucas County
+50152	
+Boone County
+50153	
+Jasper County
+50154	
+Story County
+50155	
+Madison County
+50156	
+Boone County
+50157	
+Poweshiek County
+50158	
+Marshall County
+50160	
+Warren County
+50161	
+Story County
+50162	
+Marshall County
+50163	
+Marion County
+50164	
+Guthrie County
+50165	
+Wayne County
+50166	
+Warren County
+50167	
+Dallas County
+50168	
+Jasper County
+50169	
+Polk County
+50170	
+Jasper County
+50171	
+Poweshiek County
+50173	
+Tama County
+50174	
+Clarke County
+50201	
+Story County
+50206	
+Hardin County
+50207	
+Mahaska County
+50208	
+Jasper County
+50210	
+Warren County
+50211	
+Warren County
+50212	
+Boone County
+50213	
+Clarke County
+50214	
+Marion County
+50216	
+Guthrie County
+50217	
+Greene County
+50218	
+Madison County
+50219	
+Marion County
+50220	
+Dallas County
+50222	
+Madison County
+50223	
+Boone County
+50225	
+Marion County
+50226	
+Polk County
+50227	
+Franklin County
+50228	
+Jasper County
+50229	
+Warren County
+50230	
+Hardin County
+50231	
+Hamilton County
+50232	
+Jasper County
+50233	
+Dallas County
+50234	
+Marshall County
+50235	
+Greene County
+50236	
+Story County
+50237	
+Polk County
+50238	
+Lucas County
+50239	
+Marshall County
+50240	
+Madison County
+50241	
+Warren County
+50242	
+Poweshiek County
+50243	
+Story County
+50244	
+Story County
+50246	
+Hamilton County
+50247	
+Marshall County
+50248	
+Story County
+50249	
+Hamilton County
+50250	
+Guthrie County
+50251	
+Jasper County
+50252	
+Marion County
+50254	
+Union County
+50255	
+Keokuk County
+50256	
+Marion County
+50257	
+Madison County
+50258	
+Hardin County
+50259	
+Hardin County
+50261	
+Dallas County
+50262	
+Decatur County
+50263	
+Dallas County
+50264	
+Decatur County
+50265	
+Polk County
+50266	
+Polk County
+50268	
+Keokuk County
+50269	
+Hardin County
+50271	
+Hamilton County
+50272	
+Lucas County
+50273	
+Madison County
+50274	
+Cass County
+50275	
+Clarke County
+50276	
+Dallas County
+50277	
+Guthrie County
+50278	
+Story County
+50301	
+Polk County
+50302	
+Polk County
+50303	
+Polk County
+50304	
+Polk County
+50305	
+Polk County
+50306	
+Polk County
+50307	
+Polk County
+50308	
+Polk County
+50309	
+Polk County
+50310	
+Polk County
+50311	
+Polk County
+50312	
+Polk County
+50313	
+Polk County
+50314	
+Polk County
+50315	
+Polk County
+50316	
+Polk County
+50317	
+Polk County
+50318	
+Polk County
+50319	
+Polk County
+50320	
+Polk County
+50321	
+Polk County
+50322	
+Polk County
+50323	
+Dallas County
+50324	
+Polk County
+50325	
+Polk County
+50327	
+Polk County
+50328	
+Polk County
+50329	
+Polk County
+50330	
+Polk County
+50331	
+Polk County
+50332	
+Polk County
+50333	
+Polk County
+50334	
+Polk County
+50335	
+Polk County
+50336	
+Polk County
+50339	
+Polk County
+50340	
+Polk County
+50347	
+Polk County
+50359	
+Polk County
+50360	
+Polk County
+50361	
+Polk County
+50362	
+Polk County
+50363	
+Polk County
+50364	
+Polk County
+50367	
+Polk County
+50368	
+Polk County
+50369	
+Polk County
+50380	
+Polk County
+50381	
+Polk County
+50391	
+Polk County
+50392	
+Polk County
+50393	
+Polk County
+50394	
+Polk County
+50395	
+Polk County
+50396	
+Polk County
+50397	
+Polk County
+50398	
+Polk County
+50401	
+Cerro Gordo County
+50402	
+Cerro Gordo County
+50420	
+Franklin County
+50421	
+Wright County
+50423	
+Hancock County
+50424	
+Winnebago County
+50426	
+Mitchell County
+50427	
+Franklin County
+50428	
+Cerro Gordo County
+50430	
+Hancock County
+50431	
+Franklin County
+50432	
+Hancock County
+50433	
+Cerro Gordo County
+50434	
+Worth County
+50435	
+Floyd County
+50436	
+Winnebago County
+50438	
+Hancock County
+50439	
+Hancock County
+50440	
+Worth County
+50441	
+Franklin County
+50444	
+Worth County
+50446	
+Worth County
+50447	
+Hancock County
+50448	
+Worth County
+50449	
+Hancock County
+50450	
+Winnebago County
+50451	
+Kossuth County
+50452	
+Franklin County
+50453	
+Winnebago County
+50454	
+Mitchell County
+50455	
+Mitchell County
+50456	
+Worth County
+50457	
+Cerro Gordo County
+50458	
+Floyd County
+50459	
+Worth County
+50460	
+Mitchell County
+50461	
+Mitchell County
+50464	
+Cerro Gordo County
+50465	
+Winnebago County
+50466	
+Mitchell County
+50467	
+Cerro Gordo County
+50468	
+Floyd County
+50469	
+Cerro Gordo County
+50470	
+Wright County
+50471	
+Floyd County
+50472	
+Mitchell County
+50473	
+Winnebago County
+50475	
+Franklin County
+50476	
+Mitchell County
+50477	
+Cerro Gordo County
+50478	
+Winnebago County
+50479	
+Cerro Gordo County
+50480	
+Kossuth County
+50481	
+Mitchell County
+50482	
+Cerro Gordo County
+50483	
+Kossuth County
+50484	
+Hancock County
+50501	
+Webster County
+50510	
+Buena Vista County
+50511	
+Kossuth County
+50514	
+Emmet County
+50515	
+Palo Alto County
+50516	
+Webster County
+50517	
+Kossuth County
+50518	
+Webster County
+50519	
+Humboldt County
+50520	
+Humboldt County
+50521	
+Webster County
+50522	
+Kossuth County
+50523	
+Webster County
+50524	
+Webster County
+50525	
+Wright County
+50526	
+Wright County
+50527	
+Palo Alto County
+50528	
+Palo Alto County
+50529	
+Humboldt County
+50530	
+Webster County
+50531	
+Emmet County
+50532	
+Webster County
+50533	
+Wright County
+50535	
+Sac County
+50536	
+Palo Alto County
+50538	
+Calhoun County
+50539	
+Kossuth County
+50540	
+Pocahontas County
+50541	
+Humboldt County
+50542	
+Wright County
+50543	
+Webster County
+50544	
+Webster County
+50545	
+Humboldt County
+50546	
+Pocahontas County
+50548	
+Humboldt County
+50551	
+Calhoun County
+50552	
+Calhoun County
+50554	
+Pocahontas County
+50556	
+Kossuth County
+50557	
+Webster County
+50558	
+Humboldt County
+50559	
+Kossuth County
+50560	
+Kossuth County
+50561	
+Sac County
+50562	
+Palo Alto County
+50563	
+Calhoun County
+50565	
+Buena Vista County
+50566	
+Webster County
+50567	
+Sac County
+50568	
+Buena Vista County
+50569	
+Webster County
+50570	
+Humboldt County
+50571	
+Pocahontas County
+50573	
+Pocahontas County
+50574	
+Pocahontas County
+50575	
+Calhoun County
+50576	
+Buena Vista County
+50577	
+Humboldt County
+50578	
+Emmet County
+50579	
+Calhoun County
+50581	
+Pocahontas County
+50582	
+Humboldt County
+50583	
+Sac County
+50585	
+Buena Vista County
+50586	
+Calhoun County
+50588	
+Buena Vista County
+50590	
+Kossuth County
+50591	
+Humboldt County
+50592	
+Buena Vista County
+50593	
+Pocahontas County
+50594	
+Webster County
+50595	
+Hamilton County
+50597	
+Palo Alto County
+50598	
+Kossuth County
+50599	
+Wright County
+50601	
+Hardin County
+50602	
+Butler County
+50603	
+Chickasaw County
+50604	
+Butler County
+50605	
+Butler County
+50606	
+Fayette County
+50607	
+Buchanan County
+50608	
+Butler County
+50609	
+Grundy County
+50611	
+Butler County
+50612	
+Tama County
+50613	
+Black Hawk County
+50614	
+Black Hawk County
+50616	
+Floyd County
+50619	
+Butler County
+50620	
+Floyd County
+50621	
+Grundy County
+50622	
+Bremer County
+50623	
+Black Hawk County
+50624	
+Grundy County
+50625	
+Butler County
+50626	
+Black Hawk County
+50627	
+Hardin County
+50628	
+Howard County
+50629	
+Buchanan County
+50630	
+Chickasaw County
+50631	
+Bremer County
+50632	
+Tama County
+50633	
+Franklin County
+50634	
+Black Hawk County
+50635	
+Tama County
+50636	
+Butler County
+50638	
+Grundy County
+50641	
+Buchanan County
+50642	
+Grundy County
+50643	
+Black Hawk County
+50644	
+Buchanan County
+50645	
+Chickasaw County
+50647	
+Bremer County
+50648	
+Buchanan County
+50649	
+Butler County
+50650	
+Buchanan County
+50651	
+Black Hawk County
+50652	
+Tama County
+50653	
+Floyd County
+50654	
+Delaware County
+50655	
+Fayette County
+50657	
+Grundy County
+50658	
+Chickasaw County
+50659	
+Chickasaw County
+50660	
+Butler County
+50661	
+Chickasaw County
+50662	
+Fayette County
+50664	
+Fayette County
+50665	
+Butler County
+50666	
+Bremer County
+50667	
+Black Hawk County
+50668	
+Bremer County
+50669	
+Grundy County
+50670	
+Butler County
+50671	
+Buchanan County
+50672	
+Hardin County
+50673	
+Grundy County
+50674	
+Bremer County
+50675	
+Tama County
+50676	
+Bremer County
+50677	
+Bremer County
+50680	
+Grundy County
+50681	
+Fayette County
+50682	
+Buchanan County
+50701	
+Black Hawk County
+50702	
+Black Hawk County
+50703	
+Black Hawk County
+50704	
+Black Hawk County
+50706	
+Black Hawk County
+50707	
+Black Hawk County
+50801	
+Union County
+50830	
+Union County
+50831	
+Union County
+50833	
+Taylor County
+50835	
+Ringgold County
+50836	
+Taylor County
+50837	
+Adair County
+50839	
+Adams County
+50840	
+Taylor County
+50841	
+Adams County
+50842	
+Union County
+50843	
+Cass County
+50845	
+Ringgold County
+50846	
+Adair County
+50847	
+Montgomery County
+50848	
+Taylor County
+50849	
+Adair County
+50851	
+Taylor County
+50853	
+Cass County
+50854	
+Ringgold County
+50857	
+Adams County
+50858	
+Adair County
+50859	
+Adams County
+50860	
+Ringgold County
+50861	
+Union County
+50862	
+Taylor County
+50863	
+Ringgold County
+50864	
+Montgomery County
+50936	
+Polk County
+50940	
+Polk County
+50947	
+Polk County
+50950	
+Polk County
+50980	
+Polk County
+50981	
+Polk County
+50982	
+50983	
+51001	
+Plymouth County
+51002	
+Buena Vista County
+51003	
+Sioux County
+51004	
+Woodbury County
+51005	
+Cherokee County
+51006	
+Ida County
+51007	
+Woodbury County
+51008	
+Plymouth County
+51009	
+O'Brien County
+51010	
+Monona County
+51011	
+Sioux County
+51012	
+Cherokee County
+51014	
+Cherokee County
+51015	
+Woodbury County
+51016	
+Woodbury County
+51018	
+Woodbury County
+51019	
+Woodbury County
+51020	
+Ida County
+51022	
+Sioux County
+51023	
+Sioux County
+51024	
+Plymouth County
+51025	
+Ida County
+51026	
+Woodbury County
+51027	
+Sioux County
+51028	
+Plymouth County
+51029	
+Cherokee County
+51030	
+Woodbury County
+51031	
+Plymouth County
+51033	
+Buena Vista County
+51034	
+Monona County
+51035	
+Cherokee County
+51036	
+Sioux County
+51037	
+Cherokee County
+51038	
+Plymouth County
+51039	
+Woodbury County
+51040	
+Monona County
+51041	
+Sioux County
+51044	
+Woodbury County
+51045	
+Plymouth County
+51046	
+O'Brien County
+51047	
+Clay County
+51048	
+Woodbury County
+51049	
+Cherokee County
+51050	
+Plymouth County
+51051	
+Monona County
+51052	
+Woodbury County
+51053	
+Sac County
+51054	
+Woodbury County
+51055	
+Woodbury County
+51056	
+Woodbury County
+51058	
+O'Brien County
+51060	
+Monona County
+51061	
+Cherokee County
+51062	
+Plymouth County
+51063	
+Monona County
+51101	
+Woodbury County
+51102	
+Woodbury County
+51103	
+Woodbury County
+51104	
+Woodbury County
+51105	
+Woodbury County
+51106	
+Woodbury County
+51108	
+Woodbury County
+51109	
+Woodbury County
+51111	
+Woodbury County
+51201	
+O'Brien County
+51230	
+Lyon County
+51231	
+O'Brien County
+51232	
+Osceola County
+51234	
+Sioux County
+51235	
+Lyon County
+51237	
+Lyon County
+51238	
+Sioux County
+51239	
+Sioux County
+51240	
+Lyon County
+51241	
+Lyon County
+51242	
+Lyon County
+51243	
+Lyon County
+51244	
+Sioux County
+51245	
+O'Brien County
+51246	
+Lyon County
+51247	
+Sioux County
+51248	
+O'Brien County
+51249	
+Osceola County
+51250	
+Sioux County
+51301	
+Clay County
+51331	
+Dickinson County
+51333	
+Clay County
+51334	
+Emmet County
+51338	
+Clay County
+51340	
+Clay County
+51341	
+Clay County
+51342	
+Palo Alto County
+51343	
+Clay County
+51344	
+Emmet County
+51345	
+Osceola County
+51346	
+O'Brien County
+51347	
+Dickinson County
+51350	
+Osceola County
+51351	
+Dickinson County
+51354	
+Osceola County
+51355	
+Dickinson County
+51357	
+Clay County
+51358	
+Palo Alto County
+51360	
+Dickinson County
+51363	
+Dickinson County
+51364	
+Dickinson County
+51365	
+Emmet County
+51366	
+Clay County
+51401	
+Carroll County
+51430	
+Carroll County
+51431	
+Ida County
+51432	
+Crawford County
+51433	
+Sac County
+51436	
+Carroll County
+51439	
+Crawford County
+51440	
+Carroll County
+51441	
+Crawford County
+51442	
+Crawford County
+51443	
+Carroll County
+51444	
+Carroll County
+51445	
+Ida County
+51446	
+Shelby County
+51447	
+Shelby County
+51448	
+Crawford County
+51449	
+Calhoun County
+51450	
+Sac County
+51451	
+Carroll County
+51452	
+Carroll County
+51453	
+Calhoun County
+51454	
+Crawford County
+51455	
+Carroll County
+51458	
+Sac County
+51459	
+Carroll County
+51460	
+Crawford County
+51461	
+Crawford County
+51462	
+Greene County
+51463	
+Carroll County
+51465	
+Crawford County
+51466	
+Sac County
+51467	
+Crawford County
+51501	
+Pottawattamie County
+51502	
+Pottawattamie County
+51503	
+Pottawattamie County
+51510	
+Pottawattamie County
+51520	
+Crawford County
+51521	
+Pottawattamie County
+51523	
+Monona County
+51525	
+Pottawattamie County
+51526	
+Pottawattamie County
+51527	
+Shelby County
+51528	
+Crawford County
+51529	
+Harrison County
+51530	
+Shelby County
+51531	
+Shelby County
+51532	
+Montgomery County
+51533	
+Mills County
+51534	
+Mills County
+51535	
+Cass County
+51536	
+Pottawattamie County
+51537	
+Shelby County
+51540	
+Mills County
+51541	
+Mills County
+51542	
+Pottawattamie County
+51543	
+Audubon County
+51544	
+Cass County
+51545	
+Harrison County
+51546	
+Harrison County
+51548	
+Pottawattamie County
+51549	
+Pottawattamie County
+51550	
+Harrison County
+51551	
+Mills County
+51552	
+Cass County
+51553	
+Pottawattamie County
+51554	
+Mills County
+51555	
+Harrison County
+51556	
+Harrison County
+51557	
+Harrison County
+51558	
+Monona County
+51559	
+Pottawattamie County
+51560	
+Pottawattamie County
+51561	
+Mills County
+51562	
+Shelby County
+51563	
+Harrison County
+51564	
+Harrison County
+51565	
+Shelby County
+51566	
+Montgomery County
+51570	
+Shelby County
+51571	
+Mills County
+51572	
+Monona County
+51573	
+Montgomery County
+51575	
+Pottawattamie County
+51576	
+Pottawattamie County
+51577	
+Pottawattamie County
+51578	
+Shelby County
+51579	
+Harrison County
+51591	
+Montgomery County
+51593	
+Shelby County
+51601	
+Page County
+51602	
+Page County
+51603	
+Page County
+51630	
+Page County
+51631	
+Page County
+51632	
+Page County
+51636	
+Page County
+51637	
+Page County
+51638	
+Page County
+51639	
+Fremont County
+51640	
+Fremont County
+51645	
+Fremont County
+51646	
+Taylor County
+51647	
+Page County
+51648	
+Fremont County
+51649	
+Fremont County
+51650	
+Fremont County
+51651	
+Page County
+51652	
+Fremont County
+51653	
+Fremont County
+51654	
+Fremont County
+51656	
+Page County
+52001	
+Dubuque County
+52002	
+Dubuque County
+52003	
+Dubuque County
+52004	
+Dubuque County
+52030	
+Jackson County
+52031	
+Jackson County
+52032	
+Dubuque County
+52033	
+Dubuque County
+52035	
+Delaware County
+52036	
+Delaware County
+52037	
+Clinton County
+52038	
+Delaware County
+52039	
+Dubuque County
+52040	
+Dubuque County
+52041	
+Delaware County
+52042	
+Clayton County
+52043	
+Clayton County
+52044	
+Clayton County
+52045	
+Dubuque County
+52046	
+Dubuque County
+52047	
+Clayton County
+52048	
+Clayton County
+52049	
+Clayton County
+52050	
+Delaware County
+52052	
+Clayton County
+52053	
+Dubuque County
+52054	
+Jackson County
+52056	
+Dubuque County
+52057	
+Delaware County
+52060	
+Jackson County
+52064	
+Jackson County
+52065	
+Dubuque County
+52066	
+Clayton County
+52068	
+Dubuque County
+52069	
+Jackson County
+52070	
+Jackson County
+52071	
+Jackson County
+52072	
+Clayton County
+52073	
+Dubuque County
+52074	
+Jackson County
+52075	
+Jackson County
+52076	
+Clayton County
+52077	
+Clayton County
+52078	
+Dubuque County
+52079	
+Jackson County
+52099	
+Dubuque County
+52101	
+Winneshiek County
+52132	
+Winneshiek County
+52133	
+Winneshiek County
+52134	
+Howard County
+52135	
+Fayette County
+52136	
+Howard County
+52140	
+Allamakee County
+52141	
+Fayette County
+52142	
+Fayette County
+52144	
+Winneshiek County
+52146	
+Allamakee County
+52147	
+Fayette County
+52149	
+Winneshiek County
+52151	
+Allamakee County
+52154	
+Chickasaw County
+52155	
+Howard County
+52156	
+Clayton County
+52157	
+Clayton County
+52158	
+Clayton County
+52159	
+Clayton County
+52160	
+Allamakee County
+52161	
+Winneshiek County
+52162	
+Allamakee County
+52163	
+Howard County
+52164	
+Fayette County
+52165	
+Winneshiek County
+52166	
+Fayette County
+52168	
+Winneshiek County
+52169	
+Fayette County
+52170	
+Allamakee County
+52171	
+Fayette County
+52172	
+Allamakee County
+52175	
+Fayette County
+52201	
+Washington County
+52202	
+Linn County
+52203	
+Iowa County
+52204	
+Iowa County
+52205	
+Jones County
+52206	
+Benton County
+52207	
+Jackson County
+52208	
+Benton County
+52209	
+Benton County
+52210	
+Buchanan County
+52211	
+Poweshiek County
+52212	
+Jones County
+52213	
+Linn County
+52214	
+Linn County
+52215	
+Tama County
+52216	
+Cedar County
+52217	
+Tama County
+52218	
+Linn County
+52219	
+Linn County
+52220	
+Iowa County
+52221	
+Poweshiek County
+52222	
+Poweshiek County
+52223	
+Delaware County
+52224	
+Tama County
+52225	
+Tama County
+52227	
+Linn County
+52228	
+Linn County
+52229	
+Benton County
+52231	
+Keokuk County
+52232	
+Poweshiek County
+52233	
+Linn County
+52235	
+Johnson County
+52236	
+Iowa County
+52237	
+Delaware County
+52240	
+Johnson County
+52241	
+Johnson County
+52242	
+Johnson County
+52243	
+Johnson County
+52244	
+Johnson County
+52245	
+Johnson County
+52246	
+Johnson County
+52247	
+Washington County
+52248	
+Keokuk County
+52249	
+Benton County
+52251	
+Iowa County
+52252	
+Jones County
+52253	
+Linn County
+52254	
+Clinton County
+52255	
+Cedar County
+52257	
+Benton County
+52301	
+Iowa County
+52302	
+Linn County
+52305	
+Jones County
+52306	
+Cedar County
+52307	
+Iowa County
+52308	
+Iowa County
+52309	
+Jackson County
+52310	
+Jones County
+52312	
+Jones County
+52313	
+Benton County
+52314	
+Linn County
+52315	
+Benton County
+52316	
+Iowa County
+52317	
+Johnson County
+52318	
+Benton County
+52319	
+Johnson County
+52320	
+Jones County
+52321	
+Jones County
+52322	
+Johnson County
+52323	
+Jones County
+52324	
+Linn County
+52325	
+Iowa County
+52326	
+Buchanan County
+52327	
+Washington County
+52328	
+Linn County
+52329	
+Buchanan County
+52330	
+Delaware County
+52332	
+Benton County
+52333	
+Johnson County
+52334	
+Iowa County
+52335	
+Keokuk County
+52336	
+Linn County
+52337	
+Cedar County
+52338	
+Johnson County
+52339	
+Tama County
+52340	
+Johnson County
+52341	
+Linn County
+52342	
+Tama County
+52344	
+Linn County
+52345	
+Benton County
+52346	
+Benton County
+52347	
+Iowa County
+52348	
+Tama County
+52349	
+Benton County
+52350	
+Linn County
+52351	
+Benton County
+52352	
+Linn County
+52353	
+Washington County
+52354	
+Benton County
+52355	
+Keokuk County
+52356	
+Washington County
+52358	
+Cedar County
+52359	
+Washington County
+52361	
+Iowa County
+52362	
+Jones County
+52401	
+Linn County
+52402	
+Linn County
+52403	
+Linn County
+52404	
+Linn County
+52405	
+Linn County
+52406	
+Linn County
+52407	
+Linn County
+52408	
+Linn County
+52409	
+Linn County
+52410	
+Linn County
+52411	
+Linn County
+52497	
+Linn County
+52498	
+Linn County
+52499	
+Linn County
+52501	
+Wapello County
+52530	
+Wapello County
+52531	
+Monroe County
+52533	
+Jefferson County
+52534	
+Mahaska County
+52535	
+Van Buren County
+52536	
+Wapello County
+52537	
+Davis County
+52538	
+Davis County
+52540	
+Washington County
+52542	
+Van Buren County
+52543	
+Mahaska County
+52544	
+Appanoose County
+52548	
+Wapello County
+52549	
+Appanoose County
+52550	
+Keokuk County
+52551	
+Van Buren County
+52552	
+Davis County
+52553	
+Wapello County
+52554	
+Wapello County
+52555	
+Appanoose County
+52556	
+Jefferson County
+52557	
+Jefferson County
+52560	
+Davis County
+52561	
+Mahaska County
+52562	
+Keokuk County
+52563	
+Keokuk County
+52565	
+Van Buren County
+52566	
+Wapello County
+52567	
+Jefferson County
+52568	
+Keokuk County
+52569	
+Monroe County
+52570	
+Van Buren County
+52571	
+Appanoose County
+52572	
+Appanoose County
+52573	
+Van Buren County
+52574	
+Appanoose County
+52576	
+Keokuk County
+52577	
+Mahaska County
+52580	
+Jefferson County
+52581	
+Appanoose County
+52583	
+Wayne County
+52584	
+Davis County
+52585	
+Keokuk County
+52586	
+Mahaska County
+52588	
+Van Buren County
+52590	
+Wayne County
+52591	
+Keokuk County
+52593	
+Appanoose County
+52594	
+Appanoose County
+52595	
+Mahaska County
+52601	
+Des Moines County
+52619	
+Lee County
+52620	
+Van Buren County
+52621	
+Washington County
+52623	
+Des Moines County
+52624	
+Lee County
+52625	
+Lee County
+52626	
+Van Buren County
+52627	
+Lee County
+52630	
+Henry County
+52631	
+Lee County
+52632	
+Lee County
+52635	
+Jefferson County
+52637	
+Des Moines County
+52638	
+Des Moines County
+52639	
+Lee County
+52640	
+Louisa County
+52641	
+Henry County
+52642	
+Henry County
+52644	
+Henry County
+52645	
+Henry County
+52646	
+Louisa County
+52647	
+Henry County
+52648	
+Lee County
+52649	
+Henry County
+52650	
+Des Moines County
+52651	
+Van Buren County
+52652	
+Henry County
+52653	
+Louisa County
+52654	
+Henry County
+52655	
+Des Moines County
+52656	
+Lee County
+52657	
+Lee County
+52658	
+Lee County
+52659	
+Henry County
+52660	
+Des Moines County
+52701	
+Clinton County
+52720	
+Muscatine County
+52721	
+Cedar County
+52722	
+Scott County
+52726	
+Scott County
+52727	
+Clinton County
+52728	
+Scott County
+52729	
+Clinton County
+52730	
+Clinton County
+52731	
+Clinton County
+52732	
+Clinton County
+52733	
+Clinton County
+52734	
+Clinton County
+52736	
+Clinton County
+52737	
+Louisa County
+52738	
+Louisa County
+52739	
+Muscatine County
+52742	
+Clinton County
+52745	
+Scott County
+52746	
+Scott County
+52747	
+Cedar County
+52748	
+Scott County
+52749	
+Muscatine County
+52750	
+Clinton County
+52751	
+Clinton County
+52752	
+Louisa County
+52753	
+Scott County
+52754	
+Louisa County
+52755	
+Johnson County
+52756	
+Scott County
+52757	
+Clinton County
+52758	
+Scott County
+52759	
+Muscatine County
+52760	
+Muscatine County
+52761	
+Muscatine County
+52765	
+Scott County
+52766	
+Muscatine County
+52767	
+Scott County
+52768	
+Scott County
+52769	
+Muscatine County
+52771	
+Clinton County
+52772	
+Cedar County
+52773	
+Scott County
+52774	
+Clinton County
+52776	
+Muscatine County
+52777	
+Clinton County
+52778	
+Muscatine County
+52801	
+Scott County
+52802	
+Scott County
+52803	
+Scott County
+52804	
+Scott County
+52805	
+Scott County
+52806	
+Scott County
+52807	
+Scott County
+52808	
+Scott County
+52809	
+Scott County
+10004
+32904
+18428
+17268
+55443
+10031
+10001
+30075
+90042
+10012
+11204
+01543
+21076
+18419
+11550
+01945
+16510
+11203
+18414
+91006
+61616
+11213
+33312
+49971
+97478
+43230
+11215

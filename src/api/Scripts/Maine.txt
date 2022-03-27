@@ -1,0 +1,1004 @@
+County
+03901	
+York County
+03902	
+York County
+03903	
+York County
+03904	
+York County
+03905	
+York County
+03906	
+York County
+03907	
+York County
+03908	
+York County
+03909	
+York County
+03910	
+York County
+03911	
+York County
+04001	
+York County
+04002	
+York County
+04003	
+Cumberland County
+04004	
+York County
+04005	
+York County
+04006	
+York County
+04007	
+York County
+04008	
+Sagadahoc County
+04009	
+Cumberland County
+04010	
+Oxford County
+04011	
+Cumberland County
+04013	
+Cumberland County
+04014	
+York County
+04015	
+Cumberland County
+04016	
+Oxford County
+04017	
+Cumberland County
+04019	
+Cumberland County
+04020	
+York County
+04021	
+Cumberland County
+04022	
+Oxford County
+04024	
+Cumberland County
+04027	
+York County
+04028	
+York County
+04029	
+Cumberland County
+04030	
+York County
+04032	
+Cumberland County
+04033	
+Cumberland County
+04034	
+Cumberland County
+04037	
+Oxford County
+04038	
+Cumberland County
+04039	
+Cumberland County
+04040	
+Cumberland County
+04041	
+Oxford County
+04042	
+York County
+04043	
+York County
+04046	
+York County
+04047	
+York County
+04048	
+York County
+04049	
+York County
+04050	
+Cumberland County
+04051	
+Oxford County
+04054	
+York County
+04055	
+Cumberland County
+04056	
+York County
+04057	
+Cumberland County
+04061	
+York County
+04062	
+Cumberland County
+04063	
+York County
+04064	
+York County
+04066	
+Cumberland County
+04068	
+Oxford County
+04069	
+Cumberland County
+04070	
+Cumberland County
+04071	
+Cumberland County
+04072	
+York County
+04073	
+York County
+04074	
+Cumberland County
+04075	
+Cumberland County
+04076	
+York County
+04077	
+Cumberland County
+04078	
+Cumberland County
+04079	
+Cumberland County
+04082	
+Cumberland County
+04083	
+York County
+04084	
+Cumberland County
+04085	
+Cumberland County
+04086	
+Sagadahoc County
+04087	
+York County
+04088	
+Oxford County
+04090	
+York County
+04091	
+Cumberland County
+04092	
+Cumberland County
+04093	
+York County
+04094	
+York County
+04095	
+York County
+04096	
+Cumberland County
+04097	
+Cumberland County
+04098	
+Cumberland County
+04101	
+Cumberland County
+04102	
+Cumberland County
+04103	
+Cumberland County
+04104	
+Cumberland County
+04105	
+Cumberland County
+04106	
+Cumberland County
+04107	
+Cumberland County
+04108	
+Cumberland County
+04109	
+Cumberland County
+04110	
+Cumberland County
+04112	
+Cumberland County
+04116	
+Cumberland County
+04122	
+Cumberland County
+04123	
+Cumberland County
+04124	
+Cumberland County
+04210	
+Androscoggin County
+04211	
+Androscoggin County
+04212	
+Androscoggin County
+04216	
+Oxford County
+04217	
+Oxford County
+04219	
+Oxford County
+04220	
+Oxford County
+04221	
+Oxford County
+04222	
+Androscoggin County
+04223	
+Androscoggin County
+04224	
+Oxford County
+04225	
+Franklin County
+04226	
+Oxford County
+04227	
+Oxford County
+04228	
+Androscoggin County
+04230	
+Androscoggin County
+04231	
+Oxford County
+04234	
+Franklin County
+04236	
+Androscoggin County
+04237	
+Oxford County
+04238	
+Oxford County
+04239	
+Franklin County
+04240	
+Androscoggin County
+04241	
+Androscoggin County
+04243	
+Androscoggin County
+04250	
+Androscoggin County
+04252	
+Androscoggin County
+04253	
+Androscoggin County
+04254	
+Androscoggin County
+04255	
+Oxford County
+04256	
+Androscoggin County
+04257	
+Oxford County
+04258	
+Androscoggin County
+04259	
+Kennebec County
+04260	
+Cumberland County
+04261	
+Oxford County
+04262	
+Franklin County
+04263	
+Androscoggin County
+04265	
+Kennebec County
+04266	
+Androscoggin County
+04267	
+Oxford County
+04268	
+Oxford County
+04270	
+Oxford County
+04271	
+Oxford County
+04274	
+Androscoggin County
+04275	
+Oxford County
+04276	
+Oxford County
+04280	
+Androscoggin County
+04281	
+Oxford County
+04282	
+Androscoggin County
+04284	
+Kennebec County
+04285	
+Franklin County
+04286	
+Oxford County
+04287	
+Sagadahoc County
+04288	
+Androscoggin County
+04289	
+Oxford County
+04290	
+Oxford County
+04291	
+Androscoggin County
+04292	
+Oxford County
+04294	
+Franklin County
+04330	
+Kennebec County
+04332	
+Kennebec County
+04333	
+Kennebec County
+04336	
+Kennebec County
+04338	
+Kennebec County
+04341	
+Lincoln County
+04342	
+Lincoln County
+04343	
+Kennebec County
+04344	
+Kennebec County
+04345	
+Kennebec County
+04346	
+Kennebec County
+04347	
+Kennebec County
+04348	
+Lincoln County
+04349	
+Kennebec County
+04350	
+Kennebec County
+04351	
+Kennebec County
+04352	
+Kennebec County
+04353	
+Lincoln County
+04354	
+Waldo County
+04355	
+Kennebec County
+04357	
+Sagadahoc County
+04358	
+Kennebec County
+04359	
+Kennebec County
+04360	
+Kennebec County
+04363	
+Kennebec County
+04364	
+Kennebec County
+04401	
+Penobscot County
+04402	
+Penobscot County
+04406	
+Piscataquis County
+04408	
+Hancock County
+04410	
+Penobscot County
+04411	
+Penobscot County
+04412	
+Penobscot County
+04413	
+Washington County
+04414	
+Piscataquis County
+04415	
+Piscataquis County
+04416	
+Hancock County
+04417	
+Penobscot County
+04418	
+Penobscot County
+04419	
+Penobscot County
+04420	
+Hancock County
+04421	
+Hancock County
+04422	
+Penobscot County
+04424	
+Washington County
+04426	
+Piscataquis County
+04427	
+Penobscot County
+04428	
+Penobscot County
+04429	
+Penobscot County
+04430	
+Penobscot County
+04431	
+Hancock County
+04434	
+Penobscot County
+04435	
+Penobscot County
+04438	
+Waldo County
+04441	
+Piscataquis County
+04442	
+Piscataquis County
+04443	
+Piscataquis County
+04444	
+Penobscot County
+04448	
+Penobscot County
+04449	
+Penobscot County
+04450	
+Penobscot County
+04451	
+Penobscot County
+04453	
+Penobscot County
+04454	
+Washington County
+04455	
+Penobscot County
+04456	
+Penobscot County
+04457	
+Penobscot County
+04459	
+Penobscot County
+04460	
+Penobscot County
+04461	
+Penobscot County
+04462	
+Penobscot County
+04463	
+Piscataquis County
+04464	
+Piscataquis County
+04467	
+Penobscot County
+04468	
+Penobscot County
+04469	
+Penobscot County
+04471	
+Aroostook County
+04472	
+Hancock County
+04473	
+Penobscot County
+04474	
+Penobscot County
+04475	
+Penobscot County
+04476	
+Hancock County
+04478	
+Somerset County
+04479	
+Piscataquis County
+04481	
+Piscataquis County
+04485	
+Piscataquis County
+04487	
+Penobscot County
+04488	
+Penobscot County
+04489	
+Penobscot County
+04490	
+Washington County
+04491	
+Washington County
+04492	
+Washington County
+04493	
+Penobscot County
+04495	
+Penobscot County
+04496	
+Waldo County
+04497	
+Aroostook County
+04530	
+Sagadahoc County
+04535	
+Lincoln County
+04537	
+Lincoln County
+04538	
+Lincoln County
+04539	
+Lincoln County
+04541	
+Lincoln County
+04543	
+Lincoln County
+04544	
+Lincoln County
+04547	
+Knox County
+04548	
+Sagadahoc County
+04549	
+Lincoln County
+04551	
+Lincoln County
+04553	
+Lincoln County
+04554	
+Lincoln County
+04555	
+Lincoln County
+04556	
+Lincoln County
+04558	
+Lincoln County
+04562	
+Sagadahoc County
+04563	
+Knox County
+04564	
+Lincoln County
+04565	
+Sagadahoc County
+04568	
+Lincoln County
+04570	
+Lincoln County
+04571	
+Lincoln County
+04572	
+Lincoln County
+04573	
+Lincoln County
+04574	
+Knox County
+04575	
+Lincoln County
+04576	
+Lincoln County
+04578	
+Lincoln County
+04579	
+Sagadahoc County
+04605	
+Hancock County
+04606	
+Washington County
+04607	
+Hancock County
+04609	
+Hancock County
+04611	
+Washington County
+04612	
+Hancock County
+04613	
+Hancock County
+04614	
+Hancock County
+04616	
+Hancock County
+04617	
+Hancock County
+04619	
+Washington County
+04622	
+Washington County
+04623	
+Washington County
+04624	
+Hancock County
+04625	
+Hancock County
+04626	
+Washington County
+04627	
+Hancock County
+04628	
+Washington County
+04629	
+Hancock County
+04630	
+Washington County
+04631	
+Washington County
+04634	
+Hancock County
+04635	
+Hancock County
+04637	
+Washington County
+04640	
+Hancock County
+04642	
+Hancock County
+04643	
+Washington County
+04644	
+Hancock County
+04645	
+Knox County
+04646	
+Hancock County
+04648	
+Washington County
+04649	
+Washington County
+04650	
+Hancock County
+04652	
+Washington County
+04653	
+Hancock County
+04654	
+Washington County
+04655	
+Washington County
+04657	
+Washington County
+04658	
+Washington County
+04660	
+Hancock County
+04662	
+Hancock County
+04664	
+Hancock County
+04666	
+Washington County
+04667	
+Washington County
+04668	
+Washington County
+04669	
+Hancock County
+04671	
+Washington County
+04672	
+Hancock County
+04673	
+Hancock County
+04674	
+Hancock County
+04675	
+Hancock County
+04676	
+Hancock County
+04677	
+Hancock County
+04679	
+Hancock County
+04680	
+Washington County
+04681	
+Hancock County
+04683	
+Hancock County
+04684	
+Hancock County
+04685	
+Hancock County
+04686	
+Washington County
+04691	
+Washington County
+04693	
+Hancock County
+04694	
+Washington County
+04730	
+Aroostook County
+04732	
+Aroostook County
+04733	
+Aroostook County
+04734	
+Aroostook County
+04735	
+Aroostook County
+04736	
+Aroostook County
+04737	
+Aroostook County
+04738	
+Aroostook County
+04739	
+Aroostook County
+04740	
+Aroostook County
+04741	
+Aroostook County
+04742	
+Aroostook County
+04743	
+Aroostook County
+04744	
+Aroostook County
+04745	
+Aroostook County
+04746	
+Aroostook County
+04747	
+Aroostook County
+04750	
+Aroostook County
+04751	
+Aroostook County
+04756	
+Aroostook County
+04757	
+Aroostook County
+04758	
+Aroostook County
+04760	
+Aroostook County
+04761	
+Aroostook County
+04762	
+Aroostook County
+04763	
+Aroostook County
+04764	
+Aroostook County
+04765	
+Penobscot County
+04766	
+Aroostook County
+04768	
+Aroostook County
+04769	
+Aroostook County
+04772	
+Aroostook County
+04773	
+Aroostook County
+04774	
+Aroostook County
+04775	
+Aroostook County
+04776	
+Aroostook County
+04777	
+Penobscot County
+04779	
+Aroostook County
+04780	
+Aroostook County
+04781	
+Aroostook County
+04783	
+Aroostook County
+04785	
+Aroostook County
+04786	
+Aroostook County
+04787	
+Aroostook County
+04841	
+Knox County
+04843	
+Knox County
+04846	
+Knox County
+04847	
+Knox County
+04848	
+Waldo County
+04849	
+Waldo County
+04850	
+Waldo County
+04851	
+Knox County
+04852	
+Lincoln County
+04853	
+Knox County
+04854	
+Knox County
+04855	
+Knox County
+04856	
+Knox County
+04858	
+Knox County
+04859	
+Knox County
+04860	
+Knox County
+04861	
+Knox County
+04862	
+Knox County
+04863	
+Knox County
+04864	
+Knox County
+04865	
+Knox County
+04901	
+Kennebec County
+04903	
+Kennebec County
+04910	
+Kennebec County
+04911	
+Somerset County
+04912	
+Somerset County
+04915	
+Waldo County
+04917	
+Kennebec County
+04918	
+Kennebec County
+04920	
+Somerset County
+04921	
+Waldo County
+04922	
+Waldo County
+04923	
+Somerset County
+04924	
+Somerset County
+04925	
+Somerset County
+04926	
+Kennebec County
+04927	
+Kennebec County
+04928	
+Penobscot County
+04929	
+Somerset County
+04930	
+Penobscot County
+04932	
+Penobscot County
+04933	
+Penobscot County
+04935	
+Kennebec County
+04936	
+Franklin County
+04937	
+Somerset County
+04938	
+Franklin County
+04939	
+Penobscot County
+04940	
+Franklin County
+04941	
+Waldo County
+04942	
+Somerset County
+04943	
+Somerset County
+04944	
+Somerset County
+04945	
+Somerset County
+04947	
+Franklin County
+04949	
+Waldo County
+04950	
+Somerset County
+04951	
+Waldo County
+04952	
+Waldo County
+04953	
+Penobscot County
+04954	
+Somerset County
+04955	
+Franklin County
+04956	
+Franklin County
+04957	
+Somerset County
+04958	
+Somerset County
+04961	
+Somerset County
+04962	
+Kennebec County
+04963	
+Kennebec County
+04964	
+Franklin County
+04965	
+Somerset County
+04966	
+Franklin County
+04967	
+Somerset County
+04969	
+Penobscot County
+04970	
+Franklin County
+04971	
+Somerset County
+04972	
+Waldo County
+04973	
+Waldo County
+04974	
+Waldo County
+04975	
+Somerset County
+04976	
+Somerset County
+04978	
+Somerset County
+04979	
+Somerset County
+04981	
+Waldo County
+04982	
+Franklin County
+04983	
+Franklin County
+04984	
+Franklin County
+04985	
+Somerset County
+04986	
+Waldo County
+04987	
+Waldo County
+04988	
+Waldo County
+04989	
+Kennebec County
+04992	
+Franklin County
+22304
+30324
+91350
+30312
+77493
+20110
+11213
+60154
+11221
+22030
+19133
+60155
+64112
+97006
+11201
+94109
+33012
+43105
+10605
+07102
+97478
+70592
+56278
+11212
+17044
+37174
+45302

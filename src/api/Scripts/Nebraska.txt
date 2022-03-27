@@ -1,0 +1,1269 @@
+County
+68001	
+Butler County
+68002	
+Washington County
+68003	
+Saunders County
+68004	
+Cuming County
+68005	
+Sarpy County
+68007	
+Douglas County
+68008	
+Washington County
+68009	
+Washington County
+68010	
+Douglas County
+68014	
+Butler County
+68015	
+Saunders County
+68016	
+Cass County
+68017	
+Saunders County
+68018	
+Saunders County
+68019	
+Burt County
+68020	
+Burt County
+68022	
+Douglas County
+68023	
+Washington County
+68025	
+Dodge County
+68026	
+Dodge County
+68028	
+Sarpy County
+68029	
+Washington County
+68030	
+Dakota County
+68031	
+Dodge County
+68033	
+Saunders County
+68034	
+Washington County
+68036	
+Butler County
+68037	
+Cass County
+68038	
+Burt County
+68039	
+Thurston County
+68040	
+Saunders County
+68041	
+Saunders County
+68042	
+Saunders County
+68044	
+Dodge County
+68045	
+Burt County
+68046	
+Sarpy County
+68047	
+Wayne County
+68048	
+Cass County
+68050	
+Saunders County
+68055	
+Thurston County
+68056	
+Sarpy County
+68057	
+Dodge County
+68058	
+Cass County
+68059	
+Sarpy County
+68061	
+Burt County
+68062	
+Thurston County
+68063	
+Dodge County
+68064	
+Douglas County
+68065	
+Saunders County
+68066	
+Saunders County
+68067	
+Thurston County
+68068	
+Washington County
+68069	
+Douglas County
+68070	
+Saunders County
+68071	
+Thurston County
+68072	
+Dodge County
+68073	
+Saunders County
+68101	
+Douglas County
+68102	
+Douglas County
+68103	
+Douglas County
+68104	
+Douglas County
+68105	
+Douglas County
+68106	
+Douglas County
+68107	
+Douglas County
+68108	
+Douglas County
+68109	
+Douglas County
+68110	
+Douglas County
+68111	
+Douglas County
+68112	
+Douglas County
+68113	
+Sarpy County
+68114	
+Douglas County
+68116	
+Douglas County
+68117	
+Douglas County
+68118	
+Douglas County
+68119	
+Douglas County
+68120	
+Douglas County
+68122	
+Douglas County
+68123	
+Sarpy County
+68124	
+Douglas County
+68127	
+Douglas County
+68128	
+Sarpy County
+68130	
+Douglas County
+68131	
+Douglas County
+68132	
+Douglas County
+68133	
+Sarpy County
+68134	
+Douglas County
+68135	
+Douglas County
+68136	
+Sarpy County
+68137	
+Douglas County
+68138	
+Sarpy County
+68139	
+Douglas County
+68142	
+Douglas County
+68144	
+Douglas County
+68145	
+Douglas County
+68147	
+Sarpy County
+68152	
+Douglas County
+68154	
+Douglas County
+68155	
+Douglas County
+68157	
+Sarpy County
+68164	
+Douglas County
+68172	
+Douglas County
+68175	
+Douglas County
+68176	
+Douglas County
+68178	
+Douglas County
+68179	
+Douglas County
+68180	
+Douglas County
+68181	
+Douglas County
+68182	
+Douglas County
+68183	
+Douglas County
+68197	
+Douglas County
+68198	
+Douglas County
+68301	
+Gage County
+68303	
+Thayer County
+68304	
+Cass County
+68305	
+Nemaha County
+68307	
+Cass County
+68309	
+Gage County
+68310	
+Gage County
+68313	
+Seward County
+68314	
+Seward County
+68315	
+Thayer County
+68316	
+York County
+68317	
+Lancaster County
+68318	
+Gage County
+68319	
+York County
+68320	
+Nemaha County
+68321	
+Nemaha County
+68322	
+Thayer County
+68323	
+Pawnee County
+68324	
+Otoe County
+68325	
+Thayer County
+68326	
+Thayer County
+68327	
+Thayer County
+68328	
+Gage County
+68329	
+Johnson County
+68330	
+Seward County
+68331	
+Gage County
+68332	
+Johnson County
+68333	
+Saline County
+68335	
+Thayer County
+68336	
+Lancaster County
+68337	
+Richardson County
+68338	
+Jefferson County
+68339	
+Lancaster County
+68340	
+Thayer County
+68341	
+Saline County
+68342	
+Jefferson County
+68343	
+Saline County
+68344	
+Otoe County
+68345	
+Pawnee County
+68346	
+Otoe County
+68347	
+Cass County
+68348	
+Johnson County
+68349	
+Cass County
+68350	
+Jefferson County
+68351	
+Fillmore County
+68352	
+Jefferson County
+68354	
+Fillmore County
+68355	
+Richardson County
+68357	
+Gage County
+68358	
+Lancaster County
+68359	
+Saline County
+68360	
+Seward County
+68361	
+Fillmore County
+68362	
+Thayer County
+68364	
+Seward County
+68365	
+Fillmore County
+68366	
+Cass County
+68367	
+York County
+68368	
+Lancaster County
+68370	
+Thayer County
+68371	
+York County
+68372	
+Lancaster County
+68375	
+Thayer County
+68376	
+Richardson County
+68377	
+Jefferson County
+68378	
+Nemaha County
+68379	
+Nemaha County
+68380	
+Pawnee County
+68381	
+Gage County
+68382	
+Otoe County
+68401	
+York County
+68402	
+Lancaster County
+68403	
+Cass County
+68404	
+Lancaster County
+68405	
+Seward County
+68406	
+Fillmore County
+68407	
+Cass County
+68409	
+Cass County
+68410	
+Otoe County
+68413	
+Cass County
+68414	
+Nemaha County
+68415	
+Gage County
+68416	
+Fillmore County
+68417	
+Otoe County
+68418	
+Otoe County
+68419	
+Lancaster County
+68420	
+Pawnee County
+68421	
+Nemaha County
+68422	
+Gage County
+68423	
+Seward County
+68424	
+Jefferson County
+68428	
+Lancaster County
+68429	
+Jefferson County
+68430	
+Lancaster County
+68431	
+Richardson County
+68433	
+Richardson County
+68434	
+Seward County
+68436	
+Fillmore County
+68437	
+Richardson County
+68438	
+Lancaster County
+68439	
+Seward County
+68440	
+Jefferson County
+68441	
+Pawnee County
+68442	
+Richardson County
+68443	
+Johnson County
+68444	
+Fillmore County
+68445	
+Saline County
+68446	
+Otoe County
+68447	
+Pawnee County
+68448	
+Otoe County
+68450	
+Johnson County
+68452	
+Clay County
+68453	
+Saline County
+68454	
+Otoe County
+68455	
+Cass County
+68456	
+Seward County
+68457	
+Richardson County
+68458	
+Gage County
+68460	
+York County
+68461	
+Lancaster County
+68462	
+Lancaster County
+68463	
+Cass County
+68464	
+Saline County
+68465	
+Saline County
+68466	
+Gage County
+68467	
+York County
+68501	
+Lancaster County
+68502	
+Lancaster County
+68503	
+Lancaster County
+68504	
+Lancaster County
+68505	
+Lancaster County
+68506	
+Lancaster County
+68507	
+Lancaster County
+68508	
+Lancaster County
+68509	
+Lancaster County
+68510	
+Lancaster County
+68512	
+Lancaster County
+68514	
+Lancaster County
+68516	
+Lancaster County
+68517	
+Lancaster County
+68520	
+Lancaster County
+68521	
+Lancaster County
+68522	
+Lancaster County
+68523	
+Lancaster County
+68524	
+Lancaster County
+68526	
+Lancaster County
+68527	
+Lancaster County
+68528	
+Lancaster County
+68529	
+Lancaster County
+68531	
+Lancaster County
+68532	
+Lancaster County
+68542	
+Lancaster County
+68544	
+68583	
+Lancaster County
+68588	
+Lancaster County
+68601	
+Platte County
+68602	
+Platte County
+68620	
+Boone County
+68621	
+Dodge County
+68622	
+Wheeler County
+68623	
+Nance County
+68624	
+Butler County
+68626	
+Butler County
+68627	
+Boone County
+68628	
+Merrick County
+68629	
+Colfax County
+68631	
+Platte County
+68632	
+Butler County
+68633	
+Dodge County
+68634	
+Platte County
+68635	
+Butler County
+68636	
+Antelope County
+68637	
+Wheeler County
+68638	
+Nance County
+68640	
+Nance County
+68641	
+Colfax County
+68642	
+Platte County
+68643	
+Colfax County
+68644	
+Platte County
+68647	
+Platte County
+68648	
+Saunders County
+68649	
+Dodge County
+68651	
+Polk County
+68652	
+Boone County
+68653	
+Platte County
+68654	
+Polk County
+68655	
+Boone County
+68658	
+Butler County
+68659	
+Colfax County
+68660	
+Boone County
+68661	
+Colfax County
+68662	
+Polk County
+68663	
+Merrick County
+68664	
+Dodge County
+68665	
+Greeley County
+68666	
+Polk County
+68667	
+Butler County
+68669	
+Butler County
+68701	
+Madison County
+68702	
+Madison County
+68710	
+Dixon County
+68711	
+Holt County
+68713	
+Holt County
+68714	
+Rock County
+68715	
+Madison County
+68716	
+Cuming County
+68717	
+Cedar County
+68718	
+Knox County
+68719	
+Boyd County
+68720	
+Antelope County
+68722	
+Boyd County
+68723	
+Wayne County
+68724	
+Knox County
+68725	
+Holt County
+68726	
+Antelope County
+68727	
+Cedar County
+68728	
+Dixon County
+68729	
+Knox County
+68730	
+Knox County
+68731	
+Dakota County
+68732	
+Dixon County
+68733	
+Dakota County
+68734	
+Holt County
+68735	
+Holt County
+68736	
+Cedar County
+68738	
+Pierce County
+68739	
+Cedar County
+68740	
+Wayne County
+68741	
+Dakota County
+68742	
+Holt County
+68743	
+Dakota County
+68745	
+Cedar County
+68746	
+Boyd County
+68747	
+Pierce County
+68748	
+Madison County
+68749	
+Cedar County
+68751	
+Dixon County
+68752	
+Madison County
+68753	
+Keya Paha County
+68755	
+Boyd County
+68756	
+Antelope County
+68757	
+Dixon County
+68758	
+Madison County
+68759	
+Rock County
+68760	
+Knox County
+68761	
+Antelope County
+68763	
+Holt County
+68764	
+Antelope County
+68765	
+Pierce County
+68766	
+Holt County
+68767	
+Pierce County
+68768	
+Stanton County
+68769	
+Pierce County
+68770	
+Dixon County
+68771	
+Cedar County
+68773	
+Antelope County
+68774	
+Cedar County
+68776	
+Dakota County
+68777	
+Boyd County
+68778	
+Keya Paha County
+68779	
+Stanton County
+68780	
+Holt County
+68781	
+Madison County
+68783	
+Knox County
+68784	
+Dixon County
+68785	
+Dixon County
+68786	
+Knox County
+68787	
+Wayne County
+68788	
+Cuming County
+68789	
+Knox County
+68790	
+Wayne County
+68791	
+Cuming County
+68792	
+Cedar County
+68801	
+Hall County
+68802	
+Hall County
+68803	
+Hall County
+68810	
+Hall County
+68812	
+Buffalo County
+68813	
+Custer County
+68814	
+Custer County
+68815	
+Valley County
+68816	
+Merrick County
+68817	
+Sherman County
+68818	
+Hamilton County
+68820	
+Howard County
+68821	
+Blaine County
+68822	
+Custer County
+68823	
+Garfield County
+68824	
+Hall County
+68825	
+Custer County
+68826	
+Merrick County
+68827	
+Merrick County
+68828	
+Custer County
+68831	
+Howard County
+68832	
+Hall County
+68833	
+Blaine County
+68834	
+Dawson County
+68835	
+Howard County
+68836	
+Buffalo County
+68837	
+Valley County
+68838	
+Howard County
+68840	
+Buffalo County
+68841	
+Hamilton County
+68842	
+Greeley County
+68843	
+Hamilton County
+68844	
+Sherman County
+68845	
+Buffalo County
+68846	
+Hamilton County
+68847	
+Buffalo County
+68848	
+Buffalo County
+68849	
+Buffalo County
+68850	
+Dawson County
+68852	
+Sherman County
+68853	
+Sherman County
+68854	
+Hamilton County
+68855	
+Custer County
+68856	
+Custer County
+68858	
+Buffalo County
+68859	
+Valley County
+68860	
+Custer County
+68861	
+Buffalo County
+68862	
+Valley County
+68863	
+Dawson County
+68864	
+Merrick County
+68865	
+Hamilton County
+68866	
+Buffalo County
+68869	
+Buffalo County
+68870	
+Buffalo County
+68871	
+Sherman County
+68872	
+Howard County
+68873	
+Howard County
+68874	
+Custer County
+68875	
+Greeley County
+68876	
+Buffalo County
+68878	
+Dawson County
+68879	
+Loup County
+68881	
+Custer County
+68882	
+Greeley County
+68883	
+Hall County
+68901	
+Adams County
+68902	
+Adams County
+68920	
+Harlan County
+68922	
+Furnas County
+68923	
+Phelps County
+68924	
+Kearney County
+68925	
+Adams County
+68926	
+Furnas County
+68927	
+Phelps County
+68928	
+Webster County
+68929	
+Franklin County
+68930	
+Webster County
+68932	
+Franklin County
+68933	
+Clay County
+68934	
+Clay County
+68935	
+Clay County
+68936	
+Furnas County
+68937	
+Gosper County
+68938	
+Clay County
+68939	
+Franklin County
+68940	
+Phelps County
+68941	
+Clay County
+68942	
+Webster County
+68943	
+Nuckolls County
+68944	
+Clay County
+68945	
+Kearney County
+68946	
+Furnas County
+68947	
+Franklin County
+68948	
+Furnas County
+68949	
+Phelps County
+68950	
+Adams County
+68952	
+Webster County
+68954	
+Clay County
+68955	
+Adams County
+68956	
+Adams County
+68957	
+Nuckolls County
+68958	
+Phelps County
+68959	
+Kearney County
+68960	
+Franklin County
+68961	
+Nuckolls County
+68964	
+Nuckolls County
+68966	
+Harlan County
+68967	
+Furnas County
+68969	
+Harlan County
+68970	
+Webster County
+68971	
+Harlan County
+68972	
+Franklin County
+68973	
+Adams County
+68974	
+Nuckolls County
+68975	
+Clay County
+68976	
+Gosper County
+68977	
+Harlan County
+68978	
+Nuckolls County
+68979	
+Clay County
+68980	
+Clay County
+68981	
+Franklin County
+68982	
+Kearney County
+69001	
+Red Willow County
+69020	
+Red Willow County
+69021	
+Dundy County
+69022	
+Furnas County
+69023	
+Chase County
+69024	
+Hitchcock County
+69025	
+Frontier County
+69026	
+Red Willow County
+69027	
+Chase County
+69028	
+Frontier County
+69029	
+Dawson County
+69030	
+Dundy County
+69032	
+Hayes County
+69033	
+Chase County
+69034	
+Red Willow County
+69036	
+Red Willow County
+69037	
+Dundy County
+69038	
+Frontier County
+69039	
+Frontier County
+69040	
+Hitchcock County
+69041	
+Dundy County
+69042	
+Frontier County
+69043	
+Hitchcock County
+69044	
+Hitchcock County
+69045	
+Chase County
+69046	
+Furnas County
+69101	
+Lincoln County
+69103	
+Lincoln County
+69120	
+Custer County
+69121	
+Arthur County
+69122	
+Deuel County
+69123	
+Lincoln County
+69125	
+Morrill County
+69127	
+Keith County
+69128	
+Kimball County
+69129	
+Deuel County
+69130	
+Dawson County
+69131	
+Cheyenne County
+69132	
+Lincoln County
+69133	
+Kimball County
+69134	
+Perkins County
+69135	
+Cherry County
+69138	
+Dawson County
+69140	
+Perkins County
+69141	
+Cheyenne County
+69142	
+Thomas County
+69143	
+Lincoln County
+69144	
+Keith County
+69145	
+Kimball County
+69146	
+Keith County
+69147	
+Garden County
+69148	
+Garden County
+69149	
+Cheyenne County
+69150	
+Perkins County
+69151	
+Lincoln County
+69152	
+Hooker County
+69153	
+Keith County
+69154	
+Garden County
+69155	
+Keith County
+69156	
+Cheyenne County
+69157	
+Blaine County
+69160	
+Cheyenne County
+69161	
+Thomas County
+69162	
+Cheyenne County
+69163	
+Logan County
+69165	
+Lincoln County
+69166	
+Thomas County
+69167	
+McPherson County
+69168	
+Perkins County
+69169	
+Lincoln County
+69170	
+Lincoln County
+69171	
+Dawson County
+69190	
+Garden County
+69201	
+Cherry County
+69210	
+Brown County
+69211	
+Cherry County
+69212	
+Cherry County
+69214	
+Brown County
+69216	
+Cherry County
+69217	
+Brown County
+69218	
+Cherry County
+69219	
+Cherry County
+69220	
+Cherry County
+69221	
+Cherry County
+69301	
+Box Butte County
+69331	
+Morrill County
+69333	
+Grant County
+69334	
+Morrill County
+69335	
+Sheridan County
+69336	
+Morrill County
+69337	
+Dawes County
+69339	
+Dawes County
+69340	
+Sheridan County
+69341	
+Scotts Bluff County
+69343	
+Sheridan County
+69345	
+Banner County
+69346	
+Sioux County
+69347	
+Sheridan County
+69348	
+Box Butte County
+69350	
+Grant County
+69351	
+Sheridan County
+69352	
+Scotts Bluff County
+69353	
+Scotts Bluff County
+69354	
+Dawes County
+69355	
+Scotts Bluff County
+69356	
+Scotts Bluff County
+69357	
+Scotts Bluff County
+69358	
+Scotts Bluff County
+69360	
+Sheridan County
+69361	
+Scotts Bluff County
+69363	
+Scotts Bluff County
+69365	
+Sheridan County
+69366	
+Grant County
+69367	
+Dawes County
+44095
+10010
+36460
+92563
+11436
+85257
+22602
+08807
+97523
+43050
+84645
+68381
+60154
+17967
+32818
+28040
+60181
+48104
+67207
+70068
+27858
+07011
+20678
+11221
+91006
+48083
+37174

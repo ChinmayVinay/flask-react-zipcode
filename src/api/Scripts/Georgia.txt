@@ -1,0 +1,1972 @@
+County
+30002	
+DeKalb County
+30003	
+Gwinnett County
+30004	
+Fulton County
+30005	
+Fulton County
+30006	
+Cobb County
+30007	
+Cobb County
+30008	
+Cobb County
+30009	
+Fulton County
+30010	
+Gwinnett County
+30011	
+Barrow County
+30012	
+Rockdale County
+30013	
+Rockdale County
+30014	
+Newton County
+30015	
+Newton County
+30016	
+Newton County
+30017	
+Gwinnett County
+30018	
+Walton County
+30019	
+Gwinnett County
+30021	
+DeKalb County
+30022	
+Fulton County
+30023	
+Fulton County
+30024	
+Gwinnett County
+30025	
+Walton County
+30026	
+Gwinnett County
+30028	
+Forsyth County
+30029	
+Gwinnett County
+30030	
+DeKalb County
+30031	
+Dekalb County
+30032	
+DeKalb County
+30033	
+DeKalb County
+30034	
+DeKalb County
+30035	
+DeKalb County
+30036	
+Dekalb County
+30037	
+Dekalb County
+30038	
+DeKalb County
+30039	
+Gwinnett County
+30040	
+Forsyth County
+30041	
+Forsyth County
+30042	
+Gwinnett County
+30043	
+Gwinnett County
+30044	
+Gwinnett County
+30045	
+Gwinnett County
+30046	
+Gwinnett County
+30047	
+Gwinnett County
+30048	
+Gwinnett County
+30049	
+Gwinnett County
+30052	
+Walton County
+30054	
+Newton County
+30055	
+Jasper County
+30056	
+Jasper County
+30058	
+DeKalb County
+30060	
+Cobb County
+30061	
+Cobb County
+30062	
+Cobb County
+30063	
+Cobb County
+30064	
+Cobb County
+30065	
+Cobb County
+30066	
+Cobb County
+30067	
+Cobb County
+30068	
+Cobb County
+30069	
+Cobb County
+30070	
+Newton County
+30071	
+Gwinnett County
+30072	
+DeKalb County
+30073	
+Dekalb County
+30074	
+Dekalb County
+30075	
+Fulton County
+30076	
+Fulton County
+30077	
+Fulton County
+30078	
+Gwinnett County
+30079	
+DeKalb County
+30080	
+Cobb County
+30081	
+Cobb County
+30082	
+Cobb County
+30083	
+DeKalb County
+30084	
+DeKalb County
+30085	
+Dekalb County
+30086	
+Dekalb County
+30087	
+DeKalb County
+30088	
+DeKalb County
+30090	
+Cobb County
+30091	
+Gwinnett County
+30092	
+Gwinnett County
+30093	
+Gwinnett County
+30094	
+Rockdale County
+30095	
+Gwinnett County
+30096	
+Gwinnett County
+30097	
+Fulton County
+30098	
+Gwinnett County
+30099	
+Gwinnett County
+30101	
+Cobb County
+30102	
+Cherokee County
+30103	
+Bartow County
+30104	
+Polk County
+30105	
+Floyd County
+30106	
+Cobb County
+30107	
+Cherokee County
+30108	
+Carroll County
+30109	
+Carroll County
+30110	
+Haralson County
+30111	
+Cobb County
+30112	
+Carroll County
+30113	
+Haralson County
+30114	
+Cherokee County
+30115	
+Cherokee County
+30116	
+Carroll County
+30117	
+Carroll County
+30118	
+Carroll County
+30119	
+Carroll County
+30120	
+Bartow County
+30121	
+Bartow County
+30122	
+Douglas County
+30123	
+Bartow County
+30124	
+Floyd County
+30125	
+Polk County
+30126	
+Cobb County
+30127	
+Cobb County
+30129	
+Floyd County
+30132	
+Paulding County
+30133	
+Douglas County
+30134	
+Douglas County
+30135	
+Douglas County
+30137	
+Bartow County
+30138	
+Cleburne County
+30139	
+Gordon County
+30140	
+Haralson County
+30141	
+Paulding County
+30142	
+Cherokee County
+30143	
+Pickens County
+30144	
+Cobb County
+30145	
+Bartow County
+30146	
+Cherokee County
+30147	
+Floyd County
+30148	
+Pickens County
+30149	
+Floyd County
+30150	
+Carroll County
+30151	
+Pickens County
+30152	
+Cobb County
+30153	
+Polk County
+30154	
+Douglas County
+30156	
+Cobb County
+30157	
+Paulding County
+30160	
+Cobb County
+30161	
+Floyd County
+30162	
+Floyd County
+30163	
+Floyd County
+30164	
+Newton County
+30165	
+Floyd County
+30168	
+Cobb County
+30169	
+Cherokee County
+30170	
+Carroll County
+30171	
+Bartow County
+30172	
+Floyd County
+30173	
+Floyd County
+30175	
+Pickens County
+30176	
+Haralson County
+30177	
+Pickens County
+30178	
+Bartow County
+30179	
+Carroll County
+30180	
+Carroll County
+30182	
+Carroll County
+30183	
+Cherokee County
+30184	
+Bartow County
+30185	
+Carroll County
+30187	
+Douglas County
+30188	
+Cherokee County
+30189	
+Cherokee County
+30204	
+Lamar County
+30205	
+Fayette County
+30206	
+Pike County
+30212	
+Spalding County
+30213	
+Fulton County
+30214	
+Fayette County
+30215	
+Fayette County
+30216	
+Butts County
+30217	
+Heard County
+30218	
+Meriwether County
+30219	
+Heard County
+30220	
+Coweta County
+30222	
+Meriwether County
+30223	
+Spalding County
+30224	
+Spalding County
+30228	
+Henry County
+30229	
+Coweta County
+30230	
+Troup County
+30233	
+Butts County
+30234	
+Butts County
+30236	
+Clayton County
+30237	
+Clayton County
+30238	
+Clayton County
+30240	
+Troup County
+30241	
+Troup County
+30248	
+Henry County
+30250	
+Clayton County
+30251	
+Meriwether County
+30252	
+Henry County
+30253	
+Henry County
+30256	
+Pike County
+30257	
+Lamar County
+30258	
+Pike County
+30259	
+Coweta County
+30260	
+Clayton County
+30261	
+Troup County
+30263	
+Coweta County
+30264	
+Coweta County
+30265	
+Coweta County
+30266	
+Spalding County
+30268	
+Fulton County
+30269	
+Fayette County
+30270	
+Fayette County
+30271	
+Coweta County
+30272	
+Fulton County
+30273	
+Clayton County
+30274	
+Clayton County
+30275	
+Coweta County
+30276	
+Coweta County
+30277	
+Coweta County
+30281	
+Henry County
+30284	
+Spalding County
+30285	
+Upson County
+30286	
+Upson County
+30287	
+Clayton County
+30288	
+Clayton County
+30289	
+Coweta County
+30290	
+Fayette County
+30291	
+Fulton County
+30292	
+Pike County
+30293	
+Meriwether County
+30294	
+DeKalb County
+30295	
+Pike County
+30296	
+Clayton County
+30297	
+Clayton County
+30298	
+Clayton County
+30301	
+Fulton County
+30302	
+Fulton County
+30303	
+Fulton County
+30304	
+Fulton County
+30305	
+Fulton County
+30306	
+Fulton County
+30307	
+DeKalb County
+30308	
+Fulton County
+30309	
+Fulton County
+30310	
+Fulton County
+30311	
+Fulton County
+30312	
+Fulton County
+30313	
+Fulton County
+30314	
+Fulton County
+30315	
+Fulton County
+30316	
+DeKalb County
+30317	
+DeKalb County
+30318	
+Fulton County
+30319	
+DeKalb County
+30320	
+Clayton County
+30321	
+Fulton County
+30322	
+DeKalb County
+30324	
+Fulton County
+30325	
+Fulton County
+30326	
+Fulton County
+30327	
+Fulton County
+30328	
+Fulton County
+30329	
+DeKalb County
+30330	
+Fulton County
+30331	
+Fulton County
+30332	
+Fulton County
+30333	
+Fulton County
+30334	
+Fulton County
+30336	
+Fulton County
+30337	
+Fulton County
+30338	
+DeKalb County
+30339	
+Cobb County
+30340	
+DeKalb County
+30341	
+DeKalb County
+30342	
+Fulton County
+30343	
+Fulton County
+30344	
+Fulton County
+30345	
+DeKalb County
+30346	
+DeKalb County
+30347	
+Fulton County
+30348	
+Fulton County
+30349	
+Fulton County
+30350	
+Fulton County
+30353	
+Fulton County
+30354	
+Fulton County
+30355	
+Fulton County
+30356	
+Fulton County
+30357	
+Fulton County
+30358	
+Fulton County
+30359	
+Fulton County
+30360	
+DeKalb County
+30361	
+Fulton County
+30362	
+Fulton County
+30363	
+Fulton County
+30364	
+Fulton County
+30366	
+Fulton County
+30368	
+Fulton County
+30369	
+Fulton County
+30370	
+Fulton County
+30371	
+Fulton County
+30374	
+Fulton County
+30375	
+Fulton County
+30376	
+Fulton County
+30377	
+Fulton County
+30378	
+Fulton County
+30379	
+Fulton County
+30380	
+Fulton County
+30384	
+Fulton County
+30385	
+Fulton County
+30386	
+Fulton County
+30387	
+Fulton County
+30388	
+Fulton County
+30389	
+Fulton County
+30390	
+Fulton County
+30392	
+Fulton County
+30394	
+Fulton County
+30396	
+Fulton County
+30398	
+Fulton County
+30399	
+Fulton County
+30401	
+Emanuel County
+30410	
+Montgomery County
+30411	
+Wheeler County
+30412	
+Montgomery County
+30413	
+Jefferson County
+30414	
+Evans County
+30415	
+Bulloch County
+30417	
+Evans County
+30420	
+Tattnall County
+30421	
+Tattnall County
+30423	
+Evans County
+30424	
+Screven County
+30425	
+Emanuel County
+30426	
+Burke County
+30427	
+Tattnall County
+30428	
+Wheeler County
+30429	
+Evans County
+30434	
+Jefferson County
+30436	
+Toombs County
+30438	
+Tattnall County
+30439	
+Candler County
+30441	
+Emanuel County
+30442	
+Jenkins County
+30445	
+Montgomery County
+30446	
+Screven County
+30447	
+Emanuel County
+30448	
+Emanuel County
+30449	
+Screven County
+30450	
+Bulloch County
+30451	
+Candler County
+30452	
+Bulloch County
+30453	
+Tattnall County
+30454	
+Laurens County
+30455	
+Screven County
+30456	
+Burke County
+30457	
+Treutlen County
+30458	
+Bulloch County
+30459	
+Bulloch County
+30460	
+Bulloch County
+30461	
+Bulloch County
+30464	
+Emanuel County
+30467	
+Screven County
+30470	
+Montgomery County
+30471	
+Emanuel County
+30473	
+Montgomery County
+30474	
+Toombs County
+30475	
+Toombs County
+30477	
+Jefferson County
+30499	
+Tattnall County
+30501	
+Hall County
+30502	
+Hall County
+30503	
+Hall County
+30504	
+Hall County
+30506	
+Hall County
+30507	
+Hall County
+30510	
+Habersham County
+30511	
+Banks County
+30512	
+Union County
+30513	
+Fannin County
+30514	
+Union County
+30515	
+Gwinnett County
+30516	
+Hart County
+30517	
+Jackson County
+30518	
+Gwinnett County
+30519	
+Gwinnett County
+30520	
+Franklin County
+30521	
+Franklin County
+30522	
+Gilmer County
+30523	
+Habersham County
+30525	
+Rabun County
+30527	
+Hall County
+30528	
+White County
+30529	
+Jackson County
+30530	
+Banks County
+30531	
+Habersham County
+30533	
+Lumpkin County
+30534	
+Dawson County
+30535	
+Habersham County
+30536	
+Gilmer County
+30537	
+Rabun County
+30538	
+Stephens County
+30539	
+Gilmer County
+30540	
+Gilmer County
+30541	
+Fannin County
+30542	
+Hall County
+30543	
+Hall County
+30544	
+Habersham County
+30545	
+White County
+30546	
+Towns County
+30547	
+Banks County
+30548	
+Jackson County
+30549	
+Jackson County
+30552	
+Rabun County
+30553	
+Franklin County
+30554	
+Hall County
+30555	
+Fannin County
+30557	
+Stephens County
+30558	
+Jackson County
+30559	
+Fannin County
+30560	
+Fannin County
+30562	
+Rabun County
+30563	
+Habersham County
+30564	
+Hall County
+30565	
+Jackson County
+30566	
+Hall County
+30567	
+Jackson County
+30568	
+Rabun County
+30571	
+White County
+30572	
+Union County
+30573	
+Rabun County
+30575	
+Jackson County
+30576	
+Rabun County
+30577	
+Stephens County
+30580	
+Habersham County
+30581	
+Rabun County
+30582	
+Towns County
+30596	
+Habersham County
+30597	
+Lumpkin County
+30598	
+Stephens County
+30599	
+Jackson County
+30601	
+Clarke County
+30602	
+Clarke County
+30603	
+Clarke County
+30604	
+Clarke County
+30605	
+Clarke County
+30606	
+Clarke County
+30607	
+Clarke County
+30608	
+Clarke County
+30609	
+Clarke County
+30612	
+Clarke County
+30619	
+Oglethorpe County
+30620	
+Barrow County
+30621	
+Oconee County
+30622	
+Oconee County
+30623	
+Morgan County
+30624	
+Elbert County
+30625	
+Morgan County
+30627	
+Oglethorpe County
+30628	
+Madison County
+30629	
+Madison County
+30630	
+Oglethorpe County
+30631	
+Taliaferro County
+30633	
+Madison County
+30634	
+Elbert County
+30635	
+Elbert County
+30638	
+Oconee County
+30639	
+Franklin County
+30641	
+Walton County
+30642	
+Greene County
+30643	
+Hart County
+30645	
+30646	
+Madison County
+30647	
+Madison County
+30648	
+Oglethorpe County
+30650	
+Morgan County
+30655	
+Walton County
+30656	
+Walton County
+30660	
+Wilkes County
+30662	
+Franklin County
+30663	
+Morgan County
+30664	
+Taliaferro County
+30665	
+Greene County
+30666	
+Barrow County
+30667	
+Oglethorpe County
+30668	
+Wilkes County
+30669	
+Greene County
+30671	
+Oglethorpe County
+30673	
+Wilkes County
+30677	
+Oconee County
+30678	
+Greene County
+30680	
+Barrow County
+30683	
+Clarke County
+30701	
+Gordon County
+30703	
+Gordon County
+30705	
+Murray County
+30707	
+Walker County
+30708	
+Murray County
+30710	
+Whitfield County
+30711	
+Murray County
+30719	
+Whitfield County
+30720	
+Whitfield County
+30721	
+Whitfield County
+30722	
+Whitfield County
+30724	
+Murray County
+30725	
+Walker County
+30726	
+Catoosa County
+30728	
+Walker County
+30730	
+Chattooga County
+30731	
+Chattooga County
+30732	
+Gordon County
+30733	
+Gordon County
+30734	
+Gordon County
+30735	
+Gordon County
+30736	
+Catoosa County
+30738	
+Dade County
+30739	
+Walker County
+30740	
+Whitfield County
+30741	
+Walker County
+30742	
+Catoosa County
+30746	
+Gordon County
+30747	
+Chattooga County
+30750	
+Walker County
+30751	
+Murray County
+30752	
+Dade County
+30753	
+Chattooga County
+30755	
+Whitfield County
+30756	
+Whitfield County
+30757	
+Dade County
+30802	
+Columbia County
+30803	
+Jefferson County
+30805	
+Richmond County
+30806	
+McDuffie County
+30807	
+Warren County
+30808	
+McDuffie County
+30809	
+Columbia County
+30810	
+Glascock County
+30811	
+Burke County
+30812	
+Richmond County
+30813	
+Columbia County
+30814	
+Columbia County
+30815	
+Richmond County
+30816	
+Burke County
+30817	
+Lincoln County
+30818	
+Jefferson County
+30819	
+Warren County
+30820	
+Glascock County
+30821	
+Warren County
+30822	
+Jenkins County
+30823	
+Jefferson County
+30824	
+McDuffie County
+30828	
+Warren County
+30830	
+Burke County
+30833	
+Jefferson County
+30901	
+Richmond County
+30903	
+Columbia County
+30904	
+Richmond County
+30905	
+Richmond County
+30906	
+Richmond County
+30907	
+Columbia County
+30909	
+Richmond County
+30911	
+Richmond County
+30912	
+Richmond County
+30913	
+Richmond County
+30914	
+Richmond County
+30916	
+Richmond County
+30917	
+Richmond County
+30919	
+Richmond County
+30999	
+Richmond County
+31001	
+Wilcox County
+31002	
+Emanuel County
+31003	
+Wilkinson County
+31004	
+Monroe County
+31005	
+Houston County
+31006	
+Taylor County
+31007	
+Dooly County
+31008	
+Peach County
+31009	
+Laurens County
+31010	
+Crisp County
+31011	
+Dodge County
+31012	
+Dodge County
+31013	
+Houston County
+31014	
+Bleckley County
+31015	
+Crisp County
+31016	
+Monroe County
+31017	
+Twiggs County
+31018	
+Washington County
+31019	
+Laurens County
+31020	
+Twiggs County
+31021	
+Laurens County
+31022	
+Laurens County
+31023	
+Dodge County
+31024	
+Putnam County
+31025	
+Houston County
+31026	
+Putnam County
+31027	
+Laurens County
+31028	
+Houston County
+31029	
+Monroe County
+31030	
+Peach County
+31031	
+Wilkinson County
+31032	
+Jones County
+31033	
+Jones County
+31034	
+Baldwin County
+31035	
+Washington County
+31036	
+Pulaski County
+31037	
+Telfair County
+31038	
+Jasper County
+31039	
+Taylor County
+31040	
+Laurens County
+31041	
+Macon County
+31042	
+Wilkinson County
+31044	
+Twiggs County
+31045	
+Warren County
+31046	
+Monroe County
+31047	
+Houston County
+31049	
+Johnson County
+31050	
+Crawford County
+31051	
+Dooly County
+31052	
+Bibb County
+31054	
+Wilkinson County
+31055	
+Telfair County
+31057	
+Macon County
+31058	
+Marion County
+31059	
+Baldwin County
+31060	
+Telfair County
+31061	
+Baldwin County
+31062	
+Baldwin County
+31063	
+Macon County
+31064	
+Jasper County
+31065	
+Laurens County
+31066	
+Crawford County
+31067	
+Washington County
+31068	
+Macon County
+31069	
+Houston County
+31070	
+Dooly County
+31071	
+Wilcox County
+31072	
+Wilcox County
+31075	
+Laurens County
+31076	
+Taylor County
+31077	
+Dodge County
+31078	
+Crawford County
+31079	
+Wilcox County
+31081	
+Taylor County
+31082	
+Washington County
+31083	
+Telfair County
+31084	
+Wilcox County
+31085	
+Jasper County
+31086	
+Monroe County
+31087	
+Hancock County
+31088	
+Houston County
+31089	
+Washington County
+31090	
+Wilkinson County
+31091	
+Dooly County
+31092	
+Dooly County
+31093	
+Houston County
+31094	
+Washington County
+31095	
+Houston County
+31096	
+Johnson County
+31097	
+Upson County
+31098	
+Houston County
+31099	
+Houston County
+31106	
+Fulton County
+31107	
+Fulton County
+31119	
+Fulton County
+31120	
+Fulton County
+31126	
+Fulton County
+31131	
+Fulton County
+31136	
+Fulton County
+31139	
+Fulton County
+31141	
+Fulton County
+31144	
+31145	
+Fulton County
+31146	
+Fulton County
+31150	
+Fulton County
+31156	
+Fulton County
+31169	
+Fayette County
+31191	
+Fulton County
+31192	
+Fulton County
+31193	
+Fulton County
+31195	
+Fulton County
+31196	
+Fulton County
+31197	
+Fulton County
+31198	
+Fulton County
+31199	
+Fulton County
+31201	
+Bibb County
+31202	
+Bibb County
+31203	
+Bibb County
+31204	
+Bibb County
+31205	
+Bibb County
+31206	
+Bibb County
+31207	
+Bibb County
+31208	
+Bibb County
+31209	
+Bibb County
+31210	
+Bibb County
+31211	
+Bibb County
+31212	
+Bibb County
+31213	
+Bibb County
+31216	
+Bibb County
+31217	
+Bibb County
+31220	
+Bibb County
+31221	
+Bibb County
+31294	
+Bibb County
+31295	
+Bibb County
+31296	
+Bibb County
+31297	
+Bibb County
+31301	
+Liberty County
+31302	
+Effingham County
+31303	
+Effingham County
+31304	
+McIntosh County
+31305	
+McIntosh County
+31307	
+Effingham County
+31308	
+Bryan County
+31309	
+Liberty County
+31310	
+Liberty County
+31312	
+Effingham County
+31313	
+Liberty County
+31314	
+Liberty County
+31315	
+Liberty County
+31316	
+Long County
+31318	
+Effingham County
+31319	
+McIntosh County
+31320	
+Liberty County
+31321	
+Bryan County
+31322	
+Chatham County
+31323	
+Liberty County
+31324	
+Bryan County
+31326	
+Effingham County
+31327	
+McIntosh County
+31328	
+Chatham County
+31329	
+Effingham County
+31331	
+McIntosh County
+31333	
+Liberty County
+31401	
+Chatham County
+31402	
+Chatham County
+31403	
+Chatham County
+31404	
+Chatham County
+31405	
+Chatham County
+31406	
+Chatham County
+31407	
+Chatham County
+31408	
+Chatham County
+31409	
+Chatham County
+31410	
+Chatham County
+31411	
+Chatham County
+31412	
+Chatham County
+31414	
+Chatham County
+31415	
+Chatham County
+31416	
+Chatham County
+31418	
+Chatham County
+31419	
+Chatham County
+31420	
+Chatham County
+31421	
+Chatham County
+31501	
+Ware County
+31502	
+Ware County
+31503	
+Ware County
+31510	
+Bacon County
+31512	
+Coffee County
+31513	
+Appling County
+31515	
+Appling County
+31516	
+Pierce County
+31518	
+Appling County
+31519	
+Coffee County
+31520	
+Glynn County
+31521	
+Glynn County
+31522	
+Glynn County
+31523	
+Glynn County
+31524	
+Glynn County
+31525	
+Glynn County
+31527	
+Glynn County
+31532	
+Jeff Davis County
+31533	
+Coffee County
+31534	
+Coffee County
+31535	
+Coffee County
+31537	
+Charlton County
+31539	
+Jeff Davis County
+31542	
+Brantley County
+31543	
+Brantley County
+31544	
+Telfair County
+31545	
+Wayne County
+31546	
+Wayne County
+31547	
+Camden County
+31548	
+Camden County
+31549	
+Telfair County
+31550	
+Ware County
+31551	
+Pierce County
+31552	
+Ware County
+31553	
+Brantley County
+31554	
+Coffee County
+31555	
+Wayne County
+31556	
+Pierce County
+31557	
+Pierce County
+31558	
+Camden County
+31560	
+Wayne County
+31561	
+Glynn County
+31562	
+Charlton County
+31563	
+Appling County
+31564	
+Ware County
+31565	
+Camden County
+31566	
+Brantley County
+31567	
+Coffee County
+31568	
+Camden County
+31569	
+Camden County
+31598	
+Wayne County
+31599	
+Wayne County
+31601	
+Lowndes County
+31602	
+Lowndes County
+31603	
+Lowndes County
+31604	
+Lowndes County
+31605	
+Lowndes County
+31606	
+Lowndes County
+31620	
+Cook County
+31622	
+Berrien County
+31623	
+Clinch County
+31624	
+Atkinson County
+31625	
+Brooks County
+31626	
+Thomas County
+31627	
+Cook County
+31629	
+Brooks County
+31630	
+Clinch County
+31631	
+Clinch County
+31632	
+Lowndes County
+31634	
+Clinch County
+31635	
+Lanier County
+31636	
+Lowndes County
+31637	
+Cook County
+31638	
+Brooks County
+31639	
+Berrien County
+31641	
+Lowndes County
+31642	
+Atkinson County
+31643	
+Brooks County
+31645	
+Berrien County
+31647	
+Cook County
+31648	
+Echols County
+31649	
+Lanier County
+31650	
+Atkinson County
+31698	
+Lowndes County
+31699	
+Lowndes County
+31701	
+Dougherty County
+31702	
+Dougherty County
+31703	
+Dougherty County
+31704	
+Dougherty County
+31705	
+Dougherty County
+31706	
+Dougherty County
+31707	
+Dougherty County
+31708	
+Dougherty County
+31709	
+Sumter County
+31711	
+Sumter County
+31712	
+Crisp County
+31714	
+Turner County
+31716	
+Mitchell County
+31719	
+Sumter County
+31720	
+Thomas County
+31721	
+Dougherty County
+31722	
+Colquitt County
+31727	
+Tift County
+31730	
+Mitchell County
+31733	
+Tift County
+31735	
+Sumter County
+31738	
+Thomas County
+31739	
+Mitchell County
+31743	
+Sumter County
+31744	
+Colquitt County
+31747	
+Colquitt County
+31749	
+Berrien County
+31750	
+Ben Hill County
+31753	
+Colquitt County
+31756	
+Colquitt County
+31757	
+Thomas County
+31758	
+Thomas County
+31760	
+Irwin County
+31763	
+Lee County
+31764	
+Sumter County
+31765	
+Thomas County
+31768	
+Colquitt County
+31769	
+Irwin County
+31771	
+Colquitt County
+31772	
+Worth County
+31773	
+Thomas County
+31774	
+Irwin County
+31775	
+Tift County
+31776	
+Colquitt County
+31778	
+Thomas County
+31779	
+Mitchell County
+31780	
+Sumter County
+31781	
+Worth County
+31782	
+Dougherty County
+31783	
+Turner County
+31784	
+Mitchell County
+31787	
+Lee County
+31788	
+Colquitt County
+31789	
+Worth County
+31790	
+Turner County
+31791	
+Worth County
+31792	
+Thomas County
+31793	
+Tift County
+31794	
+Tift County
+31795	
+Tift County
+31796	
+Worth County
+31798	
+Irwin County
+31799	
+Thomas County
+31801	
+Marion County
+31803	
+Marion County
+31804	
+Harris County
+31805	
+Chattahoochee County
+31806	
+Schley County
+31807	
+Harris County
+31808	
+Harris County
+31810	
+Talbot County
+31811	
+Harris County
+31812	
+Talbot County
+31814	
+Stewart County
+31815	
+Stewart County
+31816	
+Meriwether County
+31820	
+Muscogee County
+31821	
+Stewart County
+31822	
+Harris County
+31823	
+Harris County
+31824	
+Webster County
+31825	
+Stewart County
+31826	
+Harris County
+31827	
+Talbot County
+31829	
+Muscogee County
+31830	
+Meriwether County
+31831	
+Harris County
+31832	
+Webster County
+31833	
+Troup County
+31836	
+Talbot County
+31901	
+Muscogee County
+31902	
+Muscogee County
+31903	
+Muscogee County
+31904	
+Muscogee County
+31905	
+Chattahoochee County
+31906	
+Muscogee County
+31907	
+Muscogee County
+31908	
+Muscogee County
+31909	
+Muscogee County
+31914	
+Muscogee County
+31917	
+Muscogee County
+31993	
+Muscogee County
+31995	
+Chattahoochee County
+31997	
+Muscogee County
+31998	
+Muscogee County
+31999	
+Muscogee County
+39813	
+Calhoun County
+39815	
+Decatur County
+39817	
+Decatur County
+39818	
+Decatur County
+39819	
+Decatur County
+39823	
+Early County
+39824	
+Clay County
+39825	
+Decatur County
+39826	
+Terrell County
+39827	
+Grady County
+39828	
+Grady County
+39829	
+Grady County
+39832	
+Early County
+39834	
+Decatur County
+39836	
+Randolph County
+39837	
+Miller County
+39840	
+Randolph County
+39841	
+Early County
+39842	
+Terrell County
+39845	
+Seminole County
+39846	
+Calhoun County
+39851	
+Clay County
+39852	
+Decatur County
+39854	
+Quitman County
+39859	
+Seminole County
+39861	
+Early County
+39862	
+Calhoun County
+39866	
+Calhoun County
+39867	
+Clay County
+39870	
+Baker County
+39877	
+Terrell County
+39885	
+Terrell County
+39886	
+Randolph County
+39897	
+Grady County
+39901	
+Fulton County
+43230
+90063
+27604
+18508
+27127
+35801
+49971
+90017
+49507
+84106
+27028
+71235
+60634
+30075
+28443
+77014
+66206
+23188
+02144
+60602
+75052
+21061
+50629
+19023
+50119
+91606
+24588

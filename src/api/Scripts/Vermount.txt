@@ -1,0 +1,646 @@
+County
+05001	
+Windsor County
+05009	
+Windsor County
+05030	
+Windsor County
+05031	
+Windsor County
+05032	
+Windsor County
+05033	
+Orange County
+05034	
+Windsor County
+05035	
+Windsor County
+05036	
+Orange County
+05037	
+Windsor County
+05038	
+Orange County
+05039	
+Orange County
+05040	
+Orange County
+05041	
+Orange County
+05042	
+Caledonia County
+05043	
+Orange County
+05045	
+Orange County
+05046	
+Caledonia County
+05047	
+Windsor County
+05048	
+Windsor County
+05049	
+Windsor County
+05050	
+Caledonia County
+05051	
+Orange County
+05052	
+Windsor County
+05053	
+Windsor County
+05054	
+Orange County
+05055	
+Windsor County
+05056	
+Windsor County
+05058	
+Orange County
+05059	
+Windsor County
+05060	
+Orange County
+05061	
+Orange County
+05062	
+Windsor County
+05065	
+Windsor County
+05067	
+Windsor County
+05068	
+Windsor County
+05069	
+Caledonia County
+05070	
+Orange County
+05071	
+Windsor County
+05072	
+Orange County
+05073	
+Windsor County
+05074	
+Orange County
+05075	
+Orange County
+05076	
+Orange County
+05077	
+Orange County
+05079	
+Orange County
+05081	
+Orange County
+05083	
+Orange County
+05084	
+Windsor County
+05085	
+Orange County
+05086	
+Orange County
+05088	
+Windsor County
+05089	
+Windsor County
+05091	
+Windsor County
+05101	
+Windham County
+05141	
+Windham County
+05142	
+Windsor County
+05143	
+Windsor County
+05144	
+Windsor County
+05146	
+Windham County
+05148	
+Windham County
+05149	
+Windsor County
+05150	
+Windsor County
+05151	
+Windsor County
+05152	
+Bennington County
+05153	
+Windsor County
+05154	
+Windham County
+05155	
+Windham County
+05156	
+Windsor County
+05158	
+Windham County
+05159	
+Windham County
+05161	
+Windsor County
+05201	
+Bennington County
+05250	
+Bennington County
+05251	
+Bennington County
+05252	
+Bennington County
+05253	
+Bennington County
+05254	
+Bennington County
+05255	
+Bennington County
+05257	
+Bennington County
+05260	
+Bennington County
+05261	
+Bennington County
+05262	
+Bennington County
+05301	
+Windham County
+05302	
+Windham County
+05303	
+Windham County
+05304	
+Windham County
+05340	
+Bennington County
+05341	
+Windham County
+05342	
+Windham County
+05343	
+Windham County
+05344	
+Windham County
+05345	
+Windham County
+05346	
+Windham County
+05350	
+Bennington County
+05351	
+Windham County
+05352	
+Bennington County
+05353	
+Windham County
+05354	
+Windham County
+05355	
+Windham County
+05356	
+Windham County
+05357	
+Windham County
+05358	
+Windham County
+05359	
+Windham County
+05360	
+Windham County
+05361	
+Windham County
+05362	
+Windham County
+05363	
+Windham County
+05401	
+Chittenden County
+05402	
+Chittenden County
+05403	
+Chittenden County
+05404	
+Chittenden County
+05405	
+Chittenden County
+05406	
+Chittenden County
+05407	
+Chittenden County
+05408	
+Chittenden County
+05439	
+Chittenden County
+05440	
+Grand Isle County
+05441	
+Franklin County
+05442	
+Lamoille County
+05443	
+Addison County
+05444	
+Franklin County
+05445	
+Chittenden County
+05446	
+Chittenden County
+05447	
+Franklin County
+05448	
+Franklin County
+05449	
+Chittenden County
+05450	
+Franklin County
+05451	
+Chittenden County
+05452	
+Chittenden County
+05453	
+Chittenden County
+05454	
+Franklin County
+05455	
+Franklin County
+05456	
+Addison County
+05457	
+Franklin County
+05458	
+Grand Isle County
+05459	
+Franklin County
+05460	
+Franklin County
+05461	
+Chittenden County
+05462	
+Chittenden County
+05463	
+Grand Isle County
+05464	
+Lamoille County
+05465	
+Chittenden County
+05466	
+Chittenden County
+05468	
+Chittenden County
+05469	
+Addison County
+05470	
+Franklin County
+05471	
+Franklin County
+05472	
+Addison County
+05473	
+Addison County
+05474	
+Grand Isle County
+05476	
+Franklin County
+05477	
+Chittenden County
+05478	
+Franklin County
+05479	
+Franklin County
+05481	
+Franklin County
+05482	
+Chittenden County
+05483	
+Franklin County
+05485	
+Franklin County
+05486	
+Grand Isle County
+05487	
+Addison County
+05488	
+Franklin County
+05489	
+Chittenden County
+05490	
+Chittenden County
+05491	
+Addison County
+05492	
+Lamoille County
+05494	
+Chittenden County
+05495	
+Chittenden County
+05601	
+Washington County
+05602	
+Washington County
+05603	
+Washington County
+05604	
+Washington County
+05609	
+Washington County
+05620	
+Washington County
+05633	
+Washington County
+05640	
+Washington County
+05641	
+Washington County
+05647	
+Washington County
+05648	
+Washington County
+05649	
+Orange County
+05650	
+Washington County
+05651	
+Washington County
+05652	
+Lamoille County
+05653	
+Lamoille County
+05654	
+Washington County
+05655	
+Lamoille County
+05656	
+Lamoille County
+05657	
+Lamoille County
+05658	
+Washington County
+05660	
+Washington County
+05661	
+Lamoille County
+05662	
+Lamoille County
+05663	
+Washington County
+05664	
+Washington County
+05665	
+Lamoille County
+05666	
+Washington County
+05667	
+Washington County
+05669	
+Washington County
+05670	
+Washington County
+05671	
+Washington County
+05672	
+Lamoille County
+05673	
+Washington County
+05674	
+Washington County
+05675	
+Orange County
+05676	
+Washington County
+05677	
+Washington County
+05678	
+Washington County
+05679	
+Orange County
+05680	
+Lamoille County
+05681	
+Washington County
+05682	
+Washington County
+05701	
+Rutland County
+05702	
+Rutland County
+05730	
+Rutland County
+05731	
+Rutland County
+05732	
+Rutland County
+05733	
+Rutland County
+05734	
+Addison County
+05735	
+Rutland County
+05736	
+Rutland County
+05737	
+Rutland County
+05738	
+Rutland County
+05739	
+Rutland County
+05740	
+Addison County
+05741	
+Rutland County
+05742	
+Rutland County
+05743	
+Rutland County
+05744	
+Rutland County
+05745	
+Rutland County
+05746	
+Windsor County
+05747	
+Addison County
+05748	
+Addison County
+05750	
+Rutland County
+05751	
+Rutland County
+05753	
+Addison County
+05757	
+Rutland County
+05758	
+Rutland County
+05759	
+Rutland County
+05760	
+Addison County
+05761	
+Rutland County
+05762	
+Rutland County
+05763	
+Rutland County
+05764	
+Rutland County
+05765	
+Rutland County
+05766	
+Addison County
+05767	
+Windsor County
+05768	
+Bennington County
+05769	
+Addison County
+05770	
+Addison County
+05772	
+Windsor County
+05773	
+Rutland County
+05774	
+Rutland County
+05775	
+Rutland County
+05776	
+Bennington County
+05777	
+Rutland County
+05778	
+Addison County
+05819	
+Caledonia County
+05820	
+Orleans County
+05821	
+Caledonia County
+05822	
+Orleans County
+05823	
+Orleans County
+05824	
+Essex County
+05825	
+Orleans County
+05826	
+Orleans County
+05827	
+Orleans County
+05828	
+Caledonia County
+05829	
+Orleans County
+05830	
+Orleans County
+05832	
+Caledonia County
+05833	
+Orleans County
+05836	
+Caledonia County
+05837	
+Essex County
+05838	
+Caledonia County
+05839	
+Orleans County
+05840	
+Essex County
+05841	
+Orleans County
+05842	
+Orleans County
+05843	
+Caledonia County
+05845	
+Orleans County
+05846	
+Essex County
+05847	
+Orleans County
+05848	
+Caledonia County
+05849	
+Caledonia County
+05850	
+Caledonia County
+05851	
+Caledonia County
+05853	
+Orleans County
+05855	
+Orleans County
+05857	
+Orleans County
+05858	
+Essex County
+05859	
+Orleans County
+05860	
+Orleans County
+05861	
+Caledonia County
+05862	
+Caledonia County
+05863	
+Caledonia County
+05866	
+Caledonia County
+05867	
+Caledonia County
+05868	
+Orleans County
+05871	
+Caledonia County
+05872	
+Orleans County
+05873	
+Caledonia County
+05874	
+Orleans County
+05875	
+Orleans County
+05901	
+Essex County
+05902	
+Essex County
+05903	
+Essex County
+05904	
+Essex County
+05905	
+Essex County
+05906	
+Essex County
+05907	
+Essex County
+10453
+38104
+70094
+10463
+75081
+80128
+60619
+92677
+81124
+98829
+44838
+94507
+38046
+11374
+19720
+70710
+79367
+85225
+84722
+98109
+01543
+07734
+95248
+30329
+48188
+90066
+77571

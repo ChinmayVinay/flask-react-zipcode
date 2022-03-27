@@ -1,0 +1,816 @@
+County
+57001	
+Union County
+57002	
+Brookings County
+57003	
+Minnehaha County
+57004	
+Union County
+57005	
+Minnehaha County
+57006	
+Brookings County
+57007	
+Brookings County
+57010	
+Clay County
+57012	
+McCook County
+57013	
+Lincoln County
+57014	
+Turner County
+57015	
+Turner County
+57016	
+Lake County
+57017	
+Moody County
+57018	
+Minnehaha County
+57020	
+Minnehaha County
+57021	
+Turner County
+57022	
+Minnehaha County
+57024	
+Moody County
+57025	
+Union County
+57026	
+Brookings County
+57027	
+Lincoln County
+57028	
+Moody County
+57029	
+Hutchinson County
+57030	
+Minnehaha County
+57031	
+Yankton County
+57032	
+Lincoln County
+57033	
+Minnehaha County
+57034	
+Lincoln County
+57035	
+Minnehaha County
+57036	
+Turner County
+57037	
+Yankton County
+57038	
+Union County
+57039	
+Lincoln County
+57040	
+Yankton County
+57041	
+Minnehaha County
+57042	
+Lake County
+57043	
+Turner County
+57045	
+Hutchinson County
+57046	
+Yankton County
+57047	
+Turner County
+57048	
+McCook County
+57049	
+Union County
+57050	
+Lake County
+57051	
+Kingsbury County
+57052	
+Hutchinson County
+57053	
+Turner County
+57054	
+Lake County
+57055	
+Minnehaha County
+57056	
+Minnehaha County
+57057	
+Lake County
+57058	
+McCook County
+57059	
+Bon Homme County
+57061	
+Brookings County
+57062	
+Bon Homme County
+57063	
+Bon Homme County
+57064	
+Lincoln County
+57065	
+Moody County
+57066	
+Bon Homme County
+57067	
+Yankton County
+57068	
+Minnehaha County
+57069	
+Clay County
+57070	
+Turner County
+57071	
+Brookings County
+57072	
+Yankton County
+57073	
+Clay County
+57075	
+Lake County
+57076	
+Lake County
+57077	
+Lincoln County
+57078	
+Yankton County
+57079	
+Yankton County
+57101	
+Minnehaha County
+57103	
+Minnehaha County
+57104	
+Minnehaha County
+57105	
+Minnehaha County
+57106	
+Minnehaha County
+57107	
+Minnehaha County
+57108	
+Lincoln County
+57109	
+Minnehaha County
+57110	
+Minnehaha County
+57117	
+Minnehaha County
+57118	
+Minnehaha County
+57186	
+Minnehaha County
+57188	
+Minnehaha County
+57189	
+Minnehaha County
+57192	
+Minnehaha County
+57193	
+Minnehaha County
+57194	
+Minnehaha County
+57195	
+Minnehaha County
+57196	
+Minnehaha County
+57197	
+Minnehaha County
+57198	
+Minnehaha County
+57201	
+Codington County
+57212	
+Kingsbury County
+57213	
+Deuel County
+57214	
+Kingsbury County
+57216	
+Grant County
+57217	
+Clark County
+57218	
+Deuel County
+57219	
+Day County
+57220	
+Brookings County
+57221	
+Hamlin County
+57223	
+Hamlin County
+57224	
+Roberts County
+57225	
+Clark County
+57226	
+Deuel County
+57227	
+Roberts County
+57231	
+Kingsbury County
+57232	
+Marshall County
+57233	
+Kingsbury County
+57234	
+Hamlin County
+57235	
+Codington County
+57236	
+Clark County
+57237	
+Deuel County
+57238	
+Deuel County
+57239	
+Day County
+57241	
+Hamlin County
+57242	
+Hamlin County
+57243	
+Codington County
+57245	
+Codington County
+57246	
+Grant County
+57247	
+Marshall County
+57248	
+Hamlin County
+57249	
+Kingsbury County
+57251	
+Grant County
+57252	
+Grant County
+57253	
+Grant County
+57255	
+Roberts County
+57256	
+Roberts County
+57257	
+Roberts County
+57258	
+Clark County
+57259	
+Grant County
+57260	
+Roberts County
+57261	
+Day County
+57262	
+Roberts County
+57263	
+Codington County
+57264	
+Grant County
+57265	
+Grant County
+57266	
+Grant County
+57268	
+Deuel County
+57269	
+Grant County
+57270	
+Marshall County
+57271	
+Clark County
+57272	
+Codington County
+57273	
+Day County
+57274	
+Day County
+57276	
+Brookings County
+57278	
+Clark County
+57279	
+Roberts County
+57301	
+Davison County
+57311	
+Hanson County
+57312	
+Jerauld County
+57313	
+Douglas County
+57314	
+Sanborn County
+57315	
+Bon Homme County
+57317	
+Gregory County
+57319	
+McCook County
+57321	
+Miner County
+57322	
+Beadle County
+57323	
+Miner County
+57324	
+Beadle County
+57325	
+Brule County
+57326	
+Brule County
+57328	
+Douglas County
+57329	
+Charles Mix County
+57330	
+Douglas County
+57331	
+Hutchinson County
+57332	
+Hanson County
+57334	
+Davison County
+57335	
+Gregory County
+57337	
+Miner County
+57339	
+Buffalo County
+57340	
+Hanson County
+57341	
+Buffalo County
+57342	
+Charles Mix County
+57344	
+Douglas County
+57345	
+Hyde County
+57346	
+Hyde County
+57348	
+Beadle County
+57349	
+Miner County
+57350	
+Beadle County
+57353	
+Kingsbury County
+57354	
+Hutchinson County
+57355	
+Brule County
+57356	
+Charles Mix County
+57358	
+Jerauld County
+57359	
+Sanborn County
+57361	
+Charles Mix County
+57362	
+Hand County
+57363	
+Davison County
+57364	
+Douglas County
+57365	
+Lyman County
+57366	
+Hutchinson County
+57367	
+Charles Mix County
+57368	
+Aurora County
+57369	
+Charles Mix County
+57370	
+Brule County
+57371	
+Hand County
+57373	
+Hand County
+57374	
+McCook County
+57375	
+Aurora County
+57376	
+Hutchinson County
+57379	
+Beadle County
+57380	
+Charles Mix County
+57381	
+Beadle County
+57382	
+Jerauld County
+57383	
+Aurora County
+57384	
+Beadle County
+57385	
+Sanborn County
+57386	
+Beadle County
+57399	
+Beadle County
+57401	
+Brown County
+57402	
+Brown County
+57420	
+Walworth County
+57421	
+Marshall County
+57422	
+Day County
+57424	
+Spink County
+57426	
+Brown County
+57427	
+Brown County
+57428	
+Edmunds County
+57429	
+Spink County
+57430	
+Marshall County
+57432	
+Brown County
+57433	
+Brown County
+57434	
+Spink County
+57435	
+Faulk County
+57436	
+Spink County
+57437	
+McPherson County
+57438	
+Faulk County
+57439	
+Brown County
+57440	
+Spink County
+57441	
+Brown County
+57442	
+Potter County
+57445	
+Brown County
+57446	
+Brown County
+57448	
+Edmunds County
+57449	
+Brown County
+57450	
+Potter County
+57451	
+Edmunds County
+57452	
+Walworth County
+57454	
+Marshall County
+57455	
+Potter County
+57456	
+McPherson County
+57457	
+McPherson County
+57460	
+Brown County
+57461	
+Spink County
+57465	
+Spink County
+57466	
+Faulk County
+57467	
+Hand County
+57468	
+Day County
+57469	
+Spink County
+57470	
+Faulk County
+57471	
+Edmunds County
+57472	
+Walworth County
+57473	
+Faulk County
+57474	
+Brown County
+57475	
+Potter County
+57476	
+Spink County
+57477	
+Spink County
+57479	
+Brown County
+57481	
+Brown County
+57501	
+Hughes County
+57520	
+Sully County
+57521	
+Jackson County
+57522	
+Hughes County
+57523	
+Gregory County
+57528	
+Tripp County
+57529	
+Gregory County
+57531	
+Jones County
+57532	
+Stanley County
+57533	
+Gregory County
+57534	
+Tripp County
+57536	
+Hughes County
+57537	
+Stanley County
+57538	
+Gregory County
+57540	
+Hyde County
+57541	
+Tripp County
+57543	
+Jackson County
+57544	
+Lyman County
+57547	
+Jackson County
+57548	
+Lyman County
+57551	
+Bennett County
+57552	
+Haakon County
+57553	
+Haakon County
+57555	
+Todd County
+57559	
+Jones County
+57560	
+Mellette County
+57562	
+Jones County
+57563	
+Todd County
+57564	
+Sully County
+57566	
+Mellette County
+57567	
+Haakon County
+57568	
+Lyman County
+57569	
+Lyman County
+57570	
+Todd County
+57571	
+Gregory County
+57572	
+Todd County
+57574	
+Bennett County
+57576	
+Lyman County
+57577	
+Jackson County
+57579	
+Mellette County
+57580	
+Tripp County
+57584	
+Tripp County
+57585	
+Mellette County
+57601	
+Walworth County
+57620	
+Perkins County
+57621	
+Corson County
+57622	
+Ziebach County
+57623	
+Ziebach County
+57625	
+Dewey County
+57626	
+Meade County
+57630	
+Dewey County
+57631	
+Walworth County
+57632	
+Campbell County
+57633	
+Dewey County
+57634	
+Corson County
+57636	
+Dewey County
+57638	
+Perkins County
+57639	
+Corson County
+57640	
+Perkins County
+57641	
+Corson County
+57642	
+Corson County
+57644	
+Perkins County
+57645	
+Grant County
+57646	
+Campbell County
+57648	
+Campbell County
+57649	
+Perkins County
+57650	
+Harding County
+57651	
+Harding County
+57652	
+Dewey County
+57656	
+Dewey County
+57657	
+Dewey County
+57658	
+Corson County
+57659	
+Corson County
+57660	
+Grant County
+57661	
+Dewey County
+57701	
+Pennington County
+57702	
+Pennington County
+57703	
+Pennington County
+57706	
+Meade County
+57709	
+Pennington County
+57714	
+Bennett County
+57716	
+Shannon County
+57717	
+Butte County
+57718	
+Meade County
+57719	
+Pennington County
+57720	
+Harding County
+57722	
+Custer County
+57724	
+Harding County
+57725	
+Pennington County
+57730	
+Custer County
+57732	
+Lawrence County
+57735	
+Fall River County
+57737	
+Meade County
+57738	
+Custer County
+57741	
+Meade County
+57744	
+Custer County
+57745	
+Pennington County
+57747	
+Fall River County
+57748	
+Meade County
+57750	
+Jackson County
+57751	
+Pennington County
+57752	
+Shannon County
+57754	
+Lawrence County
+57755	
+Harding County
+57756	
+Shannon County
+57758	
+Meade County
+57759	
+Lawrence County
+57760	
+Butte County
+57761	
+Pennington County
+57762	
+Butte County
+57763	
+Fall River County
+57764	
+Shannon County
+57766	
+Fall River County
+57767	
+Pennington County
+57769	
+Meade County
+57770	
+Shannon County
+57772	
+Shannon County
+57773	
+Custer County
+57775	
+Pennington County
+57776	
+Harding County
+57779	
+Lawrence County
+57780	
+Pennington County
+57782	
+Fall River County
+57783	
+Lawrence County
+57785	
+Meade County
+57787	
+Meade County
+57788	
+Butte County
+57790	
+Pennington County
+57791	
+Pennington County
+57792	
+Meade County
+57793	
+Lawrence County
+57794	
+Shannon County
+57799	
+Lawrence County
+30034
+11435
+15666
+44062
+15443
+98107
+33145
+33713
+52624
+95248
+60619
+75447
+33175
+08007
+44057
+12766
+44484
+12574
+93309
+10039
+60617
+23325
+88056
+99124
+44641
+01543
+12849

@@ -1,0 +1,2092 @@
+County
+55001	
+Washington County
+55002	
+Chisago County
+55003	
+Washington County
+55005	
+Anoka County
+55006	
+Isanti County
+55007	
+Kanabec County
+55008	
+Isanti County
+55009	
+Goodhue County
+55010	
+Dakota County
+55011	
+Anoka County
+55012	
+Chisago County
+55013	
+Chisago County
+55014	
+Anoka County
+55016	
+Washington County
+55017	
+Isanti County
+55018	
+Goodhue County
+55019	
+Rice County
+55020	
+Scott County
+55021	
+Rice County
+55024	
+Dakota County
+55025	
+Washington County
+55026	
+Goodhue County
+55027	
+Goodhue County
+55029	
+Isanti County
+55030	
+Pine County
+55031	
+Dakota County
+55032	
+Chisago County
+55033	
+Dakota County
+55036	
+Pine County
+55037	
+Pine County
+55038	
+Washington County
+55040	
+Isanti County
+55041	
+Wabasha County
+55042	
+Washington County
+55043	
+Washington County
+55044	
+Dakota County
+55045	
+Chisago County
+55046	
+Rice County
+55047	
+Washington County
+55049	
+Steele County
+55051	
+Kanabec County
+55052	
+Rice County
+55053	
+Rice County
+55054	
+Scott County
+55055	
+Washington County
+55056	
+Chisago County
+55057	
+Rice County
+55060	
+Steele County
+55063	
+Pine County
+55065	
+Dakota County
+55066	
+Goodhue County
+55067	
+Pine County
+55068	
+Dakota County
+55069	
+Chisago County
+55070	
+Anoka County
+55071	
+Washington County
+55072	
+Pine County
+55073	
+Washington County
+55074	
+Chisago County
+55075	
+Dakota County
+55076	
+Dakota County
+55077	
+Dakota County
+55078	
+Chisago County
+55079	
+Chisago County
+55080	
+Isanti County
+55082	
+Washington County
+55083	
+Washington County
+55084	
+Chisago County
+55085	
+Dakota County
+55087	
+Rice County
+55088	
+Rice County
+55089	
+Goodhue County
+55090	
+Washington County
+55092	
+Chisago County
+55101	
+Ramsey County
+55102	
+Ramsey County
+55103	
+Ramsey County
+55104	
+Ramsey County
+55105	
+Ramsey County
+55106	
+Ramsey County
+55107	
+Ramsey County
+55108	
+Ramsey County
+55109	
+Ramsey County
+55110	
+Ramsey County
+55111	
+Hennepin County
+55112	
+Ramsey County
+55113	
+Ramsey County
+55114	
+Ramsey County
+55115	
+Washington County
+55116	
+Ramsey County
+55117	
+Ramsey County
+55118	
+Dakota County
+55119	
+Ramsey County
+55120	
+Dakota County
+55121	
+Dakota County
+55122	
+Dakota County
+55123	
+Dakota County
+55124	
+Dakota County
+55125	
+Washington County
+55126	
+Ramsey County
+55127	
+Ramsey County
+55128	
+Washington County
+55129	
+Washington County
+55130	
+Ramsey County
+55131	
+Ramsey County
+55133	
+Ramsey County
+55144	
+Ramsey County
+55145	
+Ramsey County
+55146	
+Ramsey County
+55150	
+Dakota County
+55155	
+Ramsey County
+55161	
+Ramsey County
+55164	
+Ramsey County
+55165	
+Ramsey County
+55166	
+Ramsey County
+55168	
+Ramsey County
+55169	
+Ramsey County
+55170	
+Ramsey County
+55171	
+Ramsey County
+55172	
+Ramsey County
+55175	
+Ramsey County
+55177	
+Ramsey County
+55187	
+Ramsey County
+55188	
+Ramsey County
+55191	
+Ramsey County
+55301	
+Wright County
+55302	
+Wright County
+55303	
+Anoka County
+55304	
+Anoka County
+55305	
+Hennepin County
+55306	
+Dakota County
+55307	
+Sibley County
+55308	
+Sherburne County
+55309	
+Sherburne County
+55310	
+Renville County
+55311	
+Hennepin County
+55312	
+McLeod County
+55313	
+Wright County
+55314	
+Renville County
+55315	
+Carver County
+55316	
+Hennepin County
+55317	
+Carver County
+55318	
+Carver County
+55319	
+Sherburne County
+55320	
+Wright County
+55321	
+Wright County
+55322	
+Carver County
+55323	
+Hennepin County
+55324	
+Meeker County
+55325	
+Meeker County
+55327	
+Hennepin County
+55328	
+Wright County
+55329	
+Stearns County
+55330	
+Sherburne County
+55331	
+Hennepin County
+55332	
+Renville County
+55333	
+Renville County
+55334	
+Sibley County
+55335	
+Sibley County
+55336	
+McLeod County
+55337	
+Dakota County
+55338	
+Sibley County
+55339	
+Carver County
+55340	
+Hennepin County
+55341	
+Wright County
+55342	
+Renville County
+55343	
+Hennepin County
+55344	
+Hennepin County
+55345	
+Hennepin County
+55346	
+Hennepin County
+55347	
+Hennepin County
+55348	
+Hennepin County
+55349	
+Wright County
+55350	
+McLeod County
+55352	
+Scott County
+55353	
+Stearns County
+55354	
+McLeod County
+55355	
+Meeker County
+55356	
+Hennepin County
+55357	
+Hennepin County
+55358	
+Wright County
+55359	
+Hennepin County
+55360	
+Carver County
+55361	
+Hennepin County
+55362	
+Wright County
+55363	
+Wright County
+55364	
+Hennepin County
+55365	
+Wright County
+55366	
+Sibley County
+55367	
+Carver County
+55368	
+Carver County
+55369	
+Hennepin County
+55370	
+McLeod County
+55371	
+Mille Lacs County
+55372	
+Scott County
+55373	
+Wright County
+55374	
+Hennepin County
+55375	
+Hennepin County
+55376	
+Wright County
+55377	
+Sherburne County
+55378	
+Scott County
+55379	
+Scott County
+55380	
+Wright County
+55381	
+McLeod County
+55382	
+Stearns County
+55383	
+Carver County
+55384	
+Hennepin County
+55385	
+McLeod County
+55386	
+Carver County
+55387	
+Carver County
+55388	
+Carver County
+55389	
+Meeker County
+55390	
+Wright County
+55391	
+Hennepin County
+55392	
+Hennepin County
+55393	
+Hennepin County
+55394	
+Carver County
+55395	
+McLeod County
+55396	
+Sibley County
+55397	
+Carver County
+55398	
+Sherburne County
+55399	
+Carver County
+55401	
+Hennepin County
+55402	
+Hennepin County
+55403	
+Hennepin County
+55404	
+Hennepin County
+55405	
+Hennepin County
+55406	
+Hennepin County
+55407	
+Hennepin County
+55408	
+Hennepin County
+55409	
+Hennepin County
+55410	
+Hennepin County
+55411	
+Hennepin County
+55412	
+Hennepin County
+55413	
+Hennepin County
+55414	
+Hennepin County
+55415	
+Hennepin County
+55416	
+Hennepin County
+55417	
+Hennepin County
+55418	
+Hennepin County
+55419	
+Hennepin County
+55420	
+Hennepin County
+55421	
+Anoka County
+55422	
+Hennepin County
+55423	
+Hennepin County
+55424	
+Hennepin County
+55425	
+Hennepin County
+55426	
+Hennepin County
+55427	
+Hennepin County
+55428	
+Hennepin County
+55429	
+Hennepin County
+55430	
+Hennepin County
+55431	
+Hennepin County
+55432	
+Anoka County
+55433	
+Anoka County
+55434	
+Anoka County
+55435	
+Hennepin County
+55436	
+Hennepin County
+55437	
+Hennepin County
+55438	
+Hennepin County
+55439	
+Hennepin County
+55440	
+Hennepin County
+55441	
+Hennepin County
+55442	
+Hennepin County
+55443	
+Hennepin County
+55444	
+Hennepin County
+55445	
+Hennepin County
+55446	
+Hennepin County
+55447	
+Hennepin County
+55448	
+Anoka County
+55449	
+Anoka County
+55450	
+Hennepin County
+55454	
+Hennepin County
+55455	
+Hennepin County
+55458	
+Hennepin County
+55459	
+Hennepin County
+55460	
+Hennepin County
+55467	
+Hennepin County
+55468	
+Hennepin County
+55470	
+Hennepin County
+55472	
+Hennepin County
+55473	
+Hennepin County
+55474	
+Hennepin County
+55478	
+Hennepin County
+55479	
+Hennepin County
+55480	
+Hennepin County
+55483	
+Hennepin County
+55484	
+Hennepin County
+55485	
+Hennepin County
+55486	
+Hennepin County
+55487	
+Hennepin County
+55488	
+Hennepin County
+55550	
+Carver County
+55551	
+Carver County
+55552	
+Carver County
+55553	
+Carver County
+55554	
+Carver County
+55555	
+Carver County
+55556	
+Carver County
+55557	
+Carver County
+55558	
+Carver County
+55559	
+Carver County
+55560	
+Carver County
+55561	
+Wright County
+55562	
+Carver County
+55563	
+Wright County
+55564	
+Carver County
+55565	
+Wright County
+55566	
+Carver County
+55567	
+Carver County
+55568	
+Carver County
+55569	
+Hennepin County
+55570	
+Hennepin County
+55571	
+Hennepin County
+55572	
+Wright County
+55573	
+Carver County
+55574	
+Hennepin County
+55575	
+Wright County
+55576	
+Hennepin County
+55577	
+Wright County
+55578	
+Hennepin County
+55579	
+Hennepin County
+55580	
+Wright County
+55581	
+Wright County
+55582	
+Wright County
+55583	
+Carver County
+55584	
+Wright County
+55585	
+Wright County
+55586	
+Wright County
+55587	
+Wright County
+55588	
+Wright County
+55589	
+Wright County
+55590	
+Wright County
+55591	
+Wright County
+55592	
+Hennepin County
+55593	
+Hennepin County
+55594	
+Carver County
+55595	
+Hennepin County
+55596	
+Hennepin County
+55597	
+Hennepin County
+55598	
+Hennepin County
+55599	
+Hennepin County
+55601	
+Lake County
+55602	
+St. Louis County
+55603	
+Lake County
+55604	
+Cook County
+55605	
+Cook County
+55606	
+Cook County
+55607	
+Lake County
+55609	
+Lake County
+55612	
+Cook County
+55613	
+Cook County
+55614	
+Lake County
+55615	
+Cook County
+55616	
+Lake County
+55701	
+St Louis County
+55702	
+St. Louis County
+55703	
+St. Louis County
+55704	
+Pine County
+55705	
+St. Louis County
+55706	
+St. Louis County
+55707	
+Carlton County
+55708	
+St. Louis County
+55709	
+Itasca County
+55710	
+St. Louis County
+55711	
+St. Louis County
+55712	
+Pine County
+55713	
+St. Louis County
+55716	
+Itasca County
+55717	
+St. Louis County
+55718	
+Carlton County
+55719	
+St. Louis County
+55720	
+Carlton County
+55721	
+Itasca County
+55722	
+Itasca County
+55723	
+St. Louis County
+55724	
+St. Louis County
+55725	
+St. Louis County
+55726	
+Carlton County
+55730	
+Itasca County
+55731	
+St. Louis County
+55732	
+St. Louis County
+55733	
+Carlton County
+55734	
+St. Louis County
+55735	
+Pine County
+55736	
+St. Louis County
+55738	
+St. Louis County
+55741	
+St. Louis County
+55742	
+Itasca County
+55744	
+Itasca County
+55745	
+Itasca County
+55746	
+St. Louis County
+55747	
+St. Louis County
+55748	
+Aitkin County
+55749	
+Carlton County
+55750	
+St. Louis County
+55751	
+St. Louis County
+55752	
+Aitkin County
+55753	
+Itasca County
+55756	
+Pine County
+55757	
+Carlton County
+55758	
+St. Louis County
+55760	
+Aitkin County
+55763	
+St. Louis County
+55764	
+Itasca County
+55765	
+St. Louis County
+55766	
+St. Louis County
+55767	
+Carlton County
+55768	
+St. Louis County
+55769	
+Itasca County
+55771	
+St. Louis County
+55772	
+Koochiching County
+55775	
+Itasca County
+55777	
+St. Louis County
+55779	
+St. Louis County
+55780	
+Carlton County
+55781	
+St. Louis County
+55782	
+St. Louis County
+55783	
+Pine County
+55784	
+Itasca County
+55785	
+Aitkin County
+55786	
+Itasca County
+55787	
+Aitkin County
+55790	
+St. Louis County
+55791	
+St Louis County
+55792	
+St. Louis County
+55793	
+Itasca County
+55795	
+Pine County
+55796	
+St Louis County
+55797	
+Carlton County
+55798	
+Carlton County
+55801	
+St Louis County
+55802	
+St. Louis County
+55803	
+St. Louis County
+55804	
+St. Louis County
+55805	
+St. Louis County
+55806	
+St. Louis County
+55807	
+St. Louis County
+55808	
+St. Louis County
+55810	
+St. Louis County
+55811	
+St. Louis County
+55812	
+St. Louis County
+55814	
+St. Louis County
+55815	
+St. Louis County
+55816	
+St. Louis County
+55901	
+Olmsted County
+55902	
+Olmsted County
+55903	
+Olmsted County
+55904	
+Olmsted County
+55905	
+Olmsted County
+55906	
+Olmsted County
+55909	
+Mower County
+55910	
+Winona County
+55912	
+Mower County
+55917	
+Steele County
+55918	
+Mower County
+55919	
+Houston County
+55920	
+Olmsted County
+55921	
+Houston County
+55922	
+Fillmore County
+55923	
+Fillmore County
+55924	
+Dodge County
+55925	
+Winona County
+55926	
+Mower County
+55927	
+Dodge County
+55929	
+Olmsted County
+55931	
+Houston County
+55932	
+Wabasha County
+55933	
+Mower County
+55934	
+Olmsted County
+55935	
+Fillmore County
+55936	
+Mower County
+55939	
+Fillmore County
+55940	
+Dodge County
+55941	
+Houston County
+55942	
+Winona County
+55943	
+Houston County
+55944	
+Dodge County
+55945	
+Wabasha County
+55946	
+Goodhue County
+55947	
+Houston County
+55949	
+Fillmore County
+55950	
+Mower County
+55951	
+Mower County
+55952	
+Winona County
+55953	
+Mower County
+55954	
+Fillmore County
+55955	
+Dodge County
+55956	
+Wabasha County
+55957	
+Wabasha County
+55959	
+Winona County
+55960	
+Olmsted County
+55961	
+Fillmore County
+55962	
+Fillmore County
+55963	
+Goodhue County
+55964	
+Wabasha County
+55965	
+Fillmore County
+55967	
+Mower County
+55968	
+Wabasha County
+55969	
+Winona County
+55970	
+Mower County
+55971	
+Fillmore County
+55972	
+Winona County
+55973	
+Mower County
+55974	
+Houston County
+55975	
+Fillmore County
+55976	
+Olmsted County
+55977	
+Mower County
+55979	
+Winona County
+55981	
+Wabasha County
+55982	
+Mower County
+55983	
+Goodhue County
+55985	
+Dodge County
+55987	
+Winona County
+55988	
+Winona County
+55990	
+Fillmore County
+55991	
+Wabasha County
+55992	
+Goodhue County
+56001	
+Blue Earth County
+56002	
+Blue Earth County
+56003	
+Nicollet County
+56006	
+Blue Earth County
+56007	
+Freeborn County
+56009	
+Freeborn County
+56010	
+Blue Earth County
+56011	
+Scott County
+56013	
+Faribault County
+56014	
+Faribault County
+56016	
+Freeborn County
+56017	
+Le Sueur County
+56019	
+Brown County
+56020	
+Freeborn County
+56021	
+Nicollet County
+56022	
+Watonwan County
+56023	
+Faribault County
+56024	
+Blue Earth County
+56025	
+Faribault County
+56026	
+Steele County
+56027	
+Faribault County
+56028	
+Le Sueur County
+56029	
+Freeborn County
+56030	
+Brown County
+56031	
+Martin County
+56032	
+Freeborn County
+56033	
+Faribault County
+56034	
+Blue Earth County
+56035	
+Freeborn County
+56036	
+Freeborn County
+56037	
+Blue Earth County
+56039	
+Martin County
+56041	
+Brown County
+56042	
+Freeborn County
+56043	
+Freeborn County
+56044	
+Sibley County
+56045	
+Freeborn County
+56046	
+Steele County
+56047	
+Faribault County
+56048	
+Waseca County
+56050	
+Le Sueur County
+56051	
+Faribault County
+56052	
+Le Sueur County
+56054	
+Nicollet County
+56055	
+Blue Earth County
+56056	
+Watonwan County
+56057	
+Le Sueur County
+56058	
+Le Sueur County
+56060	
+Watonwan County
+56062	
+Watonwan County
+56063	
+Blue Earth County
+56065	
+Blue Earth County
+56068	
+Faribault County
+56069	
+Le Sueur County
+56071	
+Scott County
+56072	
+Waseca County
+56073	
+Brown County
+56074	
+Nicollet County
+56075	
+Martin County
+56078	
+Blue Earth County
+56080	
+Blue Earth County
+56081	
+Watonwan County
+56082	
+Nicollet County
+56083	
+Redwood County
+56084	
+Brown County
+56085	
+Brown County
+56087	
+Brown County
+56088	
+Martin County
+56089	
+Freeborn County
+56090	
+Blue Earth County
+56091	
+Waseca County
+56093	
+Waseca County
+56096	
+Le Sueur County
+56097	
+Faribault County
+56098	
+Faribault County
+56101	
+Cottonwood County
+56110	
+Nobles County
+56111	
+Jackson County
+56113	
+Lincoln County
+56114	
+Murray County
+56115	
+Lyon County
+56116	
+Rock County
+56117	
+Nobles County
+56118	
+Cottonwood County
+56119	
+Nobles County
+56120	
+Watonwan County
+56121	
+Martin County
+56122	
+Murray County
+56123	
+Murray County
+56125	
+Murray County
+56127	
+Martin County
+56128	
+Pipestone County
+56129	
+Nobles County
+56131	
+Murray County
+56132	
+Lyon County
+56134	
+Rock County
+56136	
+Lincoln County
+56137	
+Jackson County
+56138	
+Rock County
+56139	
+Pipestone County
+56140	
+Pipestone County
+56141	
+Murray County
+56142	
+Lincoln County
+56143	
+Jackson County
+56144	
+Pipestone County
+56145	
+Cottonwood County
+56146	
+Rock County
+56147	
+Rock County
+56149	
+Lincoln County
+56150	
+Jackson County
+56151	
+Murray County
+56152	
+Redwood County
+56153	
+Nobles County
+56155	
+Nobles County
+56156	
+Rock County
+56157	
+Lyon County
+56158	
+Rock County
+56159	
+Cottonwood County
+56160	
+Watonwan County
+56161	
+Jackson County
+56162	
+Martin County
+56164	
+Pipestone County
+56165	
+Nobles County
+56166	
+Redwood County
+56167	
+Nobles County
+56168	
+Nobles County
+56169	
+Lyon County
+56170	
+Pipestone County
+56171	
+Martin County
+56172	
+Murray County
+56173	
+Rock County
+56174	
+Cottonwood County
+56175	
+Lyon County
+56176	
+Martin County
+56177	
+Pipestone County
+56178	
+Lincoln County
+56180	
+Redwood County
+56181	
+Martin County
+56183	
+Cottonwood County
+56185	
+Nobles County
+56186	
+Pipestone County
+56187	
+Nobles County
+56201	
+Kandiyohi County
+56207	
+Stevens County
+56208	
+Swift County
+56209	
+Kandiyohi County
+56210	
+Big Stone County
+56211	
+Big Stone County
+56212	
+Lac qui Parle County
+56214	
+Redwood County
+56215	
+Swift County
+56216	
+Kandiyohi County
+56218	
+Lac qui Parle County
+56219	
+Traverse County
+56220	
+Yellow Medicine County
+56221	
+Stevens County
+56222	
+Chippewa County
+56223	
+Yellow Medicine County
+56224	
+Redwood County
+56225	
+Big Stone County
+56226	
+Swift County
+56227	
+Big Stone County
+56228	
+Meeker County
+56229	
+Lyon County
+56230	
+Renville County
+56231	
+Swift County
+56232	
+Lac qui Parle County
+56235	
+Stevens County
+56236	
+Traverse County
+56237	
+Yellow Medicine County
+56239	
+Lyon County
+56240	
+Big Stone County
+56241	
+Yellow Medicine County
+56243	
+Meeker County
+56244	
+Stevens County
+56245	
+Yellow Medicine County
+56248	
+Grant County
+56249	
+Swift County
+56251	
+Kandiyohi County
+56252	
+Swift County
+56253	
+Kandiyohi County
+56255	
+Redwood County
+56256	
+Lac qui Parle County
+56257	
+Lac qui Parle County
+56258	
+Lyon County
+56260	
+Chippewa County
+56262	
+Chippewa County
+56263	
+Redwood County
+56264	
+Lyon County
+56265	
+Chippewa County
+56266	
+Redwood County
+56267	
+Stevens County
+56270	
+Renville County
+56271	
+Swift County
+56273	
+Kandiyohi County
+56274	
+Grant County
+56276	
+Big Stone County
+56277	
+Renville County
+56278	
+Big Stone County
+56279	
+Kandiyohi County
+56280	
+Yellow Medicine County
+56281	
+Kandiyohi County
+56282	
+Kandiyohi County
+56283	
+Redwood County
+56284	
+Renville County
+56285	
+Renville County
+56287	
+Redwood County
+56288	
+Kandiyohi County
+56289	
+Kandiyohi County
+56291	
+Lyon County
+56292	
+Redwood County
+56293	
+Redwood County
+56294	
+Redwood County
+56295	
+Chippewa County
+56296	
+Traverse County
+56297	
+Yellow Medicine County
+56301	
+Stearns County
+56302	
+Stearns County
+56303	
+Stearns County
+56304	
+Sherburne County
+56307	
+Stearns County
+56308	
+Douglas County
+56309	
+Grant County
+56310	
+Stearns County
+56311	
+Grant County
+56312	
+Stearns County
+56313	
+Mille Lacs County
+56314	
+Morrison County
+56315	
+Douglas County
+56316	
+Stearns County
+56317	
+Morrison County
+56318	
+Todd County
+56319	
+Douglas County
+56320	
+Stearns County
+56321	
+Stearns County
+56323	
+Pope County
+56324	
+Otter Tail County
+56325	
+Stearns County
+56326	
+Douglas County
+56327	
+Douglas County
+56328	
+Morrison County
+56329	
+Benton County
+56330	
+Mille Lacs County
+56331	
+Stearns County
+56332	
+Douglas County
+56333	
+Benton County
+56334	
+Pope County
+56335	
+Stearns County
+56336	
+Todd County
+56338	
+Morrison County
+56339	
+Grant County
+56340	
+Stearns County
+56341	
+Douglas County
+56342	
+Mille Lacs County
+56343	
+Douglas County
+56344	
+Morrison County
+56345	
+Morrison County
+56347	
+Todd County
+56349	
+Pope County
+56350	
+Aitkin County
+56352	
+Stearns County
+56353	
+Mille Lacs County
+56354	
+Douglas County
+56355	
+Douglas County
+56356	
+Stearns County
+56357	
+Benton County
+56358	
+Kanabec County
+56359	
+Mille Lacs County
+56360	
+Douglas County
+56361	
+Otter Tail County
+56362	
+Stearns County
+56363	
+Mille Lacs County
+56364	
+Morrison County
+56367	
+Benton County
+56368	
+Stearns County
+56369	
+Stearns County
+56371	
+Stearns County
+56372	
+Stearns County
+56373	
+Morrison County
+56374	
+Stearns County
+56375	
+Stearns County
+56376	
+Stearns County
+56377	
+Stearns County
+56378	
+Stearns County
+56379	
+Benton County
+56381	
+Pope County
+56382	
+Morrison County
+56384	
+Morrison County
+56385	
+Pope County
+56386	
+Mille Lacs County
+56387	
+Stearns County
+56388	
+Stearns County
+56389	
+Todd County
+56393	
+Stearns County
+56395	
+Stearns County
+56396	
+Stearns County
+56397	
+Stearns County
+56398	
+Stearns County
+56399	
+Stearns County
+56401	
+Crow Wing County
+56425	
+Crow Wing County
+56430	
+Cass County
+56431	
+Aitkin County
+56433	
+Hubbard County
+56434	
+Todd County
+56435	
+Cass County
+56436	
+Hubbard County
+56437	
+Todd County
+56438	
+Todd County
+56440	
+Todd County
+56441	
+Crow Wing County
+56442	
+Crow Wing County
+56443	
+Morrison County
+56444	
+Crow Wing County
+56446	
+Todd County
+56447	
+Crow Wing County
+56448	
+Crow Wing County
+56449	
+Crow Wing County
+56450	
+Crow Wing County
+56452	
+Cass County
+56453	
+Todd County
+56455	
+Crow Wing County
+56456	
+Crow Wing County
+56458	
+Hubbard County
+56459	
+Crow Wing County
+56461	
+Hubbard County
+56464	
+Wadena County
+56465	
+Crow Wing County
+56466	
+Cass County
+56467	
+Hubbard County
+56468	
+Crow Wing County
+56469	
+Aitkin County
+56470	
+Hubbard County
+56472	
+Crow Wing County
+56473	
+Cass County
+56474	
+Cass County
+56475	
+Morrison County
+56477	
+Wadena County
+56478	
+Wadena County
+56479	
+Todd County
+56481	
+Wadena County
+56482	
+Wadena County
+56484	
+Cass County
+56501	
+Becker County
+56502	
+Becker County
+56510	
+Norman County
+56511	
+Becker County
+56514	
+Clay County
+56515	
+Otter Tail County
+56516	
+Norman County
+56517	
+Polk County
+56518	
+Otter Tail County
+56519	
+Norman County
+56520	
+Wilkin County
+56521	
+Becker County
+56522	
+Wilkin County
+56523	
+Polk County
+56524	
+Otter Tail County
+56525	
+Clay County
+56527	
+Otter Tail County
+56528	
+Otter Tail County
+56529	
+Clay County
+56531	
+Grant County
+56533	
+Otter Tail County
+56534	
+Otter Tail County
+56535	
+Polk County
+56536	
+Clay County
+56537	
+Otter Tail County
+56538	
+Otter Tail County
+56540	
+Polk County
+56541	
+Norman County
+56542	
+Polk County
+56543	
+Wilkin County
+56544	
+Becker County
+56545	
+Norman County
+56546	
+Clay County
+56547	
+Clay County
+56548	
+Norman County
+56549	
+Clay County
+56550	
+Norman County
+56551	
+Otter Tail County
+56552	
+Clay County
+56553	
+Wilkin County
+56554	
+Becker County
+56556	
+Polk County
+56557	
+Norman County
+56560	
+Clay County
+56561	
+Clay County
+56562	
+Clay County
+56563	
+Clay County
+56565	
+Wilkin County
+56566	
+Mahnomen County
+56567	
+Otter Tail County
+56568	
+Polk County
+56569	
+Becker County
+56570	
+Becker County
+56571	
+Otter Tail County
+56572	
+Otter Tail County
+56573	
+Otter Tail County
+56574	
+Norman County
+56575	
+Becker County
+56576	
+Otter Tail County
+56577	
+Becker County
+56578	
+Becker County
+56579	
+Wilkin County
+56580	
+Clay County
+56581	
+Norman County
+56583	
+Traverse County
+56584	
+Norman County
+56585	
+Clay County
+56586	
+Otter Tail County
+56587	
+Otter Tail County
+56588	
+Otter Tail County
+56589	
+Clearwater County
+56590	
+Grant County
+56591	
+Becker County
+56592	
+Polk County
+56593	
+Becker County
+56594	
+Wilkin County
+56601	
+Beltrami County
+56619	
+Beltrami County
+56621	
+Clearwater County
+56623	
+Lake of the Woods County
+56626	
+Cass County
+56627	
+Koochiching County
+56628	
+Itasca County
+56629	
+Koochiching County
+56630	
+Beltrami County
+56631	
+Itasca County
+56633	
+Hubbard County
+56634	
+Clearwater County
+56636	
+Itasca County
+56637	
+Itasca County
+56639	
+Itasca County
+56641	
+Cass County
+56644	
+Clearwater County
+56646	
+Polk County
+56647	
+Beltrami County
+56649	
+Koochiching County
+56650	
+Beltrami County
+56651	
+Polk County
+56652	
+Clearwater County
+56653	
+Koochiching County
+56654	
+Koochiching County
+56655	
+Cass County
+56657	
+Itasca County
+56658	
+Koochiching County
+56659	
+Itasca County
+56660	
+Koochiching County
+56661	
+Koochiching County
+56662	
+Cass County
+56663	
+Beltrami County
+56666	
+Beltrami County
+56667	
+Beltrami County
+56668	
+Koochiching County
+56669	
+Koochiching County
+56670	
+Beltrami County
+56671	
+Beltrami County
+56672	
+Cass County
+56673	
+Roseau County
+56676	
+Clearwater County
+56678	
+Beltrami County
+56679	
+Koochiching County
+56680	
+Itasca County
+56681	
+Itasca County
+56682	
+Roseau County
+56683	
+Beltrami County
+56684	
+Polk County
+56685	
+Beltrami County
+56686	
+Lake of the Woods County
+56687	
+Beltrami County
+56688	
+Itasca County
+56701	
+Pennington County
+56710	
+Marshall County
+56711	
+Lake of the Woods County
+56713	
+Marshall County
+56714	
+Roseau County
+56715	
+Red Lake County
+56716	
+Polk County
+56720	
+Kittson County
+56721	
+Polk County
+56722	
+Polk County
+56723	
+Polk County
+56724	
+Marshall County
+56725	
+Pennington County
+56726	
+Roseau County
+56727	
+Marshall County
+56728	
+Kittson County
+56729	
+Kittson County
+56731	
+Kittson County
+56732	
+Kittson County
+56733	
+Kittson County
+56734	
+Kittson County
+56735	
+Kittson County
+56736	
+Polk County
+56737	
+Marshall County
+56738	
+Marshall County
+56740	
+Kittson County
+56741	
+Lake of the Woods County
+56742	
+Red Lake County
+56744	
+Marshall County
+56748	
+Red Lake County
+56750	
+Red Lake County
+56751	
+Roseau County
+56754	
+Pennington County
+56755	
+Kittson County
+56756	
+Roseau County
+56757	
+Marshall County
+56758	
+Marshall County
+56759	
+Roseau County
+56760	
+Marshall County
+56761	
+Roseau County
+56762	
+Marshall County
+56763	
+Roseau County
+11436
+10023
+72774
+22304
+17240
+43105
+10453
+55443
+44460
+98053
+10031
+90024
+11203
+20678
+55003
+36460
+30022
+97523
+17044
+10013
+33442
+20110
+11235
+14202
+21234
+45302
+93291

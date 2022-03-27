@@ -1,0 +1,838 @@
+County
+59001	
+Stillwater County
+59002	
+Yellowstone County
+59003	
+Rosebud County
+59004	
+Rosebud County
+59006	
+Yellowstone County
+59007	
+Carbon County
+59008	
+Carbon County
+59010	
+Treasure County
+59011	
+Sweet Grass County
+59012	
+Rosebud County
+59013	
+Carbon County
+59014	
+Carbon County
+59015	
+Yellowstone County
+59016	
+Big Horn County
+59018	
+Park County
+59019	
+Stillwater County
+59020	
+Park County
+59022	
+Big Horn County
+59024	
+Yellowstone County
+59025	
+Big Horn County
+59026	
+Carbon County
+59027	
+Park County
+59028	
+Stillwater County
+59029	
+Carbon County
+59030	
+Park County
+59031	
+Big Horn County
+59032	
+Fergus County
+59033	
+Sweet Grass County
+59034	
+Big Horn County
+59035	
+Big Horn County
+59036	
+Wheatland County
+59037	
+Yellowstone County
+59038	
+Treasure County
+59039	
+Rosebud County
+59041	
+Carbon County
+59043	
+Rosebud County
+59044	
+Yellowstone County
+59046	
+Golden Valley County
+59047	
+Park County
+59050	
+Big Horn County
+59052	
+Sweet Grass County
+59053	
+Meagher County
+59054	
+Musselshell County
+59055	
+Sweet Grass County
+59057	
+Yellowstone County
+59058	
+Garfield County
+59059	
+Musselshell County
+59061	
+Stillwater County
+59062	
+Powder River County
+59063	
+Stillwater County
+59064	
+Yellowstone County
+59065	
+Park County
+59066	
+Big Horn County
+59067	
+Stillwater County
+59068	
+Carbon County
+59069	
+Stillwater County
+59070	
+Carbon County
+59071	
+Carbon County
+59072	
+Musselshell County
+59073	
+Musselshell County
+59074	
+Golden Valley County
+59075	
+Big Horn County
+59076	
+Treasure County
+59077	
+Garfield County
+59078	
+Wheatland County
+59079	
+Yellowstone County
+59081	
+Park County
+59082	
+Park County
+59083	
+Rosebud County
+59084	
+Petroleum County
+59085	
+Wheatland County
+59086	
+Park County
+59087	
+Petroleum County
+59088	
+Yellowstone County
+59089	
+Big Horn County
+59101	
+Yellowstone County
+59102	
+Yellowstone County
+59103	
+Yellowstone County
+59104	
+Yellowstone County
+59105	
+Yellowstone County
+59106	
+Yellowstone County
+59107	
+Yellowstone County
+59108	
+Yellowstone County
+59111	
+Yellowstone County
+59112	
+Yellowstone County
+59114	
+Yellowstone County
+59115	
+Yellowstone County
+59116	
+Yellowstone County
+59117	
+Yellowstone County
+59201	
+McCone County
+59211	
+Sheridan County
+59212	
+Roosevelt County
+59213	
+Richland County
+59214	
+McCone County
+59215	
+McCone County
+59217	
+Richland County
+59218	
+Roosevelt County
+59219	
+Sheridan County
+59221	
+Richland County
+59222	
+Daniels County
+59223	
+Valley County
+59225	
+Valley County
+59226	
+Roosevelt County
+59230	
+Valley County
+59231	
+Valley County
+59240	
+Valley County
+59241	
+Valley County
+59242	
+Sheridan County
+59243	
+Richland County
+59244	
+Valley County
+59247	
+Sheridan County
+59248	
+Valley County
+59250	
+Valley County
+59252	
+Sheridan County
+59253	
+Daniels County
+59254	
+Sheridan County
+59255	
+Richland County
+59256	
+Sheridan County
+59257	
+Sheridan County
+59258	
+Sheridan County
+59259	
+Dawson County
+59260	
+Valley County
+59261	
+Phillips County
+59262	
+Richland County
+59263	
+Daniels County
+59270	
+Richland County
+59273	
+Valley County
+59274	
+McCone County
+59275	
+Sheridan County
+59276	
+Daniels County
+59301	
+Custer County
+59311	
+Carter County
+59312	
+Garfield County
+59313	
+Fallon County
+59314	
+Powder River County
+59315	
+Dawson County
+59316	
+Carter County
+59317	
+Powder River County
+59318	
+Garfield County
+59319	
+Carter County
+59322	
+Garfield County
+59323	
+Rosebud County
+59324	
+Carter County
+59326	
+Prairie County
+59327	
+Rosebud County
+59330	
+Dawson County
+59332	
+Carter County
+59333	
+Rosebud County
+59336	
+Custer County
+59337	
+Garfield County
+59338	
+Custer County
+59339	
+Dawson County
+59341	
+Prairie County
+59343	
+Powder River County
+59344	
+Fallon County
+59345	
+Powder River County
+59347	
+Rosebud County
+59349	
+Prairie County
+59351	
+Powder River County
+59353	
+Wibaux County
+59354	
+Fallon County
+59401	
+Cascade County
+59402	
+Cascade County
+59403	
+Cascade County
+59404	
+Cascade County
+59405	
+Cascade County
+59406	
+Cascade County
+59410	
+Lewis and Clark County
+59411	
+Glacier County
+59412	
+Cascade County
+59414	
+Cascade County
+59416	
+Pondera County
+59417	
+Glacier County
+59418	
+Judith Basin County
+59419	
+Teton County
+59420	
+Chouteau County
+59421	
+Cascade County
+59422	
+Teton County
+59424	
+Fergus County
+59425	
+Pondera County
+59427	
+Glacier County
+59430	
+Fergus County
+59432	
+Pondera County
+59433	
+Teton County
+59434	
+Glacier County
+59435	
+Toole County
+59436	
+Teton County
+59440	
+Chouteau County
+59441	
+Fergus County
+59442	
+Chouteau County
+59443	
+Cascade County
+59444	
+Liberty County
+59446	
+Chouteau County
+59447	
+Judith Basin County
+59448	
+Pondera County
+59450	
+Chouteau County
+59451	
+Fergus County
+59452	
+Judith Basin County
+59453	
+Wheatland County
+59454	
+Toole County
+59456	
+Toole County
+59457	
+Fergus County
+59460	
+Chouteau County
+59461	
+Liberty County
+59462	
+Judith Basin County
+59463	
+Cascade County
+59464	
+Fergus County
+59465	
+Cascade County
+59466	
+Toole County
+59467	
+Teton County
+59468	
+Teton County
+59469	
+Judith Basin County
+59471	
+Fergus County
+59472	
+Cascade County
+59474	
+Toole County
+59477	
+Cascade County
+59479	
+Judith Basin County
+59480	
+Cascade County
+59482	
+Toole County
+59483	
+Cascade County
+59484	
+Toole County
+59485	
+Cascade County
+59486	
+Pondera County
+59487	
+Cascade County
+59489	
+Fergus County
+59501	
+Hill County
+59520	
+Chouteau County
+59521	
+Hill County
+59522	
+Liberty County
+59523	
+Blaine County
+59524	
+Phillips County
+59525	
+Hill County
+59526	
+Blaine County
+59527	
+Blaine County
+59528	
+Hill County
+59529	
+Blaine County
+59530	
+Hill County
+59531	
+Liberty County
+59532	
+Hill County
+59535	
+Blaine County
+59537	
+Phillips County
+59538	
+Phillips County
+59540	
+Hill County
+59542	
+Blaine County
+59544	
+Phillips County
+59545	
+Liberty County
+59546	
+Phillips County
+59547	
+Blaine County
+59601	
+Lewis and Clark County
+59602	
+Lewis and Clark County
+59604	
+Lewis and Clark County
+59620	
+Lewis and Clark County
+59623	
+Lewis and Clark County
+59624	
+Lewis and Clark County
+59625	
+Lewis and Clark County
+59626	
+Lewis and Clark County
+59631	
+Jefferson County
+59632	
+Jefferson County
+59633	
+Lewis and Clark County
+59634	
+Jefferson County
+59635	
+Lewis and Clark County
+59636	
+Lewis and Clark County
+59638	
+Jefferson County
+59639	
+Lewis and Clark County
+59640	
+Lewis and Clark County
+59641	
+Broadwater County
+59642	
+Meagher County
+59643	
+Broadwater County
+59644	
+Broadwater County
+59645	
+Meagher County
+59647	
+Broadwater County
+59648	
+Lewis and Clark County
+59701	
+Silver Bow County
+59702	
+Silver Bow County
+59703	
+Silver Bow County
+59707	
+Silver Bow County
+59710	
+Madison County
+59711	
+Deer Lodge County
+59713	
+Powell County
+59714	
+Gallatin County
+59715	
+Gallatin County
+59716	
+Gallatin County
+59717	
+Gallatin County
+59718	
+Gallatin County
+59719	
+Gallatin County
+59720	
+Madison County
+59721	
+Madison County
+59722	
+Powell County
+59724	
+Beaverhead County
+59725	
+Beaverhead County
+59727	
+Silver Bow County
+59728	
+Powell County
+59729	
+Madison County
+59730	
+Gallatin County
+59731	
+Powell County
+59732	
+Beaverhead County
+59733	
+Powell County
+59735	
+Madison County
+59736	
+Beaverhead County
+59739	
+Beaverhead County
+59740	
+Madison County
+59741	
+Gallatin County
+59743	
+Silver Bow County
+59745	
+Madison County
+59746	
+Beaverhead County
+59747	
+Madison County
+59748	
+Silver Bow County
+59749	
+Madison County
+59750	
+Silver Bow County
+59751	
+Madison County
+59752	
+Gallatin County
+59754	
+Madison County
+59755	
+Madison County
+59756	
+Deer Lodge County
+59758	
+Gallatin County
+59759	
+Jefferson County
+59760	
+Gallatin County
+59761	
+Beaverhead County
+59762	
+Beaverhead County
+59771	
+Gallatin County
+59772	
+Gallatin County
+59773	
+Gallatin County
+59801	
+Missoula County
+59802	
+Missoula County
+59803	
+Missoula County
+59804	
+Missoula County
+59806	
+Missoula County
+59807	
+Missoula County
+59808	
+Missoula County
+59812	
+Missoula County
+59820	
+Mineral County
+59821	
+Lake County
+59823	
+Missoula County
+59824	
+Lake County
+59825	
+Missoula County
+59826	
+Missoula County
+59827	
+Ravalli County
+59828	
+Ravalli County
+59829	
+Ravalli County
+59830	
+Mineral County
+59831	
+Sanders County
+59832	
+Granite County
+59833	
+Ravalli County
+59834	
+Missoula County
+59835	
+Ravalli County
+59837	
+Granite County
+59840	
+Ravalli County
+59841	
+Ravalli County
+59842	
+Mineral County
+59843	
+Powell County
+59844	
+Sanders County
+59845	
+Flathead County
+59846	
+Missoula County
+59847	
+Missoula County
+59848	
+Sanders County
+59851	
+Missoula County
+59853	
+Sanders County
+59854	
+Powell County
+59855	
+Lake County
+59856	
+Sanders County
+59858	
+Granite County
+59859	
+Sanders County
+59860	
+Lake County
+59863	
+Lake County
+59864	
+Lake County
+59865	
+Lake County
+59866	
+Mineral County
+59867	
+Mineral County
+59868	
+Missoula County
+59870	
+Ravalli County
+59871	
+Ravalli County
+59872	
+Mineral County
+59873	
+Sanders County
+59874	
+Sanders County
+59875	
+Ravalli County
+59901	
+Flathead County
+59903	
+Flathead County
+59904	
+Flathead County
+59910	
+Lake County
+59911	
+Flathead County
+59912	
+Flathead County
+59913	
+Flathead County
+59914	
+Lake County
+59915	
+Lake County
+59916	
+Flathead County
+59917	
+Lincoln County
+59918	
+Lincoln County
+59919	
+Flathead County
+59920	
+Flathead County
+59921	
+Flathead County
+59922	
+Flathead County
+59923	
+Lincoln County
+59925	
+Flathead County
+59926	
+Flathead County
+59927	
+Flathead County
+59928	
+Flathead County
+59929	
+Lake County
+59930	
+Lincoln County
+59931	
+Lake County
+59932	
+Flathead County
+59933	
+Lincoln County
+59934	
+Lincoln County
+59935	
+Lincoln County
+59936	
+Flathead County
+59937	
+Flathead County
+19107
+27705
+11211
+35950
+22602
+97007
+68381
+85541
+95060
+17046
+41048
+77493
+91006
+78026
+16254
+17319
+01945
+11434
+44460
+94123
+11215
+91350
+96080
+94040
+78416
+02421
+11102

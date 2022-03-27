@@ -1,0 +1,1323 @@
+80001	
+Jefferson County
+80002	
+Jefferson County
+80003	
+Jefferson County
+80004	
+Jefferson County
+80005	
+Jefferson County
+80006	
+Jefferson County
+80007	
+Jefferson County
+80010	
+Arapahoe County
+80011	
+Arapahoe County
+80012	
+Arapahoe County
+80013	
+Arapahoe County
+80014	
+Arapahoe County
+80015	
+Arapahoe County
+80016	
+Arapahoe County
+80017	
+Arapahoe County
+80018	
+Arapahoe County
+80019	
+Adams County
+80020	
+Broomfield County
+80021	
+Jefferson County
+80022	
+Adams County
+80023	
+Broomfield County
+80024	
+Adams County
+80025	
+Boulder County
+80026	
+Boulder County
+80027	
+Boulder County
+80028	
+Boulder County
+80030	
+Adams County
+80031	
+Adams County
+80033	
+Jefferson County
+80034	
+Jefferson County
+80035	
+Jefferson County
+80036	
+Jefferson County
+80037	
+Adams County
+80038	
+Broomfield County
+80040	
+Arapahoe County
+80041	
+Arapahoe County
+80042	
+Arapahoe County
+80044	
+Arapahoe County
+80045	
+Adams County
+80046	
+Arapahoe County
+80047	
+Arapahoe County
+80101	
+Elbert County
+80102	
+Adams County
+80103	
+Arapahoe County
+80104	
+Douglas County
+80105	
+Arapahoe County
+80106	
+El Paso County
+80107	
+Elbert County
+80108	
+Douglas County
+80109	
+Douglas County
+80110	
+Arapahoe County
+80111	
+Arapahoe County
+80112	
+Arapahoe County
+80113	
+Arapahoe County
+80116	
+Douglas County
+80117	
+Elbert County
+80118	
+Douglas County
+80120	
+Arapahoe County
+80121	
+Arapahoe County
+80122	
+Arapahoe County
+80123	
+Jefferson County
+80124	
+Douglas County
+80125	
+Douglas County
+80126	
+Douglas County
+80127	
+Jefferson County
+80128	
+Jefferson County
+80129	
+Douglas County
+80130	
+Douglas County
+80131	
+Douglas County
+80132	
+El Paso County
+80133	
+El Paso County
+80134	
+Douglas County
+80135	
+Douglas County
+80136	
+Adams County
+80137	
+Arapahoe County
+80138	
+Douglas County
+80150	
+Arapahoe County
+80151	
+Arapahoe County
+80155	
+Arapahoe County
+80160	
+Arapahoe County
+80161	
+Arapahoe County
+80162	
+Arapahoe County
+80163	
+Arapahoe County
+80165	
+Arapahoe County
+80166	
+Arapahoe County
+80201	
+Denver County
+80202	
+Denver County
+80203	
+Denver County
+80204	
+Denver County
+80205	
+Denver County
+80206	
+Denver County
+80207	
+Denver County
+80208	
+Denver County
+80209	
+Denver County
+80210	
+Denver County
+80211	
+Denver County
+80212	
+Denver County
+80214	
+Jefferson County
+80215	
+Jefferson County
+80216	
+Denver County
+80217	
+Denver County
+80218	
+Denver County
+80219	
+Denver County
+80220	
+Denver County
+80221	
+Adams County
+80222	
+Denver County
+80223	
+Denver County
+80224	
+Denver County
+80225	
+Denver County
+80226	
+Jefferson County
+80227	
+Jefferson County
+80228	
+Jefferson County
+80229	
+Adams County
+80230	
+Denver County
+80231	
+Denver County
+80232	
+Jefferson County
+80233	
+Adams County
+80234	
+Adams County
+80235	
+Jefferson County
+80236	
+Denver County
+80237	
+Denver County
+80238	
+Denver County
+80239	
+Denver County
+80241	
+Adams County
+80243	
+Denver County
+80244	
+Denver County
+80246	
+Denver County
+80247	
+Arapahoe County
+80248	
+Denver County
+80249	
+Denver County
+80250	
+Denver County
+80251	
+Denver County
+80252	
+Denver County
+80256	
+Denver County
+80257	
+Denver County
+80259	
+Denver County
+80260	
+Adams County
+80261	
+Denver County
+80262	
+Denver County
+80263	
+Denver County
+80264	
+Denver County
+80265	
+Denver County
+80266	
+Denver County
+80271	
+Denver County
+80273	
+Denver County
+80274	
+Denver County
+80279	
+Denver County
+80280	
+Denver County
+80281	
+Denver County
+80290	
+Denver County
+80291	
+Denver County
+80293	
+Denver County
+80294	
+Denver County
+80295	
+Denver County
+80299	
+Denver County
+80301	
+Boulder County
+80302	
+Boulder County
+80303	
+Boulder County
+80304	
+Boulder County
+80305	
+Boulder County
+80306	
+Boulder County
+80307	
+Boulder County
+80308	
+Boulder County
+80309	
+Boulder County
+80310	
+Boulder County
+80314	
+Boulder County
+80321	
+Boulder County
+80322	
+Boulder County
+80323	
+Boulder County
+80328	
+Boulder County
+80329	
+Boulder County
+80401	
+Jefferson County
+80402	
+Jefferson County
+80403	
+Jefferson County
+80419	
+Jefferson County
+80420	
+Park County
+80421	
+Park County
+80422	
+Gilpin County
+80423	
+Eagle County
+80424	
+Summit County
+80425	
+Jefferson County
+80426	
+Eagle County
+80427	
+Gilpin County
+80428	
+Routt County
+80429	
+Lake County
+80430	
+Jackson County
+80432	
+Park County
+80433	
+Jefferson County
+80434	
+Jackson County
+80435	
+Summit County
+80436	
+Clear Creek County
+80437	
+Jefferson County
+80438	
+Clear Creek County
+80439	
+Jefferson County
+80440	
+Park County
+80442	
+Grand County
+80443	
+Summit County
+80444	
+Clear Creek County
+80446	
+Grand County
+80447	
+Grand County
+80448	
+Park County
+80449	
+Park County
+80451	
+Grand County
+80452	
+Clear Creek County
+80453	
+Jefferson County
+80454	
+Jefferson County
+80455	
+Boulder County
+80456	
+Park County
+80457	
+Jefferson County
+80459	
+Grand County
+80461	
+Lake County
+80463	
+Routt County
+80465	
+Jefferson County
+80466	
+Boulder County
+80467	
+Routt County
+80468	
+Grand County
+80469	
+Routt County
+80470	
+Jefferson County
+80471	
+Boulder County
+80473	
+Jackson County
+80474	
+Gilpin County
+80475	
+Park County
+80476	
+Clear Creek County
+80477	
+Routt County
+80478	
+Grand County
+80479	
+Routt County
+80480	
+Jackson County
+80481	
+Boulder County
+80482	
+Grand County
+80483	
+Routt County
+80487	
+Routt County
+80488	
+Routt County
+80497	
+Summit County
+80498	
+Summit County
+80501	
+Boulder County
+80502	
+Boulder County
+80503	
+Boulder County
+80504	
+Boulder County
+80510	
+Boulder County
+80511	
+Larimer County
+80512	
+Larimer County
+80513	
+Larimer County
+80514	
+Weld County
+80515	
+Larimer County
+80516	
+Weld County
+80517	
+Larimer County
+80520	
+Weld County
+80521	
+Larimer County
+80522	
+Larimer County
+80523	
+Larimer County
+80524	
+Larimer County
+80525	
+Larimer County
+80526	
+Larimer County
+80527	
+Larimer County
+80528	
+Larimer County
+80530	
+Weld County
+80532	
+Larimer County
+80533	
+Boulder County
+80534	
+Weld County
+80535	
+Larimer County
+80536	
+Larimer County
+80537	
+Larimer County
+80538	
+Larimer County
+80539	
+Larimer County
+80540	
+Boulder County
+80541	
+Larimer County
+80542	
+Weld County
+80543	
+Weld County
+80544	
+Boulder County
+80545	
+Larimer County
+80546	
+Weld County
+80547	
+Larimer County
+80549	
+Larimer County
+80550	
+Weld County
+80551	
+Weld County
+80553	
+Larimer County
+80601	
+Adams County
+80602	
+Adams County
+80603	
+Weld County
+80610	
+Weld County
+80611	
+Weld County
+80612	
+Weld County
+80614	
+Adams County
+80615	
+Weld County
+80620	
+Weld County
+80621	
+Weld County
+80622	
+Weld County
+80623	
+Weld County
+80624	
+Weld County
+80631	
+Weld County
+80632	
+Weld County
+80633	
+Weld County
+80634	
+Weld County
+80638	
+Weld County
+80639	
+Weld County
+80640	
+Adams County
+80642	
+Weld County
+80643	
+Weld County
+80644	
+Weld County
+80645	
+Weld County
+80646	
+Weld County
+80648	
+Weld County
+80649	
+Morgan County
+80650	
+Weld County
+80651	
+Weld County
+80652	
+Weld County
+80653	
+Morgan County
+80654	
+Morgan County
+80701	
+Morgan County
+80705	
+Morgan County
+80720	
+Washington County
+80721	
+Phillips County
+80722	
+Logan County
+80723	
+Morgan County
+80726	
+Logan County
+80727	
+Yuma County
+80728	
+Logan County
+80729	
+Weld County
+80731	
+Phillips County
+80732	
+Weld County
+80733	
+Morgan County
+80734	
+Phillips County
+80735	
+Yuma County
+80736	
+Logan County
+80737	
+Sedgwick County
+80740	
+Washington County
+80741	
+Logan County
+80742	
+Weld County
+80743	
+Washington County
+80744	
+Sedgwick County
+80745	
+Logan County
+80746	
+Phillips County
+80747	
+Logan County
+80749	
+Sedgwick County
+80750	
+Morgan County
+80751	
+Logan County
+80754	
+Weld County
+80755	
+Yuma County
+80757	
+Washington County
+80758	
+Yuma County
+80759	
+Yuma County
+80801	
+Washington County
+80802	
+Cheyenne County
+80804	
+Lincoln County
+80805	
+Kit Carson County
+80807	
+Kit Carson County
+80808	
+El Paso County
+80809	
+El Paso County
+80810	
+Cheyenne County
+80812	
+Washington County
+80813	
+Teller County
+80814	
+Teller County
+80815	
+Kit Carson County
+80816	
+Teller County
+80817	
+El Paso County
+80818	
+Lincoln County
+80819	
+El Paso County
+80820	
+Park County
+80821	
+Lincoln County
+80822	
+Yuma County
+80823	
+Lincoln County
+80824	
+Yuma County
+80825	
+Cheyenne County
+80826	
+Lincoln County
+80827	
+Park County
+80828	
+Lincoln County
+80829	
+El Paso County
+80830	
+Elbert County
+80831	
+El Paso County
+80832	
+El Paso County
+80833	
+El Paso County
+80834	
+Kit Carson County
+80835	
+Elbert County
+80836	
+Kit Carson County
+80840	
+El Paso County
+80841	
+El Paso County
+80860	
+Teller County
+80861	
+Kit Carson County
+80862	
+Cheyenne County
+80863	
+Teller County
+80864	
+El Paso County
+80866	
+Teller County
+80901	
+El Paso County
+80902	
+El Paso County
+80903	
+El Paso County
+80904	
+El Paso County
+80905	
+El Paso County
+80906	
+El Paso County
+80907	
+El Paso County
+80908	
+El Paso County
+80909	
+El Paso County
+80910	
+El Paso County
+80911	
+El Paso County
+80912	
+El Paso County
+80913	
+El Paso County
+80914	
+El Paso County
+80915	
+El Paso County
+80916	
+El Paso County
+80917	
+El Paso County
+80918	
+El Paso County
+80919	
+El Paso County
+80920	
+El Paso County
+80921	
+El Paso County
+80922	
+El Paso County
+80923	
+El Paso County
+80924	
+El Paso County
+80925	
+El Paso County
+80926	
+El Paso County
+80927	
+El Paso County
+80928	
+El Paso County
+80929	
+El Paso County
+80930	
+El Paso County
+80931	
+El Paso County
+80932	
+El Paso County
+80933	
+El Paso County
+80934	
+El Paso County
+80935	
+El Paso County
+80936	
+El Paso County
+80937	
+El Paso County
+80938	
+El Paso County
+80939	
+El Paso County
+80940	
+El Paso County
+80941	
+El Paso County
+80942	
+El Paso County
+80943	
+El Paso County
+80944	
+El Paso County
+80945	
+El Paso County
+80946	
+El Paso County
+80947	
+El Paso County
+80949	
+El Paso County
+80950	
+El Paso County
+80951	
+El Paso County
+80960	
+El Paso County
+80962	
+El Paso County
+80970	
+El Paso County
+80977	
+El Paso County
+80995	
+El Paso County
+80997	
+El Paso County
+81001	
+Pueblo County
+81002	
+Pueblo County
+81003	
+Pueblo County
+81004	
+Pueblo County
+81005	
+Pueblo County
+81006	
+Pueblo County
+81007	
+Pueblo County
+81008	
+Pueblo County
+81009	
+Pueblo County
+81010	
+Pueblo County
+81011	
+Pueblo County
+81012	
+Pueblo County
+81019	
+Pueblo County
+81020	
+Las Animas County
+81021	
+Kiowa County
+81022	
+Pueblo County
+81023	
+Pueblo County
+81024	
+Las Animas County
+81025	
+Pueblo County
+81027	
+Las Animas County
+81029	
+Baca County
+81030	
+Otero County
+81033	
+Crowley County
+81034	
+Crowley County
+81036	
+Kiowa County
+81038	
+Bent County
+81039	
+Otero County
+81040	
+Huerfano County
+81041	
+Prowers County
+81043	
+Prowers County
+81044	
+Bent County
+81045	
+Kiowa County
+81046	
+Las Animas County
+81047	
+Prowers County
+81049	
+Las Animas County
+81050	
+Otero County
+81052	
+Prowers County
+81054	
+Bent County
+81055	
+Huerfano County
+81057	
+Bent County
+81058	
+Otero County
+81059	
+Las Animas County
+81062	
+Crowley County
+81063	
+Crowley County
+81064	
+Baca County
+81067	
+Otero County
+81069	
+Pueblo County
+81071	
+Kiowa County
+81073	
+Baca County
+81075	
+81076	
+Crowley County
+81077	
+Otero County
+81081	
+Las Animas County
+81082	
+Las Animas County
+81084	
+Baca County
+81087	
+Baca County
+81089	
+Huerfano County
+81090	
+Baca County
+81091	
+Las Animas County
+81092	
+Prowers County
+81101	
+Alamosa County
+81102	
+Alamosa County
+81120	
+Conejos County
+81121	
+Archuleta County
+81122	
+La Plata County
+81123	
+Costilla County
+81124	
+Conejos County
+81125	
+Saguache County
+81126	
+Costilla County
+81127	
+Archuleta County
+81128	
+Archuleta County
+81129	
+Conejos County
+81130	
+Mineral County
+81131	
+Saguache County
+81132	
+Rio Grande County
+81133	
+Costilla County
+81134	
+Costilla County
+81135	
+Rio Grande County
+81136	
+Alamosa County
+81137	
+San Juan County
+81138	
+Costilla County
+81140	
+Conejos County
+81141	
+Conejos County
+81143	
+Saguache County
+81144	
+Rio Grande County
+81146	
+Alamosa County
+81147	
+Archuleta County
+81148	
+Conejos County
+81149	
+Saguache County
+81151	
+Conejos County
+81152	
+Costilla County
+81153	
+Costilla County
+81154	
+Rio Grande County
+81155	
+Saguache County
+81157	
+Archuleta County
+81201	
+Chaffee County
+81210	
+Gunnison County
+81211	
+Chaffee County
+81212	
+Fremont County
+81215	
+Fremont County
+81220	
+Gunnison County
+81221	
+Fremont County
+81222	
+Fremont County
+81223	
+Fremont County
+81224	
+Gunnison County
+81225	
+Gunnison County
+81226	
+Fremont County
+81227	
+Chaffee County
+81228	
+Lake County
+81230	
+Gunnison County
+81231	
+Gunnison County
+81232	
+Fremont County
+81233	
+Fremont County
+81235	
+Hinsdale County
+81236	
+Chaffee County
+81237	
+Gunnison County
+81239	
+Gunnison County
+81240	
+Fremont County
+81241	
+Gunnison County
+81242	
+Chaffee County
+81243	
+Gunnison County
+81244	
+Fremont County
+81247	
+Gunnison County
+81248	
+Saguache County
+81251	
+Lake County
+81252	
+Custer County
+81253	
+Custer County
+81290	
+Fremont County
+81301	
+La Plata County
+81302	
+La Plata County
+81303	
+La Plata County
+81320	
+Dolores County
+81321	
+Montezuma County
+81323	
+Montezuma County
+81324	
+Dolores County
+81325	
+San Miguel County
+81326	
+La Plata County
+81327	
+Montezuma County
+81328	
+Montezuma County
+81329	
+La Plata County
+81330	
+Montezuma County
+81331	
+Montezuma County
+81332	
+Dolores County
+81334	
+Montezuma County
+81335	
+Montezuma County
+81401	
+Montrose County
+81402	
+Montrose County
+81403	
+Montrose County
+81410	
+Delta County
+81411	
+Montrose County
+81413	
+Delta County
+81414	
+Delta County
+81415	
+Delta County
+81416	
+Delta County
+81418	
+Delta County
+81419	
+Delta County
+81420	
+Delta County
+81422	
+Montrose County
+81423	
+San Miguel County
+81424	
+Montrose County
+81425	
+Montrose County
+81426	
+San Miguel County
+81427	
+Ouray County
+81428	
+Delta County
+81429	
+Montrose County
+81430	
+San Miguel County
+81431	
+Montrose County
+81432	
+Ouray County
+81433	
+San Juan County
+81434	
+Gunnison County
+81435	
+San Miguel County
+81501	
+Mesa County
+81502	
+Mesa County
+81503	
+Mesa County
+81504	
+Mesa County
+81505	
+Mesa County
+81506	
+Mesa County
+81507	
+Mesa County
+81520	
+Mesa County
+81521	
+Mesa County
+81522	
+Mesa County
+81523	
+Mesa County
+81524	
+Mesa County
+81525	
+Mesa County
+81526	
+Mesa County
+81527	
+Mesa County
+81601	
+Garfield County
+81602	
+Garfield County
+81610	
+Moffat County
+81611	
+Pitkin County
+81612	
+Pitkin County
+81615	
+Pitkin County
+81620	
+Eagle County
+81621	
+Eagle County
+81623	
+Garfield County
+81624	
+Mesa County
+81625	
+Moffat County
+81626	
+Moffat County
+81630	
+Mesa County
+81631	
+Eagle County
+81632	
+Eagle County
+81633	
+Moffat County
+81635	
+Garfield County
+81636	
+Garfield County
+81637	
+Eagle County
+81638	
+Moffat County
+81639	
+Routt County
+81640	
+Moffat County
+81641	
+Rio Blanco County
+81642	
+Pitkin County
+81643	
+Mesa County
+81645	
+Eagle County
+81646	
+Mesa County
+81647	
+Garfield County
+81648	
+Rio Blanco County
+81649	
+Eagle County
+81650	
+Garfield County
+81652	
+Garfield County
+81653	
+Moffat County
+81654	
+Pitkin County
+81655	
+Eagle County
+81656	
+Pitkin County
+81657	
+Eagle County
+81658	
+Eagle County

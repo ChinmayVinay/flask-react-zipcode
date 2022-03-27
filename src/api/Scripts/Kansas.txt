@@ -1,0 +1,1541 @@
+County
+66002	
+Atchison County
+66006	
+Douglas County
+66007	
+Leavenworth County
+66008	
+Doniphan County
+66010	
+Linn County
+66012	
+Wyandotte County
+66013	
+Miami County
+66014	
+Linn County
+66015	
+Anderson County
+66016	
+Atchison County
+66017	
+Doniphan County
+66018	
+Johnson County
+66019	
+Johnson County
+66020	
+Leavenworth County
+66021	
+Johnson County
+66023	
+Atchison County
+66024	
+Doniphan County
+66025	
+Douglas County
+66026	
+Miami County
+66027	
+Leavenworth County
+66030	
+Johnson County
+66031	
+Johnson County
+66032	
+Anderson County
+66033	
+Anderson County
+66035	
+Doniphan County
+66036	
+Miami County
+66039	
+Anderson County
+66040	
+Linn County
+66041	
+Atchison County
+66042	
+Franklin County
+66043	
+Leavenworth County
+66044	
+Douglas County
+66045	
+Douglas County
+66046	
+Douglas County
+66047	
+Douglas County
+66048	
+Leavenworth County
+66049	
+Douglas County
+66050	
+Douglas County
+66051	
+Johnson County
+66052	
+Leavenworth County
+66053	
+Miami County
+66054	
+Jefferson County
+66056	
+Linn County
+66058	
+Atchison County
+66060	
+Jefferson County
+66061	
+Johnson County
+66062	
+Johnson County
+66063	
+Johnson County
+66064	
+Miami County
+66066	
+Jefferson County
+66067	
+Franklin County
+66070	
+Jefferson County
+66071	
+Miami County
+66072	
+Linn County
+66073	
+Jefferson County
+66075	
+Linn County
+66076	
+Franklin County
+66077	
+Atchison County
+66078	
+Franklin County
+66079	
+Franklin County
+66080	
+Franklin County
+66083	
+Johnson County
+66085	
+Johnson County
+66086	
+Leavenworth County
+66087	
+Doniphan County
+66088	
+Jefferson County
+66090	
+Doniphan County
+66091	
+Anderson County
+66092	
+Franklin County
+66093	
+Anderson County
+66094	
+Doniphan County
+66095	
+Franklin County
+66097	
+Jefferson County
+66101	
+Wyandotte County
+66102	
+Wyandotte County
+66103	
+Wyandotte County
+66104	
+Wyandotte County
+66105	
+Wyandotte County
+66106	
+Wyandotte County
+66109	
+Wyandotte County
+66110	
+Wyandotte County
+66111	
+Wyandotte County
+66112	
+Wyandotte County
+66113	
+Wyandotte County
+66115	
+Wyandotte County
+66117	
+Wyandotte County
+66118	
+Wyandotte County
+66119	
+Wyandotte County
+66160	
+Wyandotte County
+66201	
+Johnson County
+66202	
+Johnson County
+66203	
+Johnson County
+66204	
+Johnson County
+66205	
+Johnson County
+66206	
+Johnson County
+66207	
+Johnson County
+66208	
+Johnson County
+66209	
+Johnson County
+66210	
+Johnson County
+66211	
+Johnson County
+66212	
+Johnson County
+66213	
+Johnson County
+66214	
+Johnson County
+66215	
+Johnson County
+66216	
+Johnson County
+66217	
+Johnson County
+66218	
+Johnson County
+66219	
+Johnson County
+66220	
+Johnson County
+66221	
+Johnson County
+66222	
+Johnson County
+66223	
+Johnson County
+66224	
+Johnson County
+66225	
+Johnson County
+66226	
+Johnson County
+66227	
+Johnson County
+66250	
+Johnson County
+66251	
+Johnson County
+66276	
+Johnson County
+66279	
+Johnson County
+66282	
+Johnson County
+66283	
+Johnson County
+66285	
+Johnson County
+66286	
+Johnson County
+66401	
+Wabaunsee County
+66402	
+Shawnee County
+66403	
+Marshall County
+66404	
+Nemaha County
+66406	
+Marshall County
+66407	
+Pottawatomie County
+66408	
+Nemaha County
+66409	
+Shawnee County
+66411	
+Marshall County
+66412	
+Marshall County
+66413	
+Osage County
+66414	
+Osage County
+66415	
+Nemaha County
+66416	
+Jackson County
+66417	
+Nemaha County
+66418	
+Jackson County
+66419	
+Jackson County
+66420	
+Shawnee County
+66422	
+Pottawatomie County
+66423	
+Wabaunsee County
+66424	
+Brown County
+66425	
+Brown County
+66426	
+Pottawatomie County
+66427	
+Marshall County
+66428	
+Nemaha County
+66429	
+Jefferson County
+66431	
+Wabaunsee County
+66432	
+Pottawatomie County
+66434	
+Brown County
+66436	
+Jackson County
+66438	
+Marshall County
+66439	
+Atchison County
+66440	
+Jackson County
+66441	
+Geary County
+66442	
+Riley County
+66449	
+Riley County
+66451	
+Osage County
+66501	
+Wabaunsee County
+66502	
+Riley County
+66503	
+Riley County
+66505	
+Riley County
+66506	
+Riley County
+66507	
+Wabaunsee County
+66508	
+Marshall County
+66509	
+Jackson County
+66510	
+Osage County
+66512	
+Jefferson County
+66514	
+Geary County
+66515	
+Brown County
+66516	
+Jackson County
+66517	
+Riley County
+66518	
+Marshall County
+66520	
+Pottawatomie County
+66521	
+Pottawatomie County
+66522	
+Nemaha County
+66523	
+Osage County
+66524	
+Osage County
+66526	
+Wabaunsee County
+66527	
+Brown County
+66528	
+Osage County
+66531	
+Riley County
+66532	
+Brown County
+66533	
+Shawnee County
+66534	
+Nemaha County
+66535	
+Pottawatomie County
+66536	
+Pottawatomie County
+66537	
+Osage County
+66538	
+Nemaha County
+66539	
+Shawnee County
+66540	
+Jackson County
+66541	
+Marshall County
+66542	
+Shawnee County
+66543	
+Osage County
+66544	
+Marshall County
+66546	
+Shawnee County
+66547	
+Pottawatomie County
+66548	
+Marshall County
+66549	
+Pottawatomie County
+66550	
+Nemaha County
+66552	
+Jackson County
+66554	
+Riley County
+66601	
+Shawnee County
+66603	
+Shawnee County
+66604	
+Shawnee County
+66605	
+Shawnee County
+66606	
+Shawnee County
+66607	
+Shawnee County
+66608	
+Shawnee County
+66609	
+Shawnee County
+66610	
+Shawnee County
+66611	
+Shawnee County
+66612	
+Shawnee County
+66614	
+Shawnee County
+66615	
+Shawnee County
+66616	
+Shawnee County
+66617	
+Shawnee County
+66618	
+Shawnee County
+66619	
+Shawnee County
+66620	
+Shawnee County
+66621	
+Shawnee County
+66622	
+Shawnee County
+66624	
+Shawnee County
+66625	
+Shawnee County
+66626	
+Shawnee County
+66628	
+Shawnee County
+66629	
+Shawnee County
+66630	
+66636	
+Shawnee County
+66637	
+Shawnee County
+66642	
+Shawnee County
+66647	
+Shawnee County
+66652	
+Shawnee County
+66653	
+Shawnee County
+66667	
+Shawnee County
+66675	
+Shawnee County
+66683	
+Shawnee County
+66692	
+Shawnee County
+66699	
+Shawnee County
+66701	
+Bourbon County
+66710	
+Wilson County
+66711	
+Crawford County
+66712	
+Crawford County
+66713	
+Cherokee County
+66714	
+Wilson County
+66716	
+Bourbon County
+66717	
+Wilson County
+66720	
+Neosho County
+66724	
+Crawford County
+66725	
+Cherokee County
+66728	
+Cherokee County
+66732	
+Allen County
+66733	
+Neosho County
+66734	
+Crawford County
+66735	
+Crawford County
+66736	
+Wilson County
+66738	
+Bourbon County
+66739	
+Cherokee County
+66740	
+Neosho County
+66741	
+Bourbon County
+66742	
+Allen County
+66743	
+Crawford County
+66746	
+Crawford County
+66748	
+Allen County
+66749	
+Allen County
+66751	
+Allen County
+66753	
+Crawford County
+66754	
+Bourbon County
+66755	
+Allen County
+66756	
+Crawford County
+66757	
+Wilson County
+66758	
+Woodson County
+66759	
+Elk County
+66760	
+Crawford County
+66761	
+Woodson County
+66762	
+Crawford County
+66763	
+Crawford County
+66767	
+Linn County
+66769	
+Bourbon County
+66770	
+Cherokee County
+66771	
+Neosho County
+66772	
+Allen County
+66773	
+Cherokee County
+66775	
+Neosho County
+66776	
+Neosho County
+66777	
+Woodson County
+66778	
+Cherokee County
+66779	
+Bourbon County
+66780	
+Crawford County
+66781	
+Cherokee County
+66782	
+Cherokee County
+66783	
+Woodson County
+66801	
+Lyon County
+66830	
+Lyon County
+66833	
+Lyon County
+66834	
+Wabaunsee County
+66835	
+Lyon County
+66838	
+Morris County
+66839	
+Coffey County
+66840	
+Butler County
+66842	
+Butler County
+66843	
+Chase County
+66845	
+Chase County
+66846	
+Morris County
+66849	
+Morris County
+66850	
+Chase County
+66851	
+Marion County
+66852	
+Coffey County
+66853	
+Greenwood County
+66854	
+Lyon County
+66855	
+Greenwood County
+66856	
+Coffey County
+66857	
+Coffey County
+66858	
+Marion County
+66859	
+Marion County
+66860	
+Greenwood County
+66861	
+Marion County
+66862	
+Chase County
+66863	
+Greenwood County
+66864	
+Lyon County
+66865	
+Lyon County
+66866	
+Marion County
+66868	
+Lyon County
+66869	
+Chase County
+66870	
+Greenwood County
+66871	
+Coffey County
+66872	
+Morris County
+66873	
+Morris County
+66901	
+Cloud County
+66930	
+Republic County
+66932	
+Smith County
+66933	
+Washington County
+66935	
+Republic County
+66936	
+Jewell County
+66937	
+Washington County
+66938	
+Cloud County
+66939	
+Republic County
+66940	
+Republic County
+66941	
+Jewell County
+66942	
+Jewell County
+66943	
+Washington County
+66944	
+Washington County
+66945	
+Washington County
+66946	
+Washington County
+66948	
+Cloud County
+66949	
+Jewell County
+66951	
+Smith County
+66952	
+Smith County
+66953	
+Washington County
+66955	
+Washington County
+66956	
+Jewell County
+66958	
+Washington County
+66959	
+Republic County
+66960	
+Republic County
+66961	
+Republic County
+66962	
+Washington County
+66963	
+Jewell County
+66964	
+Republic County
+66966	
+Republic County
+66967	
+Smith County
+66968	
+Washington County
+66970	
+Jewell County
+67001	
+Sedgwick County
+67002	
+Butler County
+67003	
+Harper County
+67004	
+Sumner County
+67005	
+Cowley County
+67008	
+Cowley County
+67009	
+Harper County
+67010	
+Butler County
+67012	
+Butler County
+67013	
+Sumner County
+67016	
+Sedgwick County
+67017	
+Butler County
+67018	
+Harper County
+67019	
+Cowley County
+67020	
+Harvey County
+67021	
+Pratt County
+67022	
+Sumner County
+67023	
+Cowley County
+67024	
+Chautauqua County
+67025	
+Sedgwick County
+67026	
+Sedgwick County
+67028	
+Pratt County
+67029	
+Comanche County
+67030	
+Sedgwick County
+67031	
+Sumner County
+67035	
+Kingman County
+67036	
+Harper County
+67037	
+Sedgwick County
+67038	
+Cowley County
+67039	
+Butler County
+67041	
+Butler County
+67042	
+Butler County
+67045	
+Greenwood County
+67047	
+Greenwood County
+67049	
+Harper County
+67050	
+Sedgwick County
+67051	
+Sumner County
+67052	
+Sedgwick County
+67053	
+Marion County
+67054	
+Kiowa County
+67055	
+Sedgwick County
+67056	
+Harvey County
+67057	
+Barber County
+67058	
+Harper County
+67059	
+Kiowa County
+67060	
+Sedgwick County
+67061	
+Barber County
+67062	
+Harvey County
+67063	
+Marion County
+67065	
+Barber County
+67066	
+Pratt County
+67067	
+Sedgwick County
+67068	
+Kingman County
+67070	
+Barber County
+67071	
+Barber County
+67072	
+Butler County
+67073	
+Marion County
+67074	
+Butler County
+67101	
+Sedgwick County
+67102	
+Cowley County
+67103	
+Sumner County
+67104	
+Barber County
+67105	
+Sumner County
+67106	
+Sumner County
+67107	
+McPherson County
+67108	
+Sedgwick County
+67109	
+Kiowa County
+67110	
+Sedgwick County
+67111	
+Kingman County
+67112	
+Kingman County
+67114	
+Harvey County
+67117	
+Harvey County
+67118	
+Kingman County
+67119	
+Sumner County
+67120	
+Sumner County
+67122	
+Greenwood County
+67123	
+Butler County
+67124	
+Pratt County
+67127	
+Comanche County
+67131	
+Cowley County
+67132	
+Butler County
+67133	
+Butler County
+67134	
+Pratt County
+67135	
+Harvey County
+67137	
+Greenwood County
+67138	
+Barber County
+67140	
+Sumner County
+67142	
+Kingman County
+67143	
+Barber County
+67144	
+Butler County
+67146	
+Cowley County
+67147	
+Sedgwick County
+67149	
+Sedgwick County
+67150	
+Harper County
+67151	
+Harvey County
+67152	
+Sumner County
+67154	
+Butler County
+67155	
+Comanche County
+67156	
+Cowley County
+67159	
+Kingman County
+67201	
+Sedgwick County
+67202	
+Sedgwick County
+67203	
+Sedgwick County
+67204	
+Sedgwick County
+67205	
+Sedgwick County
+67206	
+Sedgwick County
+67207	
+Sedgwick County
+67208	
+Sedgwick County
+67209	
+Sedgwick County
+67210	
+Sedgwick County
+67211	
+Sedgwick County
+67212	
+Sedgwick County
+67213	
+Sedgwick County
+67214	
+Sedgwick County
+67215	
+Sedgwick County
+67216	
+Sedgwick County
+67217	
+Sedgwick County
+67218	
+Sedgwick County
+67219	
+Sedgwick County
+67220	
+Sedgwick County
+67221	
+Sedgwick County
+67223	
+Sedgwick County
+67226	
+Sedgwick County
+67227	
+Sedgwick County
+67228	
+Sedgwick County
+67230	
+Sedgwick County
+67232	
+Sedgwick County
+67235	
+Sedgwick County
+67260	
+Sedgwick County
+67275	
+Sedgwick County
+67276	
+Sedgwick County
+67277	
+Sedgwick County
+67278	
+Sedgwick County
+67301	
+Montgomery County
+67330	
+Labette County
+67332	
+Labette County
+67333	
+Montgomery County
+67334	
+Chautauqua County
+67335	
+Montgomery County
+67336	
+Labette County
+67337	
+Montgomery County
+67340	
+Montgomery County
+67341	
+Labette County
+67342	
+Labette County
+67344	
+Montgomery County
+67345	
+Elk County
+67346	
+Elk County
+67347	
+Montgomery County
+67349	
+Elk County
+67351	
+Montgomery County
+67352	
+Elk County
+67353	
+Elk County
+67354	
+Labette County
+67355	
+Chautauqua County
+67356	
+Labette County
+67357	
+Labette County
+67360	
+Chautauqua County
+67361	
+Chautauqua County
+67363	
+Montgomery County
+67364	
+Montgomery County
+67401	
+Saline County
+67402	
+Saline County
+67410	
+Dickinson County
+67416	
+Saline County
+67417	
+Cloud County
+67418	
+Lincoln County
+67420	
+Mitchell County
+67422	
+Ottawa County
+67423	
+Lincoln County
+67425	
+Saline County
+67427	
+Rice County
+67428	
+McPherson County
+67430	
+Mitchell County
+67431	
+Dickinson County
+67432	
+Clay County
+67436	
+Ottawa County
+67437	
+Osborne County
+67438	
+Marion County
+67439	
+Ellsworth County
+67441	
+Dickinson County
+67442	
+Saline County
+67443	
+McPherson County
+67444	
+Rice County
+67445	
+Cloud County
+67446	
+Mitchell County
+67447	
+Clay County
+67448	
+Saline County
+67449	
+Dickinson County
+67450	
+Ellsworth County
+67451	
+Dickinson County
+67452	
+Mitchell County
+67454	
+Ellsworth County
+67455	
+Lincoln County
+67456	
+McPherson County
+67457	
+Rice County
+67458	
+Clay County
+67459	
+Ellsworth County
+67460	
+McPherson County
+67464	
+McPherson County
+67466	
+Cloud County
+67467	
+Ottawa County
+67468	
+Clay County
+67470	
+Saline County
+67473	
+Osborne County
+67474	
+Osborne County
+67475	
+Marion County
+67476	
+McPherson County
+67478	
+Mitchell County
+67480	
+Dickinson County
+67481	
+Lincoln County
+67482	
+Dickinson County
+67483	
+Marion County
+67484	
+Ottawa County
+67485	
+Mitchell County
+67487	
+Clay County
+67490	
+Ellsworth County
+67491	
+McPherson County
+67492	
+Dickinson County
+67501	
+Reno County
+67502	
+Reno County
+67504	
+Reno County
+67505	
+Reno County
+67510	
+Reno County
+67511	
+Barton County
+67512	
+Rice County
+67513	
+Rush County
+67514	
+Reno County
+67515	
+Ness County
+67516	
+Ness County
+67518	
+Ness County
+67519	
+Edwards County
+67520	
+Rush County
+67521	
+Ness County
+67522	
+Reno County
+67523	
+Pawnee County
+67524	
+Rice County
+67525	
+Barton County
+67526	
+Barton County
+67529	
+Pawnee County
+67530	
+Barton County
+67543	
+Reno County
+67544	
+Barton County
+67545	
+Stafford County
+67546	
+McPherson County
+67547	
+Edwards County
+67548	
+Rush County
+67550	
+Pawnee County
+67552	
+Edwards County
+67553	
+Rush County
+67554	
+Rice County
+67556	
+Rush County
+67557	
+Stafford County
+67559	
+Rush County
+67560	
+Ness County
+67561	
+Reno County
+67563	
+Edwards County
+67564	
+Barton County
+67565	
+Rush County
+67566	
+Reno County
+67567	
+Barton County
+67568	
+Reno County
+67570	
+Reno County
+67572	
+Ness County
+67573	
+Rice County
+67574	
+Pawnee County
+67575	
+Rush County
+67576	
+Stafford County
+67578	
+Stafford County
+67579	
+Rice County
+67581	
+Reno County
+67583	
+Reno County
+67584	
+Ness County
+67585	
+Reno County
+67601	
+Ellis County
+67621	
+Phillips County
+67622	
+Norton County
+67623	
+Osborne County
+67625	
+Graham County
+67626	
+Russell County
+67627	
+Ellis County
+67628	
+Smith County
+67629	
+Norton County
+67631	
+Trego County
+67632	
+Rooks County
+67634	
+Russell County
+67635	
+Decatur County
+67637	
+Ellis County
+67638	
+Smith County
+67639	
+Phillips County
+67640	
+Russell County
+67642	
+Graham County
+67643	
+Decatur County
+67644	
+Phillips County
+67645	
+Norton County
+67646	
+Phillips County
+67647	
+Phillips County
+67648	
+Russell County
+67649	
+Russell County
+67650	
+Graham County
+67651	
+Osborne County
+67653	
+Decatur County
+67654	
+Norton County
+67656	
+Trego County
+67657	
+Rooks County
+67658	
+Russell County
+67659	
+Graham County
+67660	
+Ellis County
+67661	
+Phillips County
+67663	
+Rooks County
+67664	
+Phillips County
+67665	
+Russell County
+67667	
+Ellis County
+67669	
+Rooks County
+67671	
+Ellis County
+67672	
+Trego County
+67673	
+Osborne County
+67674	
+Ellis County
+67675	
+Rooks County
+67701	
+Thomas County
+67730	
+Rawlins County
+67731	
+Cheyenne County
+67732	
+Thomas County
+67733	
+Sherman County
+67734	
+Thomas County
+67735	
+Sherman County
+67736	
+Gove County
+67737	
+Gove County
+67738	
+Gove County
+67739	
+Rawlins County
+67740	
+Sheridan County
+67741	
+Sherman County
+67743	
+Thomas County
+67744	
+Rawlins County
+67745	
+Rawlins County
+67747	
+Logan County
+67748	
+Logan County
+67749	
+Decatur County
+67751	
+Gove County
+67752	
+Gove County
+67753	
+Thomas County
+67756	
+Cheyenne County
+67757	
+Sheridan County
+67758	
+Wallace County
+67761	
+Wallace County
+67762	
+Wallace County
+67764	
+Logan County
+67801	
+Ford County
+67831	
+Clark County
+67834	
+Ford County
+67835	
+Gray County
+67836	
+Hamilton County
+67837	
+Gray County
+67838	
+Kearny County
+67839	
+Lane County
+67840	
+Clark County
+67841	
+Gray County
+67842	
+Ford County
+67843	
+Ford County
+67844	
+Meade County
+67846	
+Finney County
+67849	
+Hodgeman County
+67850	
+Lane County
+67851	
+Finney County
+67853	
+Gray County
+67854	
+Hodgeman County
+67855	
+Stanton County
+67857	
+Hamilton County
+67859	
+Seward County
+67860	
+Kearny County
+67861	
+Wichita County
+67862	
+Stanton County
+67863	
+Wichita County
+67864	
+Meade County
+67865	
+Clark County
+67867	
+Gray County
+67868	
+Finney County
+67869	
+Meade County
+67870	
+Haskell County
+67871	
+Scott County
+67876	
+Ford County
+67877	
+Haskell County
+67878	
+Hamilton County
+67879	
+Greeley County
+67880	
+Grant County
+67882	
+Ford County
+67901	
+Seward County
+67905	
+Seward County
+67950	
+Morton County
+67951	
+Stevens County
+67952	
+Stevens County
+67953	
+Morton County
+67954	
+Morton County
+90024
+33012
+32210
+92373
+21213
+53538
+02421
+21234
+10013
+30075
+41048
+20011
+95811
+30004
+21224
+20002
+32244
+27587
+49971
+18414
+10005
+11220
+21230
+33021
+33614
+91748
+94611

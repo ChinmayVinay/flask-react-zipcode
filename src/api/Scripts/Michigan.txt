@@ -1,0 +1,2368 @@
+County
+48001	
+St. Clair County
+48002	
+St. Clair County
+48003	
+Lapeer County
+48004	
+St. Clair County
+48005	
+Macomb County
+48006	
+St. Clair County
+48007	
+Oakland County
+48009	
+Oakland County
+48012	
+Oakland County
+48014	
+St. Clair County
+48015	
+Macomb County
+48017	
+Oakland County
+48021	
+Macomb County
+48022	
+St. Clair County
+48023	
+St. Clair County
+48025	
+Oakland County
+48026	
+Macomb County
+48027	
+St. Clair County
+48028	
+St. Clair County
+48030	
+Oakland County
+48032	
+St. Clair County
+48033	
+Oakland County
+48034	
+Oakland County
+48035	
+Macomb County
+48036	
+Macomb County
+48037	
+Oakland County
+48038	
+Macomb County
+48039	
+St. Clair County
+48040	
+St. Clair County
+48041	
+St. Clair County
+48042	
+Macomb County
+48043	
+Macomb County
+48044	
+Macomb County
+48045	
+Macomb County
+48046	
+Macomb County
+48047	
+Macomb County
+48048	
+Macomb County
+48049	
+St. Clair County
+48050	
+Macomb County
+48051	
+Macomb County
+48054	
+St. Clair County
+48059	
+St. Clair County
+48060	
+St. Clair County
+48061	
+St. Clair County
+48062	
+Macomb County
+48063	
+St. Clair County
+48064	
+St. Clair County
+48065	
+Macomb County
+48066	
+Macomb County
+48067	
+Oakland County
+48068	
+Oakland County
+48069	
+Oakland County
+48070	
+Oakland County
+48071	
+Oakland County
+48072	
+Oakland County
+48073	
+Oakland County
+48074	
+St. Clair County
+48075	
+Oakland County
+48076	
+Oakland County
+48079	
+St. Clair County
+48080	
+Macomb County
+48081	
+Macomb County
+48082	
+Macomb County
+48083	
+Oakland County
+48084	
+Oakland County
+48085	
+Oakland County
+48086	
+Oakland County
+48088	
+Macomb County
+48089	
+Macomb County
+48090	
+Macomb County
+48091	
+Macomb County
+48092	
+Macomb County
+48093	
+Macomb County
+48094	
+Macomb County
+48095	
+Macomb County
+48096	
+Macomb County
+48097	
+St. Clair County
+48098	
+Oakland County
+48099	
+Oakland County
+48101	
+Wayne County
+48103	
+Washtenaw County
+48104	
+Washtenaw County
+48105	
+Washtenaw County
+48106	
+Washtenaw County
+48107	
+Washtenaw County
+48108	
+Washtenaw County
+48109	
+Washtenaw County
+48110	
+Monroe County
+48111	
+Wayne County
+48112	
+Wayne County
+48113	
+Washtenaw County
+48114	
+Livingston County
+48115	
+Washtenaw County
+48116	
+Livingston County
+48117	
+Monroe County
+48118	
+Washtenaw County
+48120	
+Wayne County
+48121	
+Wayne County
+48122	
+Wayne County
+48123	
+Wayne County
+48124	
+Wayne County
+48125	
+Wayne County
+48126	
+Wayne County
+48127	
+Wayne County
+48128	
+Wayne County
+48130	
+Washtenaw County
+48131	
+Monroe County
+48133	
+Monroe County
+48134	
+Wayne County
+48135	
+Wayne County
+48136	
+Wayne County
+48137	
+Livingston County
+48138	
+Wayne County
+48139	
+Livingston County
+48140	
+Monroe County
+48141	
+Wayne County
+48143	
+Livingston County
+48144	
+Monroe County
+48145	
+Monroe County
+48146	
+Wayne County
+48150	
+Wayne County
+48151	
+Wayne County
+48152	
+Wayne County
+48153	
+Wayne County
+48154	
+Wayne County
+48157	
+Monroe County
+48158	
+Washtenaw County
+48159	
+Monroe County
+48160	
+Washtenaw County
+48161	
+Monroe County
+48162	
+Monroe County
+48164	
+Wayne County
+48165	
+Oakland County
+48166	
+Monroe County
+48167	
+Oakland County
+48168	
+Wayne County
+48169	
+Livingston County
+48170	
+Wayne County
+48173	
+Wayne County
+48174	
+Wayne County
+48175	
+Washtenaw County
+48176	
+Washtenaw County
+48177	
+Monroe County
+48178	
+Oakland County
+48179	
+Monroe County
+48180	
+Wayne County
+48182	
+Monroe County
+48183	
+Wayne County
+48184	
+Wayne County
+48185	
+Wayne County
+48186	
+Wayne County
+48187	
+Wayne County
+48188	
+Wayne County
+48189	
+Washtenaw County
+48190	
+Washtenaw County
+48191	
+Washtenaw County
+48192	
+Wayne County
+48193	
+Wayne County
+48195	
+Wayne County
+48197	
+Washtenaw County
+48198	
+Washtenaw County
+48201	
+Wayne County
+48202	
+Wayne County
+48203	
+Wayne County
+48204	
+Wayne County
+48205	
+Wayne County
+48206	
+Wayne County
+48207	
+Wayne County
+48208	
+Wayne County
+48209	
+Wayne County
+48210	
+Wayne County
+48211	
+Wayne County
+48212	
+Wayne County
+48213	
+Wayne County
+48214	
+Wayne County
+48215	
+Wayne County
+48216	
+Wayne County
+48217	
+Wayne County
+48218	
+Wayne County
+48219	
+Wayne County
+48220	
+Oakland County
+48221	
+Wayne County
+48222	
+Wayne County
+48223	
+Wayne County
+48224	
+Wayne County
+48225	
+Wayne County
+48226	
+Wayne County
+48227	
+Wayne County
+48228	
+Wayne County
+48229	
+Wayne County
+48230	
+Wayne County
+48231	
+Wayne County
+48232	
+Wayne County
+48233	
+Wayne County
+48234	
+Wayne County
+48235	
+Wayne County
+48236	
+Wayne County
+48237	
+Oakland County
+48238	
+Wayne County
+48239	
+Wayne County
+48240	
+Wayne County
+48242	
+Wayne County
+48243	
+Wayne County
+48244	
+Wayne County
+48255	
+Wayne County
+48260	
+Wayne County
+48264	
+Wayne County
+48265	
+Wayne County
+48266	
+Wayne County
+48267	
+Wayne County
+48268	
+Wayne County
+48269	
+Wayne County
+48272	
+Wayne County
+48275	
+Wayne County
+48277	
+Wayne County
+48278	
+Wayne County
+48279	
+Wayne County
+48288	
+Wayne County
+48301	
+Oakland County
+48302	
+Oakland County
+48303	
+Oakland County
+48304	
+Oakland County
+48306	
+Oakland County
+48307	
+Oakland County
+48308	
+Oakland County
+48309	
+Oakland County
+48310	
+Macomb County
+48311	
+Macomb County
+48312	
+Macomb County
+48313	
+Macomb County
+48314	
+Macomb County
+48315	
+Macomb County
+48316	
+Macomb County
+48317	
+Macomb County
+48318	
+Macomb County
+48320	
+Oakland County
+48321	
+Oakland County
+48322	
+Oakland County
+48323	
+Oakland County
+48324	
+Oakland County
+48325	
+Oakland County
+48326	
+Oakland County
+48327	
+Oakland County
+48328	
+Oakland County
+48329	
+Oakland County
+48330	
+Oakland County
+48331	
+Oakland County
+48332	
+Oakland County
+48333	
+Oakland County
+48334	
+Oakland County
+48335	
+Oakland County
+48336	
+Oakland County
+48340	
+Oakland County
+48341	
+Oakland County
+48342	
+Oakland County
+48343	
+Oakland County
+48346	
+Oakland County
+48347	
+Oakland County
+48348	
+Oakland County
+48350	
+Oakland County
+48353	
+Livingston County
+48356	
+Oakland County
+48357	
+Oakland County
+48359	
+Oakland County
+48360	
+Oakland County
+48361	
+Oakland County
+48362	
+Oakland County
+48363	
+Oakland County
+48366	
+Oakland County
+48367	
+Oakland County
+48370	
+Oakland County
+48371	
+Oakland County
+48374	
+Oakland County
+48375	
+Oakland County
+48376	
+Oakland County
+48377	
+Oakland County
+48380	
+Oakland County
+48381	
+Oakland County
+48382	
+Oakland County
+48383	
+Oakland County
+48386	
+Oakland County
+48387	
+Oakland County
+48390	
+Oakland County
+48391	
+Oakland County
+48393	
+Oakland County
+48397	
+Macomb County
+48401	
+Sanilac County
+48410	
+Sanilac County
+48411	
+Genesee County
+48412	
+Lapeer County
+48413	
+Huron County
+48414	
+Shiawassee County
+48415	
+Saginaw County
+48416	
+Sanilac County
+48417	
+Saginaw County
+48418	
+Shiawassee County
+48419	
+Sanilac County
+48420	
+Genesee County
+48421	
+Lapeer County
+48422	
+Sanilac County
+48423	
+Genesee County
+48426	
+Sanilac County
+48427	
+Sanilac County
+48428	
+Lapeer County
+48429	
+Shiawassee County
+48430	
+Genesee County
+48432	
+Huron County
+48433	
+Genesee County
+48434	
+Sanilac County
+48435	
+Tuscola County
+48436	
+Genesee County
+48437	
+Genesee County
+48438	
+Genesee County
+48439	
+Genesee County
+48440	
+Lapeer County
+48441	
+Huron County
+48442	
+Oakland County
+48444	
+Lapeer County
+48445	
+Huron County
+48446	
+Lapeer County
+48449	
+Shiawassee County
+48450	
+Sanilac County
+48451	
+Genesee County
+48453	
+Sanilac County
+48454	
+Sanilac County
+48455	
+Lapeer County
+48456	
+Sanilac County
+48457	
+Genesee County
+48458	
+Genesee County
+48460	
+Shiawassee County
+48461	
+Lapeer County
+48462	
+Oakland County
+48463	
+Genesee County
+48464	
+Lapeer County
+48465	
+Sanilac County
+48466	
+Sanilac County
+48467	
+Huron County
+48468	
+Huron County
+48469	
+Sanilac County
+48470	
+Huron County
+48471	
+Sanilac County
+48472	
+Sanilac County
+48473	
+Genesee County
+48475	
+Huron County
+48476	
+Shiawassee County
+48480	
+Genesee County
+48501	
+Genesee County
+48502	
+Genesee County
+48503	
+Genesee County
+48504	
+Genesee County
+48505	
+Genesee County
+48506	
+Genesee County
+48507	
+Genesee County
+48509	
+Genesee County
+48519	
+Genesee County
+48529	
+Genesee County
+48531	
+Genesee County
+48532	
+Genesee County
+48550	
+Genesee County
+48551	
+Genesee County
+48552	
+Genesee County
+48553	
+Genesee County
+48554	
+Genesee County
+48555	
+Genesee County
+48556	
+Genesee County
+48557	
+Genesee County
+48559	
+Genesee County
+48601	
+Saginaw County
+48602	
+Saginaw County
+48603	
+Saginaw County
+48604	
+Saginaw County
+48605	
+Saginaw County
+48606	
+Saginaw County
+48607	
+Saginaw County
+48608	
+Saginaw County
+48609	
+Saginaw County
+48610	
+Arenac County
+48611	
+Bay County
+48612	
+Gladwin County
+48613	
+Bay County
+48614	
+Saginaw County
+48615	
+Gratiot County
+48616	
+Saginaw County
+48617	
+Clare County
+48618	
+Midland County
+48619	
+Oscoda County
+48620	
+Midland County
+48621	
+Oscoda County
+48622	
+Clare County
+48623	
+Saginaw County
+48624	
+Gladwin County
+48625	
+Clare County
+48626	
+Saginaw County
+48627	
+Roscommon County
+48628	
+Midland County
+48629	
+Roscommon County
+48630	
+Roscommon County
+48631	
+Bay County
+48632	
+Clare County
+48633	
+Clare County
+48634	
+Bay County
+48635	
+Ogemaw County
+48636	
+Oscoda County
+48637	
+Saginaw County
+48638	
+Saginaw County
+48640	
+Midland County
+48641	
+Midland County
+48642	
+Midland County
+48647	
+Oscoda County
+48649	
+Saginaw County
+48650	
+Bay County
+48651	
+Roscommon County
+48652	
+Gladwin County
+48653	
+Roscommon County
+48654	
+Ogemaw County
+48655	
+Saginaw County
+48656	
+Roscommon County
+48657	
+Midland County
+48658	
+Arenac County
+48659	
+Arenac County
+48661	
+Ogemaw County
+48662	
+Gratiot County
+48663	
+Saginaw County
+48667	
+Midland County
+48670	
+Midland County
+48674	
+Midland County
+48686	
+Midland County
+48701	
+Tuscola County
+48703	
+Arenac County
+48705	
+Alcona County
+48706	
+Bay County
+48707	
+Bay County
+48708	
+Bay County
+48710	
+Bay County
+48720	
+Huron County
+48721	
+Alcona County
+48722	
+Saginaw County
+48723	
+Tuscola County
+48724	
+Saginaw County
+48725	
+Huron County
+48726	
+Tuscola County
+48727	
+Lapeer County
+48728	
+Alcona County
+48729	
+Tuscola County
+48730	
+Iosco County
+48731	
+Huron County
+48732	
+Bay County
+48733	
+Tuscola County
+48734	
+Saginaw County
+48735	
+Tuscola County
+48736	
+Tuscola County
+48737	
+Alcona County
+48738	
+Alcona County
+48739	
+Iosco County
+48740	
+Alcona County
+48741	
+Tuscola County
+48742	
+Alcona County
+48743	
+Iosco County
+48744	
+Tuscola County
+48745	
+Alcona County
+48746	
+Tuscola County
+48747	
+Bay County
+48748	
+Iosco County
+48749	
+Arenac County
+48750	
+Iosco County
+48754	
+Huron County
+48755	
+Huron County
+48756	
+Ogemaw County
+48757	
+Tuscola County
+48758	
+Tuscola County
+48759	
+Huron County
+48760	
+Tuscola County
+48761	
+Iosco County
+48762	
+Alcona County
+48763	
+Iosco County
+48764	
+Iosco County
+48765	
+Arenac County
+48766	
+Arenac County
+48767	
+Tuscola County
+48768	
+Tuscola County
+48769	
+Tuscola County
+48770	
+Iosco County
+48787	
+Saginaw County
+48801	
+Gratiot County
+48802	
+Gratiot County
+48804	
+Isabella County
+48805	
+Ingham County
+48806	
+Gratiot County
+48807	
+Gratiot County
+48808	
+Clinton County
+48809	
+Ionia County
+48811	
+Montcalm County
+48812	
+Montcalm County
+48813	
+Eaton County
+48815	
+Ionia County
+48816	
+Livingston County
+48817	
+Shiawassee County
+48818	
+Montcalm County
+48819	
+Ingham County
+48820	
+Clinton County
+48821	
+Eaton County
+48822	
+Clinton County
+48823	
+Ingham County
+48824	
+Ingham County
+48825	
+Ingham County
+48826	
+Ingham County
+48827	
+Eaton County
+48829	
+Montcalm County
+48830	
+Gratiot County
+48831	
+Clinton County
+48832	
+Gratiot County
+48833	
+Clinton County
+48834	
+Montcalm County
+48835	
+Clinton County
+48836	
+Livingston County
+48837	
+Eaton County
+48838	
+Montcalm County
+48840	
+Ingham County
+48841	
+Shiawassee County
+48842	
+Ingham County
+48843	
+Livingston County
+48844	
+Livingston County
+48845	
+Ionia County
+48846	
+Ionia County
+48847	
+Gratiot County
+48848	
+Shiawassee County
+48849	
+Ionia County
+48850	
+Montcalm County
+48851	
+Ionia County
+48852	
+Montcalm County
+48853	
+Clinton County
+48854	
+Ingham County
+48855	
+Livingston County
+48856	
+Gratiot County
+48857	
+Shiawassee County
+48858	
+Isabella County
+48859	
+Isabella County
+48860	
+Ionia County
+48861	
+Eaton County
+48862	
+Gratiot County
+48863	
+Livingston County
+48864	
+Ingham County
+48865	
+Ionia County
+48866	
+Clinton County
+48867	
+Shiawassee County
+48870	
+Ionia County
+48871	
+Gratiot County
+48872	
+Shiawassee County
+48873	
+Ionia County
+48874	
+Gratiot County
+48875	
+Ionia County
+48876	
+Eaton County
+48877	
+Gratiot County
+48878	
+Isabella County
+48879	
+Clinton County
+48880	
+Gratiot County
+48881	
+Ionia County
+48882	
+Shiawassee County
+48883	
+Isabella County
+48884	
+Montcalm County
+48885	
+Montcalm County
+48886	
+Montcalm County
+48887	
+Ionia County
+48888	
+Montcalm County
+48889	
+Gratiot County
+48890	
+Eaton County
+48891	
+Montcalm County
+48892	
+Ingham County
+48893	
+Isabella County
+48894	
+Clinton County
+48895	
+Ingham County
+48896	
+Isabella County
+48897	
+Barry County
+48901	
+Ingham County
+48906	
+Ingham County
+48908	
+Ingham County
+48909	
+Ingham County
+48910	
+Ingham County
+48911	
+Ingham County
+48912	
+Ingham County
+48913	
+Ingham County
+48915	
+Ingham County
+48916	
+Ingham County
+48917	
+Eaton County
+48918	
+Ingham County
+48919	
+Ingham County
+48921	
+Ingham County
+48922	
+Ingham County
+48924	
+Ingham County
+48929	
+Ingham County
+48930	
+Ingham County
+48933	
+Ingham County
+48937	
+Ingham County
+48950	
+Ingham County
+48951	
+Ingham County
+48956	
+Ingham County
+48980	
+Ingham County
+49001	
+Kalamazoo County
+49002	
+Kalamazoo County
+49003	
+Kalamazoo County
+49004	
+Kalamazoo County
+49005	
+Kalamazoo County
+49006	
+Kalamazoo County
+49007	
+Kalamazoo County
+49008	
+Kalamazoo County
+49009	
+Kalamazoo County
+49010	
+Allegan County
+49011	
+Calhoun County
+49012	
+Kalamazoo County
+49013	
+Van Buren County
+49014	
+Calhoun County
+49015	
+Calhoun County
+49016	
+Calhoun County
+49017	
+Calhoun County
+49018	
+Calhoun County
+49019	
+Kalamazoo County
+49020	
+Calhoun County
+49021	
+Eaton County
+49022	
+Berrien County
+49023	
+Berrien County
+49024	
+Kalamazoo County
+49026	
+Van Buren County
+49027	
+Van Buren County
+49028	
+Branch County
+49029	
+Calhoun County
+49030	
+St. Joseph County
+49031	
+Cass County
+49032	
+St. Joseph County
+49033	
+Calhoun County
+49034	
+Kalamazoo County
+49035	
+Barry County
+49036	
+Branch County
+49037	
+Calhoun County
+49038	
+Berrien County
+49039	
+Berrien County
+49040	
+St. Joseph County
+49041	
+Kalamazoo County
+49042	
+St. Joseph County
+49043	
+Van Buren County
+49045	
+Van Buren County
+49046	
+Barry County
+49047	
+Cass County
+49048	
+Kalamazoo County
+49050	
+Barry County
+49051	
+Calhoun County
+49052	
+Kalamazoo County
+49053	
+Kalamazoo County
+49055	
+Van Buren County
+49056	
+Van Buren County
+49057	
+Van Buren County
+49058	
+Barry County
+49060	
+Barry County
+49061	
+Cass County
+49062	
+Van Buren County
+49063	
+Van Buren County
+49064	
+Van Buren County
+49065	
+Van Buren County
+49066	
+St. Joseph County
+49067	
+Cass County
+49068	
+Calhoun County
+49069	
+Calhoun County
+49070	
+Allegan County
+49071	
+Van Buren County
+49072	
+St. Joseph County
+49073	
+Barry County
+49074	
+Kalamazoo County
+49075	
+St. Joseph County
+49076	
+Eaton County
+49077	
+Kalamazoo County
+49078	
+Allegan County
+49079	
+Van Buren County
+49080	
+Allegan County
+49081	
+Kalamazoo County
+49082	
+Branch County
+49083	
+Kalamazoo County
+49084	
+Berrien County
+49085	
+Berrien County
+49087	
+Kalamazoo County
+49088	
+Kalamazoo County
+49089	
+Branch County
+49090	
+Van Buren County
+49091	
+St. Joseph County
+49092	
+Calhoun County
+49093	
+St. Joseph County
+49094	
+Branch County
+49095	
+Cass County
+49096	
+Eaton County
+49097	
+Kalamazoo County
+49098	
+Berrien County
+49099	
+St. Joseph County
+49101	
+Berrien County
+49102	
+Berrien County
+49103	
+Berrien County
+49104	
+Berrien County
+49106	
+Berrien County
+49107	
+Berrien County
+49111	
+Berrien County
+49112	
+Cass County
+49113	
+Berrien County
+49115	
+Berrien County
+49116	
+Berrien County
+49117	
+Berrien County
+49119	
+Berrien County
+49120	
+Berrien County
+49121	
+Berrien County
+49125	
+Berrien County
+49126	
+Berrien County
+49127	
+Berrien County
+49128	
+Berrien County
+49129	
+Berrien County
+49130	
+Cass County
+49201	
+Jackson County
+49202	
+Jackson County
+49203	
+Jackson County
+49204	
+Jackson County
+49220	
+Lenawee County
+49221	
+Lenawee County
+49224	
+Calhoun County
+49227	
+Hillsdale County
+49228	
+Lenawee County
+49229	
+Lenawee County
+49230	
+Jackson County
+49232	
+Hillsdale County
+49233	
+Hillsdale County
+49234	
+Jackson County
+49235	
+Lenawee County
+49236	
+Lenawee County
+49237	
+Jackson County
+49238	
+Lenawee County
+49239	
+Hillsdale County
+49240	
+Jackson County
+49241	
+Jackson County
+49242	
+Hillsdale County
+49245	
+Calhoun County
+49246	
+Jackson County
+49247	
+Lenawee County
+49248	
+Lenawee County
+49249	
+Hillsdale County
+49250	
+Hillsdale County
+49251	
+Ingham County
+49252	
+Hillsdale County
+49253	
+Lenawee County
+49254	
+Jackson County
+49255	
+Branch County
+49256	
+Lenawee County
+49257	
+Hillsdale County
+49258	
+Hillsdale County
+49259	
+Jackson County
+49261	
+Jackson County
+49262	
+Hillsdale County
+49263	
+Jackson County
+49264	
+Ingham County
+49265	
+Lenawee County
+49266	
+Hillsdale County
+49267	
+Monroe County
+49268	
+Lenawee County
+49269	
+Jackson County
+49270	
+Monroe County
+49271	
+Hillsdale County
+49272	
+Jackson County
+49274	
+Hillsdale County
+49276	
+Lenawee County
+49277	
+Jackson County
+49279	
+Lenawee County
+49281	
+Hillsdale County
+49282	
+Hillsdale County
+49283	
+Jackson County
+49284	
+Jackson County
+49285	
+Ingham County
+49286	
+Lenawee County
+49287	
+Lenawee County
+49288	
+Hillsdale County
+49289	
+Lenawee County
+49301	
+Kent County
+49302	
+Kent County
+49303	
+Muskegon County
+49304	
+Lake County
+49305	
+Mecosta County
+49306	
+Kent County
+49307	
+Mecosta County
+49309	
+Newaygo County
+49310	
+Isabella County
+49311	
+Allegan County
+49312	
+Newaygo County
+49314	
+Allegan County
+49315	
+Kent County
+49316	
+Kent County
+49317	
+Kent County
+49318	
+Muskegon County
+49319	
+Kent County
+49320	
+Mecosta County
+49321	
+Kent County
+49322	
+Montcalm County
+49323	
+Allegan County
+49325	
+Barry County
+49326	
+Kent County
+49327	
+Newaygo County
+49328	
+Allegan County
+49329	
+Montcalm County
+49330	
+Kent County
+49331	
+Kent County
+49332	
+Mecosta County
+49333	
+Barry County
+49335	
+Allegan County
+49336	
+Mecosta County
+49337	
+Newaygo County
+49338	
+Mecosta County
+49339	
+Montcalm County
+49340	
+Mecosta County
+49341	
+Kent County
+49342	
+Mecosta County
+49343	
+Kent County
+49344	
+Allegan County
+49345	
+Kent County
+49346	
+Mecosta County
+49347	
+Montcalm County
+49348	
+Allegan County
+49349	
+Newaygo County
+49351	
+Kent County
+49355	
+Kent County
+49356	
+Kent County
+49357	
+Kent County
+49401	
+Ottawa County
+49402	
+Mason County
+49403	
+Ottawa County
+49404	
+Ottawa County
+49405	
+Mason County
+49406	
+Allegan County
+49408	
+Allegan County
+49409	
+Ottawa County
+49410	
+Mason County
+49411	
+Mason County
+49412	
+Newaygo County
+49413	
+Newaygo County
+49415	
+Muskegon County
+49416	
+Allegan County
+49417	
+Ottawa County
+49418	
+Kent County
+49419	
+Allegan County
+49420	
+Oceana County
+49421	
+Oceana County
+49422	
+Ottawa County
+49423	
+Ottawa County
+49424	
+Ottawa County
+49425	
+Muskegon County
+49426	
+Ottawa County
+49427	
+Ottawa County
+49428	
+Ottawa County
+49429	
+Ottawa County
+49430	
+Ottawa County
+49431	
+Mason County
+49434	
+Ottawa County
+49435	
+Ottawa County
+49436	
+Oceana County
+49437	
+Muskegon County
+49440	
+Muskegon County
+49441	
+Muskegon County
+49442	
+Muskegon County
+49443	
+Muskegon County
+49444	
+Muskegon County
+49445	
+Muskegon County
+49446	
+Oceana County
+49448	
+Ottawa County
+49449	
+Oceana County
+49450	
+Allegan County
+49451	
+Muskegon County
+49452	
+Oceana County
+49453	
+Allegan County
+49454	
+Mason County
+49455	
+Oceana County
+49456	
+Ottawa County
+49457	
+Muskegon County
+49458	
+Mason County
+49459	
+Oceana County
+49460	
+Ottawa County
+49461	
+Muskegon County
+49463	
+Muskegon County
+49464	
+Ottawa County
+49468	
+Kent County
+49501	
+Kent County
+49502	
+Kent County
+49503	
+Kent County
+49504	
+Kent County
+49505	
+Kent County
+49506	
+Kent County
+49507	
+Kent County
+49508	
+Kent County
+49509	
+Kent County
+49510	
+Kent County
+49512	
+Kent County
+49514	
+Kent County
+49515	
+Kent County
+49516	
+Kent County
+49518	
+Kent County
+49519	
+Kent County
+49523	
+Kent County
+49525	
+Kent County
+49528	
+Kent County
+49530	
+Kent County
+49534	
+Kent County
+49544	
+Kent County
+49546	
+Kent County
+49548	
+Kent County
+49550	
+Kent County
+49555	
+Kent County
+49560	
+Kent County
+49588	
+Kent County
+49599	
+Kent County
+49601	
+Wexford County
+49610	
+Grand Traverse County
+49611	
+Antrim County
+49612	
+Antrim County
+49613	
+Manistee County
+49614	
+Manistee County
+49615	
+Antrim County
+49616	
+Benzie County
+49617	
+Benzie County
+49618	
+Wexford County
+49619	
+Manistee County
+49620	
+Wexford County
+49621	
+Leelanau County
+49622	
+Antrim County
+49623	
+Lake County
+49625	
+Manistee County
+49626	
+Manistee County
+49627	
+Antrim County
+49628	
+Benzie County
+49629	
+Antrim County
+49630	
+Leelanau County
+49631	
+Osceola County
+49632	
+Missaukee County
+49633	
+Kalkaska County
+49634	
+Manistee County
+49635	
+Benzie County
+49636	
+Leelanau County
+49637	
+Grand Traverse County
+49638	
+Wexford County
+49639	
+Osceola County
+49640	
+Benzie County
+49642	
+Lake County
+49643	
+Grand Traverse County
+49644	
+Lake County
+49645	
+Manistee County
+49646	
+Kalkaska County
+49648	
+Antrim County
+49649	
+Grand Traverse County
+49650	
+Benzie County
+49651	
+Missaukee County
+49653	
+Leelanau County
+49654	
+Leelanau County
+49655	
+Osceola County
+49656	
+Lake County
+49657	
+Missaukee County
+49659	
+Antrim County
+49660	
+Manistee County
+49663	
+Wexford County
+49664	
+Leelanau County
+49665	
+Osceola County
+49666	
+Grand Traverse County
+49667	
+Missaukee County
+49668	
+Wexford County
+49670	
+Leelanau County
+49673	
+Grand Traverse County
+49674	
+Leelanau County
+49675	
+Manistee County
+49676	
+Kalkaska County
+49677	
+Osceola County
+49679	
+Osceola County
+49680	
+Kalkaska County
+49682	
+Leelanau County
+49683	
+Benzie County
+49684	
+Grand Traverse County
+49685	
+Grand Traverse County
+49686	
+Grand Traverse County
+49688	
+Osceola County
+49689	
+Manistee County
+49690	
+Grand Traverse County
+49696	
+Grand Traverse County
+49701	
+Emmet County
+49705	
+Cheboygan County
+49706	
+Emmet County
+49707	
+Alpena County
+49709	
+Montmorency County
+49710	
+Chippewa County
+49711	
+Charlevoix County
+49712	
+Charlevoix County
+49713	
+Charlevoix County
+49715	
+Chippewa County
+49716	
+Emmet County
+49717	
+Cheboygan County
+49718	
+Emmet County
+49719	
+Mackinac County
+49720	
+Charlevoix County
+49721	
+Cheboygan County
+49722	
+Emmet County
+49723	
+Emmet County
+49724	
+Chippewa County
+49725	
+Chippewa County
+49726	
+Chippewa County
+49727	
+Charlevoix County
+49728	
+Chippewa County
+49729	
+Antrim County
+49730	
+Antrim County
+49733	
+Crawford County
+49734	
+Otsego County
+49735	
+Otsego County
+49736	
+Chippewa County
+49737	
+Emmet County
+49738	
+Crawford County
+49739	
+Crawford County
+49740	
+Emmet County
+49743	
+Presque Isle County
+49744	
+Alpena County
+49745	
+Mackinac County
+49746	
+Montmorency County
+49747	
+Alpena County
+49748	
+Chippewa County
+49749	
+Cheboygan County
+49751	
+Otsego County
+49752	
+Chippewa County
+49753	
+Alpena County
+49755	
+Emmet County
+49756	
+Montmorency County
+49757	
+Mackinac County
+49759	
+Presque Isle County
+49760	
+Mackinac County
+49761	
+Cheboygan County
+49762	
+Mackinac County
+49764	
+Emmet County
+49765	
+Presque Isle County
+49766	
+Alpena County
+49768	
+Chippewa County
+49769	
+Emmet County
+49770	
+Emmet County
+49774	
+Chippewa County
+49775	
+Mackinac County
+49776	
+Presque Isle County
+49777	
+Presque Isle County
+49779	
+Presque Isle County
+49780	
+Chippewa County
+49781	
+Mackinac County
+49782	
+Charlevoix County
+49783	
+Chippewa County
+49784	
+Chippewa County
+49785	
+Chippewa County
+49786	
+Chippewa County
+49788	
+Chippewa County
+49790	
+Chippewa County
+49791	
+Cheboygan County
+49792	
+Cheboygan County
+49793	
+Chippewa County
+49795	
+Otsego County
+49796	
+Charlevoix County
+49797	
+Otsego County
+49799	
+Cheboygan County
+49801	
+Dickinson County
+49802	
+Dickinson County
+49805	
+Keweenaw County
+49806	
+Alger County
+49807	
+Delta County
+49808	
+Marquette County
+49812	
+Menominee County
+49814	
+Marquette County
+49815	
+Dickinson County
+49816	
+Alger County
+49817	
+Schoolcraft County
+49818	
+Delta County
+49819	
+Marquette County
+49820	
+Mackinac County
+49821	
+Menominee County
+49822	
+Alger County
+49825	
+Alger County
+49826	
+Alger County
+49827	
+Mackinac County
+49829	
+Delta County
+49831	
+Dickinson County
+49833	
+Marquette County
+49834	
+Dickinson County
+49835	
+Delta County
+49836	
+Schoolcraft County
+49837	
+Delta County
+49838	
+Mackinac County
+49839	
+Alger County
+49840	
+Schoolcraft County
+49841	
+Marquette County
+49845	
+Menominee County
+49847	
+Menominee County
+49848	
+Menominee County
+49849	
+Marquette County
+49852	
+Dickinson County
+49853	
+Luce County
+49854	
+Schoolcraft County
+49855	
+Marquette County
+49858	
+Menominee County
+49861	
+Marquette County
+49862	
+Alger County
+49863	
+Menominee County
+49864	
+Delta County
+49865	
+Marquette County
+49866	
+Marquette County
+49868	
+Luce County
+49870	
+Dickinson County
+49871	
+Marquette County
+49872	
+Delta County
+49873	
+Menominee County
+49874	
+Menominee County
+49876	
+Dickinson County
+49877	
+Dickinson County
+49878	
+Delta County
+49879	
+Marquette County
+49880	
+Delta County
+49881	
+Dickinson County
+49883	
+Schoolcraft County
+49884	
+Alger County
+49885	
+Marquette County
+49886	
+Menominee County
+49887	
+Menominee County
+49891	
+Alger County
+49892	
+Dickinson County
+49893	
+Menominee County
+49894	
+Delta County
+49895	
+Alger County
+49896	
+Menominee County
+49901	
+Keweenaw County
+49902	
+Iron County
+49903	
+Iron County
+49905	
+Houghton County
+49908	
+Baraga County
+49910	
+Ontonagon County
+49911	
+Gogebic County
+49912	
+Ontonagon County
+49913	
+Houghton County
+49915	
+Iron County
+49916	
+Houghton County
+49917	
+Houghton County
+49918	
+Keweenaw County
+49919	
+Baraga County
+49920	
+Iron County
+49921	
+Houghton County
+49922	
+Houghton County
+49925	
+Ontonagon County
+49927	
+Iron County
+49929	
+Ontonagon County
+49930	
+Houghton County
+49931	
+Houghton County
+49934	
+Houghton County
+49935	
+Iron County
+49938	
+Gogebic County
+49942	
+Houghton County
+49945	
+Houghton County
+49946	
+Baraga County
+49947	
+Gogebic County
+49948	
+Ontonagon County
+49950	
+Keweenaw County
+49952	
+Houghton County
+49953	
+Ontonagon County
+49955	
+Houghton County
+49958	
+Houghton County
+49959	
+Gogebic County
+49960	
+Ontonagon County
+49961	
+Houghton County
+49962	
+Baraga County
+49963	
+Houghton County
+49964	
+Iron County
+49965	
+Houghton County
+49967	
+Ontonagon County
+49968	
+Gogebic County
+49969	
+Gogebic County
+49970	
+Baraga County
+49971	
+Ontonagon County
+16510
+07102
+94123
+10023
+30004
+20110
+32818
+91403
+99654
+14202
+07302
+33134
+94043
+11201
+33142
+20002
+94040
+21234
+22312
+92373
+27801
+11212
+33012
+40299
+49085
+17319
+92563

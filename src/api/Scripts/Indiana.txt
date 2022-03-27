@@ -1,0 +1,2006 @@
+County
+46001	
+Madison County
+46011	
+Madison County
+46012	
+Madison County
+46013	
+Madison County
+46014	
+Madison County
+46015	
+Madison County
+46016	
+Madison County
+46017	
+Madison County
+46018	
+Madison County
+46030	
+Hamilton County
+46031	
+Hamilton County
+46032	
+Hamilton County
+46033	
+Hamilton County
+46034	
+Hamilton County
+46035	
+Clinton County
+46036	
+Madison County
+46037	
+Hamilton County
+46038	
+Hamilton County
+46039	
+Clinton County
+46040	
+Hancock County
+46041	
+Clinton County
+46044	
+Madison County
+46045	
+Tipton County
+46047	
+Tipton County
+46048	
+Madison County
+46049	
+Tipton County
+46050	
+Clinton County
+46051	
+Madison County
+46052	
+Boone County
+46055	
+Hancock County
+46056	
+Madison County
+46057	
+Clinton County
+46058	
+Clinton County
+46060	
+Hamilton County
+46061	
+Hamilton County
+46062	
+Hamilton County
+46063	
+Madison County
+46064	
+Madison County
+46065	
+Clinton County
+46067	
+Clinton County
+46068	
+Tipton County
+46069	
+Hamilton County
+46070	
+Madison County
+46071	
+Boone County
+46072	
+Tipton County
+46074	
+Hamilton County
+46075	
+Boone County
+46076	
+Tipton County
+46077	
+Boone County
+46082	
+Hamilton County
+46085	
+Hamilton County
+46102	
+Boone County
+46103	
+Hendricks County
+46104	
+Rush County
+46105	
+Putnam County
+46106	
+Johnson County
+46107	
+Marion County
+46110	
+Shelby County
+46111	
+Morgan County
+46112	
+Hendricks County
+46113	
+Marion County
+46115	
+Rush County
+46117	
+Hancock County
+46118	
+Hendricks County
+46120	
+Putnam County
+46121	
+Putnam County
+46122	
+Hendricks County
+46123	
+Hendricks County
+46124	
+Johnson County
+46125	
+Morgan County
+46126	
+Shelby County
+46127	
+Rush County
+46128	
+Putnam County
+46129	
+Hancock County
+46130	
+Shelby County
+46131	
+Johnson County
+46133	
+Fayette County
+46135	
+Putnam County
+46140	
+Hancock County
+46142	
+Johnson County
+46143	
+Johnson County
+46144	
+Shelby County
+46146	
+Rush County
+46147	
+Boone County
+46148	
+Henry County
+46149	
+Hendricks County
+46150	
+Rush County
+46151	
+Morgan County
+46154	
+Hancock County
+46155	
+Rush County
+46156	
+Rush County
+46157	
+Morgan County
+46158	
+Morgan County
+46160	
+Brown County
+46161	
+Shelby County
+46162	
+Johnson County
+46163	
+Hancock County
+46164	
+Johnson County
+46165	
+Hendricks County
+46166	
+Morgan County
+46167	
+Hendricks County
+46168	
+Hendricks County
+46170	
+Putnam County
+46171	
+Putnam County
+46172	
+Putnam County
+46173	
+Rush County
+46175	
+Putnam County
+46176	
+Shelby County
+46180	
+Hendricks County
+46181	
+Johnson County
+46182	
+Shelby County
+46183	
+Marion County
+46184	
+Johnson County
+46186	
+Hancock County
+46197	
+46201	
+Marion County
+46202	
+Marion County
+46203	
+Marion County
+46204	
+Marion County
+46205	
+Marion County
+46206	
+Marion County
+46207	
+Marion County
+46208	
+Marion County
+46209	
+Marion County
+46210	
+46211	
+Marion County
+46213	
+46214	
+Marion County
+46216	
+Marion County
+46217	
+Marion County
+46218	
+Marion County
+46219	
+Marion County
+46220	
+Marion County
+46221	
+Marion County
+46222	
+Marion County
+46223	
+Marion County
+46224	
+Marion County
+46225	
+Marion County
+46226	
+Marion County
+46227	
+Marion County
+46228	
+Marion County
+46229	
+Marion County
+46230	
+Marion County
+46231	
+Marion County
+46234	
+Marion County
+46235	
+Marion County
+46236	
+Marion County
+46237	
+Marion County
+46239	
+Marion County
+46240	
+Marion County
+46241	
+Marion County
+46242	
+Marion County
+46244	
+Marion County
+46247	
+Marion County
+46249	
+Marion County
+46250	
+Marion County
+46251	
+Marion County
+46253	
+Marion County
+46254	
+Marion County
+46255	
+Marion County
+46256	
+Marion County
+46259	
+Marion County
+46260	
+Marion County
+46262	
+Marion County
+46266	
+Marion County
+46268	
+Marion County
+46274	
+Marion County
+46275	
+Marion County
+46277	
+Marion County
+46278	
+Marion County
+46280	
+Hamilton County
+46282	
+Marion County
+46283	
+Marion County
+46285	
+Marion County
+46288	
+46290	
+Hamilton County
+46291	
+Marion County
+46295	
+Marion County
+46296	
+Marion County
+46298	
+Marion County
+46301	
+Porter County
+46302	
+Porter County
+46303	
+Lake County
+46304	
+Porter County
+46307	
+Lake County
+46308	
+Lake County
+46310	
+Jasper County
+46311	
+Lake County
+46312	
+Lake County
+46319	
+Lake County
+46320	
+Lake County
+46321	
+Lake County
+46322	
+Lake County
+46323	
+Lake County
+46324	
+Lake County
+46325	
+Lake County
+46327	
+Lake County
+46340	
+LaPorte County
+46341	
+Porter County
+46342	
+Lake County
+46345	
+LaPorte County
+46346	
+LaPorte County
+46347	
+Porter County
+46348	
+LaPorte County
+46349	
+Newton County
+46350	
+LaPorte County
+46352	
+La Porte County
+46355	
+Lake County
+46356	
+Lake County
+46360	
+LaPorte County
+46361	
+La Porte County
+46365	
+LaPorte County
+46366	
+Starke County
+46368	
+Porter County
+46371	
+LaPorte County
+46372	
+Newton County
+46373	
+Lake County
+46374	
+Starke County
+46375	
+Lake County
+46376	
+Lake County
+46377	
+Lake County
+46379	
+Newton County
+46380	
+Jasper County
+46381	
+Newton County
+46382	
+LaPorte County
+46383	
+Porter County
+46384	
+Porter County
+46385	
+Porter County
+46390	
+LaPorte County
+46391	
+LaPorte County
+46392	
+Jasper County
+46393	
+Porter County
+46394	
+Lake County
+46401	
+Lake County
+46402	
+Lake County
+46403	
+Lake County
+46404	
+Lake County
+46405	
+Lake County
+46406	
+Lake County
+46407	
+Lake County
+46408	
+Lake County
+46409	
+Lake County
+46410	
+Lake County
+46411	
+Lake County
+46501	
+Marshall County
+46502	
+Kosciusko County
+46504	
+Marshall County
+46506	
+Marshall County
+46507	
+Elkhart County
+46508	
+Kosciusko County
+46510	
+Kosciusko County
+46511	
+Marshall County
+46513	
+Starke County
+46514	
+Elkhart County
+46515	
+Elkhart County
+46516	
+Elkhart County
+46517	
+Elkhart County
+46524	
+Kosciusko County
+46526	
+Elkhart County
+46527	
+Elkhart County
+46528	
+Elkhart County
+46530	
+St. Joseph County
+46531	
+Starke County
+46532	
+Starke County
+46534	
+Starke County
+46536	
+St. Joseph County
+46537	
+Marshall County
+46538	
+Kosciusko County
+46539	
+Kosciusko County
+46540	
+Elkhart County
+46542	
+Kosciusko County
+46543	
+Elkhart County
+46544	
+St. Joseph County
+46545	
+St. Joseph County
+46546	
+St. Joseph County
+46550	
+Elkhart County
+46552	
+St. Joseph County
+46553	
+Elkhart County
+46554	
+St. Joseph County
+46555	
+Kosciusko County
+46556	
+St. Joseph County
+46561	
+St. Joseph County
+46562	
+Kosciusko County
+46563	
+Marshall County
+46565	
+LaGrange County
+46567	
+Kosciusko County
+46570	
+Marshall County
+46571	
+LaGrange County
+46572	
+Marshall County
+46573	
+Elkhart County
+46574	
+St. Joseph County
+46580	
+Kosciusko County
+46581	
+Kosciusko County
+46582	
+Kosciusko County
+46590	
+Kosciusko County
+46595	
+St. Joseph County
+46601	
+St. Joseph County
+46604	
+St. Joseph County
+46613	
+St. Joseph County
+46614	
+St. Joseph County
+46615	
+St. Joseph County
+46616	
+St. Joseph County
+46617	
+St. Joseph County
+46619	
+St. Joseph County
+46620	
+St. Joseph County
+46624	
+St. Joseph County
+46626	
+St. Joseph County
+46628	
+St. Joseph County
+46634	
+St. Joseph County
+46635	
+St. Joseph County
+46637	
+St. Joseph County
+46660	
+St. Joseph County
+46680	
+St. Joseph County
+46699	
+St. Joseph County
+46701	
+Noble County
+46702	
+Huntington County
+46703	
+Steuben County
+46704	
+Allen County
+46705	
+DeKalb County
+46706	
+DeKalb County
+46710	
+Noble County
+46711	
+Adams County
+46713	
+Huntington County
+46714	
+Wells County
+46721	
+DeKalb County
+46723	
+Whitley County
+46725	
+Whitley County
+46730	
+DeKalb County
+46731	
+Wells County
+46732	
+Noble County
+46733	
+Adams County
+46737	
+Steuben County
+46738	
+DeKalb County
+46740	
+Adams County
+46741	
+Allen County
+46742	
+Steuben County
+46743	
+Allen County
+46745	
+Allen County
+46746	
+LaGrange County
+46747	
+Steuben County
+46748	
+Allen County
+46750	
+Huntington County
+46755	
+Noble County
+46759	
+Wells County
+46760	
+Noble County
+46761	
+LaGrange County
+46763	
+Noble County
+46764	
+Whitley County
+46765	
+Allen County
+46766	
+Wells County
+46767	
+Noble County
+46769	
+Adams County
+46770	
+Wells County
+46771	
+LaGrange County
+46772	
+Adams County
+46773	
+Allen County
+46774	
+Allen County
+46776	
+Steuben County
+46777	
+Wells County
+46778	
+Wells County
+46779	
+Steuben County
+46780	
+Adams County
+46781	
+Wells County
+46782	
+Adams County
+46783	
+Huntington County
+46784	
+Noble County
+46785	
+DeKalb County
+46786	
+LaGrange County
+46787	
+Whitley County
+46788	
+Allen County
+46789	
+Lagrange County
+46791	
+Wells County
+46792	
+Huntington County
+46793	
+DeKalb County
+46794	
+Noble County
+46795	
+LaGrange County
+46796	
+Noble County
+46797	
+Allen County
+46798	
+Allen County
+46799	
+Wells County
+46801	
+Allen County
+46802	
+Allen County
+46803	
+Allen County
+46804	
+Allen County
+46805	
+Allen County
+46806	
+Allen County
+46807	
+Allen County
+46808	
+Allen County
+46809	
+Allen County
+46814	
+Allen County
+46815	
+Allen County
+46816	
+Allen County
+46818	
+Allen County
+46819	
+Allen County
+46825	
+Allen County
+46835	
+Allen County
+46845	
+Allen County
+46850	
+Allen County
+46851	
+Allen County
+46852	
+Allen County
+46853	
+Allen County
+46854	
+Allen County
+46855	
+Allen County
+46856	
+Allen County
+46857	
+Allen County
+46858	
+Allen County
+46859	
+Allen County
+46860	
+Allen County
+46861	
+Allen County
+46862	
+Allen County
+46863	
+Allen County
+46864	
+Allen County
+46865	
+Allen County
+46866	
+Allen County
+46867	
+Allen County
+46868	
+Allen County
+46869	
+Allen County
+46885	
+Allen County
+46895	
+Allen County
+46896	
+Allen County
+46897	
+Allen County
+46898	
+Allen County
+46899	
+Allen County
+46901	
+Howard County
+46902	
+Howard County
+46903	
+Howard County
+46904	
+Howard County
+46910	
+Fulton County
+46911	
+Miami County
+46912	
+Fulton County
+46913	
+Carroll County
+46914	
+Miami County
+46915	
+Carroll County
+46916	
+Carroll County
+46917	
+Carroll County
+46919	
+Miami County
+46920	
+Carroll County
+46921	
+Miami County
+46922	
+Fulton County
+46923	
+Carroll County
+46926	
+Miami County
+46928	
+Grant County
+46929	
+Carroll County
+46930	
+Grant County
+46931	
+Fulton County
+46932	
+Cass County
+46933	
+Grant County
+46935	
+Fulton County
+46936	
+Howard County
+46937	
+Howard County
+46938	
+Grant County
+46939	
+Fulton County
+46940	
+Wabash County
+46941	
+Wabash County
+46942	
+Cass County
+46943	
+Wabash County
+46945	
+Fulton County
+46946	
+Wabash County
+46947	
+Cass County
+46950	
+Cass County
+46951	
+Miami County
+46952	
+Grant County
+46953	
+Grant County
+46957	
+Grant County
+46958	
+Miami County
+46959	
+Miami County
+46960	
+Pulaski County
+46961	
+Cass County
+46962	
+Wabash County
+46965	
+Howard County
+46967	
+Cass County
+46968	
+Starke County
+46970	
+Miami County
+46971	
+Miami County
+46974	
+Wabash County
+46975	
+Fulton County
+46977	
+Carroll County
+46978	
+Cass County
+46979	
+Howard County
+46980	
+Wabash County
+46982	
+Kosciusko County
+46984	
+Wabash County
+46985	
+Pulaski County
+46986	
+Grant County
+46987	
+Grant County
+46988	
+Cass County
+46989	
+Grant County
+46990	
+Wabash County
+46991	
+Grant County
+46992	
+Wabash County
+46994	
+Cass County
+46995	
+Howard County
+46996	
+Pulaski County
+46998	
+Cass County
+47001	
+Dearborn County
+47003	
+Union County
+47006	
+Ripley County
+47010	
+Franklin County
+47011	
+Switzerland County
+47012	
+Franklin County
+47016	
+Franklin County
+47017	
+Ripley County
+47018	
+Dearborn County
+47019	
+Switzerland County
+47020	
+Switzerland County
+47021	
+Ripley County
+47022	
+Dearborn County
+47023	
+Ripley County
+47024	
+Franklin County
+47025	
+Dearborn County
+47030	
+Franklin County
+47031	
+Ripley County
+47032	
+Dearborn County
+47033	
+Ripley County
+47034	
+Ripley County
+47035	
+Franklin County
+47036	
+Franklin County
+47037	
+Ripley County
+47038	
+Switzerland County
+47039	
+Ripley County
+47040	
+Ohio County
+47041	
+Ripley County
+47042	
+Ripley County
+47043	
+Switzerland County
+47060	
+Dearborn County
+47102	
+Scott County
+47104	
+Clark County
+47106	
+Clark County
+47107	
+Harrison County
+47108	
+Washington County
+47110	
+Harrison County
+47111	
+Clark County
+47112	
+Harrison County
+47114	
+Harrison County
+47115	
+Harrison County
+47116	
+Crawford County
+47117	
+Harrison County
+47118	
+Crawford County
+47119	
+Floyd County
+47120	
+Washington County
+47122	
+Floyd County
+47123	
+Crawford County
+47124	
+Floyd County
+47125	
+Washington County
+47126	
+Clark County
+47129	
+Clark County
+47130	
+Clark County
+47131	
+Clark County
+47132	
+Clark County
+47133	
+Clark County
+47134	
+Clark County
+47135	
+Harrison County
+47136	
+Harrison County
+47137	
+Crawford County
+47138	
+Scott County
+47139	
+Washington County
+47140	
+Crawford County
+47141	
+Clark County
+47142	
+Harrison County
+47143	
+Clark County
+47144	
+Clark County
+47145	
+Crawford County
+47146	
+Floyd County
+47147	
+Clark County
+47150	
+Floyd County
+47151	
+Floyd County
+47160	
+Harrison County
+47161	
+Harrison County
+47162	
+Clark County
+47163	
+Clark County
+47164	
+Harrison County
+47165	
+Washington County
+47166	
+Harrison County
+47167	
+Washington County
+47170	
+Scott County
+47172	
+Clark County
+47174	
+Crawford County
+47175	
+Crawford County
+47177	
+Clark County
+47190	
+Clark County
+47199	
+Clark County
+47201	
+Bartholomew County
+47202	
+Bartholomew County
+47203	
+Bartholomew County
+47220	
+Jackson County
+47223	
+Jennings County
+47224	
+Switzerland County
+47225	
+Decatur County
+47226	
+Bartholomew County
+47227	
+Jennings County
+47228	
+Jackson County
+47229	
+Jackson County
+47230	
+Jefferson County
+47231	
+Jefferson County
+47232	
+Bartholomew County
+47234	
+Shelby County
+47235	
+Jackson County
+47236	
+Bartholomew County
+47240	
+Decatur County
+47243	
+Jefferson County
+47244	
+Bartholomew County
+47245	
+Jennings County
+47246	
+Bartholomew County
+47247	
+Bartholomew County
+47249	
+Jackson County
+47250	
+Jefferson County
+47260	
+Jackson County
+47261	
+Ripley County
+47263	
+Decatur County
+47264	
+Jackson County
+47265	
+Jennings County
+47270	
+Jennings County
+47272	
+Decatur County
+47273	
+Jennings County
+47274	
+Jackson County
+47280	
+Bartholomew County
+47281	
+Jackson County
+47282	
+Jennings County
+47283	
+Decatur County
+47302	
+Delaware County
+47303	
+Delaware County
+47304	
+Delaware County
+47305	
+Delaware County
+47306	
+Delaware County
+47307	
+Delaware County
+47308	
+Delaware County
+47320	
+Delaware County
+47322	
+Fayette County
+47324	
+Wayne County
+47325	
+Union County
+47326	
+Jay County
+47327	
+Wayne County
+47330	
+Wayne County
+47331	
+Fayette County
+47334	
+Delaware County
+47335	
+Wayne County
+47336	
+Jay County
+47337	
+Henry County
+47338	
+Delaware County
+47339	
+Wayne County
+47340	
+Randolph County
+47341	
+Wayne County
+47342	
+Delaware County
+47344	
+Henry County
+47345	
+Wayne County
+47346	
+Wayne County
+47348	
+Blackford County
+47351	
+Henry County
+47352	
+Henry County
+47353	
+Union County
+47354	
+Randolph County
+47355	
+Randolph County
+47356	
+Henry County
+47357	
+Wayne County
+47358	
+Randolph County
+47359	
+Blackford County
+47360	
+Henry County
+47361	
+Henry County
+47362	
+Henry County
+47366	
+Henry County
+47367	
+Delaware County
+47368	
+Randolph County
+47369	
+Jay County
+47370	
+Wayne County
+47371	
+Jay County
+47373	
+Jay County
+47374	
+Wayne County
+47375	
+Wayne County
+47380	
+Randolph County
+47381	
+Jay County
+47382	
+Randolph County
+47383	
+Delaware County
+47384	
+Henry County
+47385	
+Henry County
+47386	
+Henry County
+47387	
+Henry County
+47388	
+Henry County
+47390	
+Randolph County
+47392	
+Wayne County
+47393	
+Wayne County
+47394	
+Randolph County
+47396	
+Delaware County
+47401	
+Monroe County
+47402	
+Monroe County
+47403	
+Monroe County
+47404	
+Monroe County
+47405	
+Monroe County
+47406	
+Monroe County
+47407	
+Monroe County
+47408	
+Monroe County
+47420	
+Lawrence County
+47421	
+Lawrence County
+47424	
+Greene County
+47426	
+Monroe County
+47427	
+Owen County
+47429	
+Monroe County
+47430	
+Lawrence County
+47431	
+Owen County
+47432	
+Orange County
+47433	
+Owen County
+47434	
+Monroe County
+47435	
+Brown County
+47436	
+Lawrence County
+47437	
+Lawrence County
+47438	
+Greene County
+47439	
+Greene County
+47441	
+Greene County
+47443	
+Greene County
+47445	
+Greene County
+47446	
+Lawrence County
+47448	
+Brown County
+47449	
+Greene County
+47451	
+Lawrence County
+47452	
+Orange County
+47453	
+Greene County
+47454	
+Orange County
+47455	
+Owen County
+47456	
+Owen County
+47457	
+Greene County
+47458	
+Monroe County
+47459	
+Greene County
+47460	
+Owen County
+47462	
+Lawrence County
+47463	
+Monroe County
+47464	
+Monroe County
+47465	
+Greene County
+47467	
+Lawrence County
+47468	
+Monroe County
+47469	
+Orange County
+47470	
+Lawrence County
+47471	
+Greene County
+47490	
+Monroe County
+47501	
+Daviess County
+47512	
+Knox County
+47513	
+Dubois County
+47514	
+Perry County
+47515	
+Perry County
+47516	
+Knox County
+47519	
+Daviess County
+47520	
+Perry County
+47521	
+Dubois County
+47522	
+Martin County
+47523	
+Spencer County
+47524	
+Knox County
+47525	
+Perry County
+47527	
+Dubois County
+47528	
+Knox County
+47529	
+Daviess County
+47531	
+Spencer County
+47532	
+Dubois County
+47535	
+Knox County
+47536	
+Spencer County
+47537	
+Spencer County
+47541	
+Dubois County
+47542	
+Dubois County
+47545	
+Dubois County
+47546	
+Dubois County
+47547	
+Dubois County
+47549	
+Dubois County
+47550	
+Spencer County
+47551	
+Perry County
+47552	
+Spencer County
+47553	
+Martin County
+47556	
+Spencer County
+47557	
+Knox County
+47558	
+Daviess County
+47561	
+Knox County
+47562	
+Daviess County
+47564	
+Pike County
+47567	
+Pike County
+47568	
+Daviess County
+47573	
+Knox County
+47574	
+Perry County
+47575	
+Dubois County
+47576	
+Perry County
+47577	
+Spencer County
+47578	
+Knox County
+47579	
+Spencer County
+47580	
+Dubois County
+47581	
+Martin County
+47584	
+Pike County
+47585	
+Pike County
+47586	
+Perry County
+47588	
+Perry County
+47590	
+Pike County
+47591	
+Knox County
+47596	
+Knox County
+47597	
+Knox County
+47598	
+Pike County
+47601	
+Warrick County
+47610	
+Warrick County
+47611	
+Spencer County
+47612	
+Posey County
+47613	
+Warrick County
+47614	
+Warrick County
+47615	
+Spencer County
+47616	
+Posey County
+47617	
+Spencer County
+47618	
+Vanderburgh County
+47619	
+Warrick County
+47620	
+Posey County
+47629	
+Warrick County
+47630	
+Warrick County
+47631	
+Posey County
+47633	
+Posey County
+47634	
+Spencer County
+47635	
+Spencer County
+47637	
+Warrick County
+47638	
+Posey County
+47639	
+Gibson County
+47640	
+Gibson County
+47647	
+Gibson County
+47648	
+Gibson County
+47649	
+Gibson County
+47654	
+Gibson County
+47660	
+Gibson County
+47665	
+Gibson County
+47666	
+Gibson County
+47670	
+Gibson County
+47683	
+Gibson County
+47701	
+Vanderburgh County
+47702	
+Vanderburgh County
+47703	
+Vanderburgh County
+47704	
+Vanderburgh County
+47705	
+Vanderburgh County
+47706	
+Vanderburgh County
+47708	
+Vanderburgh County
+47710	
+Vanderburgh County
+47711	
+Vanderburgh County
+47712	
+Vanderburgh County
+47713	
+Vanderburgh County
+47714	
+Vanderburgh County
+47715	
+Vanderburgh County
+47716	
+Vanderburgh County
+47719	
+Vanderburgh County
+47720	
+Vanderburgh County
+47721	
+Vanderburgh County
+47722	
+Vanderburgh County
+47724	
+Vanderburgh County
+47725	
+Vanderburgh County
+47727	
+Vanderburgh County
+47728	
+Vanderburgh County
+47730	
+Vanderburgh County
+47731	
+Vanderburgh County
+47732	
+Vanderburgh County
+47733	
+Vanderburgh County
+47734	
+Vanderburgh County
+47735	
+Vanderburgh County
+47736	
+Vanderburgh County
+47737	
+Vanderburgh County
+47739	
+Vanderburgh County
+47740	
+Vanderburgh County
+47741	
+Vanderburgh County
+47744	
+Vanderburgh County
+47747	
+Vanderburgh County
+47750	
+Vanderburgh County
+47801	
+Vigo County
+47802	
+Vigo County
+47803	
+Vigo County
+47804	
+Vigo County
+47805	
+Vigo County
+47807	
+Vigo County
+47808	
+Vigo County
+47809	
+Vigo County
+47811	
+Vigo County
+47812	
+Vigo County
+47830	
+Parke County
+47831	
+Vermillion County
+47832	
+Parke County
+47833	
+Owen County
+47834	
+Clay County
+47836	
+Parke County
+47837	
+Clay County
+47838	
+Sullivan County
+47840	
+Clay County
+47841	
+Clay County
+47842	
+Vermillion County
+47845	
+Clay County
+47846	
+Clay County
+47847	
+Vermillion County
+47848	
+Sullivan County
+47849	
+Sullivan County
+47850	
+Sullivan County
+47851	
+Vigo County
+47852	
+Sullivan County
+47853	
+Clay County
+47854	
+Vermillion County
+47855	
+Sullivan County
+47856	
+Parke County
+47857	
+Clay County
+47858	
+Clay County
+47859	
+Parke County
+47860	
+Parke County
+47861	
+Sullivan County
+47862	
+Parke County
+47863	
+Vigo County
+47864	
+Sullivan County
+47865	
+Sullivan County
+47866	
+Vigo County
+47868	
+Owen County
+47869	
+Vigo County
+47870	
+Vigo County
+47871	
+Vigo County
+47872	
+Parke County
+47874	
+Parke County
+47875	
+Vermillion County
+47876	
+Vigo County
+47878	
+Vigo County
+47879	
+Sullivan County
+47880	
+Vigo County
+47881	
+Clay County
+47882	
+Sullivan County
+47884	
+Vermillion County
+47885	
+Vigo County
+47901	
+Tippecanoe County
+47902	
+Tippecanoe County
+47903	
+Tippecanoe County
+47904	
+Tippecanoe County
+47905	
+Tippecanoe County
+47906	
+Tippecanoe County
+47907	
+Tippecanoe County
+47909	
+Tippecanoe County
+47916	
+Montgomery County
+47917	
+Benton County
+47918	
+Fountain County
+47920	
+Tippecanoe County
+47921	
+Benton County
+47922	
+Newton County
+47923	
+White County
+47924	
+Tippecanoe County
+47925	
+White County
+47926	
+White County
+47928	
+Vermillion County
+47929	
+White County
+47930	
+Tippecanoe County
+47932	
+Fountain County
+47933	
+Montgomery County
+47934	
+Montgomery County
+47935	
+Montgomery County
+47936	
+Montgomery County
+47937	
+Montgomery County
+47938	
+Montgomery County
+47939	
+Montgomery County
+47940	
+Montgomery County
+47941	
+Tippecanoe County
+47942	
+Benton County
+47943	
+Jasper County
+47944	
+Benton County
+47946	
+Pulaski County
+47948	
+Newton County
+47949	
+Fountain County
+47950	
+White County
+47951	
+Newton County
+47952	
+Fountain County
+47954	
+Montgomery County
+47955	
+Montgomery County
+47957	
+Pulaski County
+47958	
+Fountain County
+47959	
+White County
+47960	
+White County
+47962	
+Tippecanoe County
+47963	
+Newton County
+47964	
+Newton County
+47965	
+Montgomery County
+47966	
+Vermillion County
+47967	
+Montgomery County
+47968	
+Montgomery County
+47969	
+Fountain County
+47970	
+Benton County
+47971	
+Benton County
+47974	
+Vermillion County
+47975	
+Warren County
+47977	
+Jasper County
+47978	
+Jasper County
+47980	
+White County
+47981	
+Tippecanoe County
+47982	
+Warren County
+47983	
+Tippecanoe County
+47984	
+Benton County
+47986	
+Benton County
+47987	
+Fountain County
+47988	
+Fountain County
+47989	
+Montgomery County
+47990	
+Montgomery County
+47991	
+Warren County
+47992	
+Tippecanoe County
+47993	
+Warren County
+47994	
+Montgomery County
+47995	
+White County
+47996	
+Tippecanoe County
+47997	
+Carroll County
+53402
+07302
+80631
+27604
+17044
+17756
+99654
+11220
+18428
+17964
+95571
+11211
+22030
+16510
+75933
+19335
+92373
+18419
+17878
+49417
+30075
+30043
+93291
+27587
+33584
+64112
+11554

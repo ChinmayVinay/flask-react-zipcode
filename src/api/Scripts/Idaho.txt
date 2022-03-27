@@ -1,0 +1,678 @@
+County
+83201	
+Bannock County
+83202	
+Bannock County
+83203	
+Bannock County
+83204	
+Bannock County
+83205	
+Bannock County
+83206	
+Bannock County
+83209	
+Bannock County
+83210	
+Bingham County
+83211	
+Power County
+83212	
+Power County
+83213	
+Butte County
+83214	
+Bannock County
+83215	
+Bingham County
+83217	
+Caribou County
+83218	
+Bingham County
+83220	
+Bear Lake County
+83221	
+Bingham County
+83223	
+Bear Lake County
+83226	
+Custer County
+83227	
+Custer County
+83228	
+Franklin County
+83229	
+Lemhi County
+83230	
+Caribou County
+83232	
+Franklin County
+83233	
+Bear Lake County
+83234	
+Bannock County
+83235	
+Custer County
+83236	
+Bingham County
+83237	
+Franklin County
+83238	
+Bear Lake County
+83239	
+Bear Lake County
+83241	
+Caribou County
+83243	
+Oneida County
+83244	
+Butte County
+83245	
+Bannock County
+83246	
+Bannock County
+83250	
+Bannock County
+83251	
+Custer County
+83252	
+Oneida County
+83253	
+Lemhi County
+83254	
+Bear Lake County
+83255	
+Butte County
+83256	
+Bingham County
+83261	
+Bear Lake County
+83262	
+Bingham County
+83263	
+Franklin County
+83271	
+Power County
+83272	
+Bear Lake County
+83274	
+Bingham County
+83276	
+Caribou County
+83277	
+Bingham County
+83278	
+Custer County
+83281	
+Bannock County
+83283	
+Franklin County
+83285	
+Bonneville County
+83286	
+Franklin County
+83287	
+Bear Lake County
+83301	
+Twin Falls County
+83302	
+Twin Falls County
+83303	
+Twin Falls County
+83311	
+Cassia County
+83312	
+Cassia County
+83313	
+Blaine County
+83314	
+Gooding County
+83316	
+Twin Falls County
+83318	
+Cassia County
+83320	
+Blaine County
+83321	
+Twin Falls County
+83322	
+Camas County
+83323	
+Cassia County
+83324	
+Lincoln County
+83325	
+Jerome County
+83327	
+Camas County
+83328	
+Twin Falls County
+83330	
+Gooding County
+83332	
+Gooding County
+83333	
+Blaine County
+83334	
+Twin Falls County
+83335	
+Jerome County
+83336	
+Minidoka County
+83337	
+Camas County
+83338	
+Jerome County
+83340	
+Blaine County
+83341	
+Twin Falls County
+83342	
+Cassia County
+83343	
+Minidoka County
+83344	
+Twin Falls County
+83346	
+Cassia County
+83347	
+Minidoka County
+83348	
+Blaine County
+83349	
+Lincoln County
+83350	
+Minidoka County
+83352	
+Lincoln County
+83353	
+Blaine County
+83354	
+Blaine County
+83355	
+Gooding County
+83401	
+Bonneville County
+83402	
+Bonneville County
+83403	
+Bonneville County
+83404	
+Bonneville County
+83405	
+Bonneville County
+83406	
+Bonneville County
+83415	
+Bonneville County
+83420	
+Fremont County
+83421	
+Fremont County
+83422	
+Teton County
+83423	
+Clark County
+83424	
+Teton County
+83425	
+Jefferson County
+83427	
+Bonneville County
+83428	
+Bonneville County
+83429	
+Fremont County
+83431	
+Jefferson County
+83433	
+Fremont County
+83434	
+Jefferson County
+83435	
+Jefferson County
+83436	
+Fremont County
+83438	
+Fremont County
+83440	
+Madison County
+83441	
+Madison County
+83442	
+Jefferson County
+83443	
+Jefferson County
+83444	
+Jefferson County
+83445	
+Fremont County
+83446	
+Clark County
+83448	
+Madison County
+83449	
+Bonneville County
+83450	
+Jefferson County
+83451	
+Fremont County
+83452	
+Teton County
+83454	
+Bonneville County
+83455	
+Teton County
+83460	
+Madison County
+83462	
+Lemhi County
+83463	
+Lemhi County
+83464	
+Lemhi County
+83465	
+Lemhi County
+83466	
+Lemhi County
+83467	
+Lemhi County
+83468	
+Lemhi County
+83469	
+Lemhi County
+83501	
+Nez Perce County
+83520	
+Clearwater County
+83522	
+Idaho County
+83523	
+Lewis County
+83524	
+Nez Perce County
+83525	
+Idaho County
+83526	
+Idaho County
+83530	
+Idaho County
+83531	
+Idaho County
+83533	
+Idaho County
+83535	
+Latah County
+83536	
+Idaho County
+83537	
+Latah County
+83539	
+Idaho County
+83540	
+Nez Perce County
+83541	
+Clearwater County
+83542	
+Idaho County
+83543	
+Lewis County
+83544	
+Clearwater County
+83545	
+Nez Perce County
+83546	
+Clearwater County
+83547	
+Idaho County
+83548	
+Lewis County
+83549	
+Idaho County
+83552	
+Idaho County
+83553	
+Clearwater County
+83554	
+Idaho County
+83555	
+Nez Perce County
+83601	
+Elmore County
+83602	
+Boise County
+83604	
+Owyhee County
+83605	
+Canyon County
+83606	
+Canyon County
+83607	
+Canyon County
+83610	
+Washington County
+83611	
+Valley County
+83612	
+Adams County
+83615	
+Valley County
+83616	
+Ada County
+83617	
+Gem County
+83619	
+Payette County
+83622	
+Boise County
+83623	
+Elmore County
+83624	
+Owyhee County
+83626	
+Canyon County
+83627	
+Elmore County
+83628	
+Owyhee County
+83629	
+Boise County
+83630	
+Canyon County
+83631	
+Boise County
+83632	
+Adams County
+83633	
+Elmore County
+83634	
+Ada County
+83635	
+Valley County
+83636	
+Gem County
+83637	
+Boise County
+83638	
+Valley County
+83639	
+Owyhee County
+83641	
+Canyon County
+83642	
+Ada County
+83643	
+Adams County
+83644	
+Canyon County
+83645	
+Washington County
+83646	
+Ada County
+83647	
+Elmore County
+83648	
+Elmore County
+83650	
+Owyhee County
+83651	
+Canyon County
+83652	
+Canyon County
+83653	
+Canyon County
+83654	
+Adams County
+83655	
+Payette County
+83656	
+Canyon County
+83657	
+Gem County
+83660	
+Canyon County
+83661	
+Payette County
+83666	
+Boise County
+83669	
+Ada County
+83670	
+Gem County
+83671	
+Idaho County
+83672	
+Washington County
+83676	
+Canyon County
+83677	
+Valley County
+83680	
+Ada County
+83686	
+Canyon County
+83687	
+Canyon County
+83701	
+Ada County
+83702	
+Ada County
+83703	
+Ada County
+83704	
+Ada County
+83705	
+Ada County
+83706	
+Ada County
+83707	
+Ada County
+83708	
+Ada County
+83709	
+Ada County
+83711	
+Ada County
+83712	
+Ada County
+83713	
+Ada County
+83714	
+Ada County
+83715	
+Ada County
+83716	
+Ada County
+83717	
+Ada County
+83719	
+Ada County
+83720	
+Ada County
+83721	
+Ada County
+83722	
+Ada County
+83724	
+Ada County
+83725	
+Ada County
+83726	
+Ada County
+83727	
+Ada County
+83728	
+Ada County
+83729	
+Ada County
+83730	
+Ada County
+83731	
+Ada County
+83732	
+Ada County
+83733	
+Ada County
+83735	
+Ada County
+83756	
+Ada County
+83757	
+Ada County
+83799	
+Ada County
+83801	
+Kootenai County
+83802	
+Shoshone County
+83803	
+Kootenai County
+83804	
+Bonner County
+83805	
+Boundary County
+83806	
+Latah County
+83808	
+Shoshone County
+83809	
+Bonner County
+83810	
+Kootenai County
+83811	
+Bonner County
+83812	
+Shoshone County
+83813	
+Bonner County
+83814	
+Kootenai County
+83815	
+Kootenai County
+83816	
+Kootenai County
+83821	
+Bonner County
+83822	
+Bonner County
+83823	
+Latah County
+83824	
+Benewah County
+83825	
+Bonner County
+83826	
+Boundary County
+83827	
+Clearwater County
+83830	
+Benewah County
+83832	
+Latah County
+83833	
+Kootenai County
+83834	
+Latah County
+83835	
+Kootenai County
+83836	
+Bonner County
+83837	
+Shoshone County
+83839	
+Shoshone County
+83840	
+Bonner County
+83841	
+Bonner County
+83842	
+Kootenai County
+83843	
+Latah County
+83844	
+Latah County
+83845	
+Boundary County
+83846	
+Shoshone County
+83847	
+Boundary County
+83848	
+Bonner County
+83849	
+Shoshone County
+83850	
+Shoshone County
+83851	
+Benewah County
+83852	
+Bonner County
+83853	
+Boundary County
+83854	
+Kootenai County
+83855	
+Latah County
+83856	
+Bonner County
+83857	
+Latah County
+83858	
+Kootenai County
+83860	
+Bonner County
+83861	
+Benewah County
+83864	
+Bonner County
+83865	
+Bonner County
+83866	
+Benewah County
+83867	
+Shoshone County
+83868	
+Shoshone County
+83869	
+Kootenai County
+83870	
+Benewah County
+83871	
+Latah County
+83872	
+Latah County
+83873	
+Shoshone County
+83874	
+Shoshone County
+83876	
+Kootenai County
+83877	
+Kootenai County
+77014
+61616
+43527
+43080
+49507
+10605
+21060
+33411
+55612
+38650
+45056
+24934
+55068
+50119
+21061
+49971
+21045
+29575
+94521
+40356
+27801
+91606
+27028
+43230
+95811
+17878
+84106

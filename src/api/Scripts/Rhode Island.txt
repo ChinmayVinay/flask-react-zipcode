@@ -1,0 +1,210 @@
+County
+02801	
+Newport County
+02802	
+Providence County
+02804	
+Washington County
+02806	
+Bristol County
+02807	
+Washington County
+02808	
+Washington County
+02809	
+Bristol County
+02812	
+Washington County
+02813	
+Washington County
+02814	
+Providence County
+02815	
+Providence County
+02816	
+Kent County
+02817	
+Kent County
+02818	
+Kent County
+02822	
+Washington County
+02823	
+Providence County
+02824	
+Providence County
+02825	
+Providence County
+02826	
+Providence County
+02827	
+Kent County
+02828	
+Providence County
+02829	
+Providence County
+02830	
+Providence County
+02831	
+Providence County
+02832	
+Washington County
+02833	
+Washington County
+02835	
+Newport County
+02836	
+Washington County
+02837	
+Newport County
+02838	
+Providence County
+02839	
+Providence County
+02840	
+Newport County
+02841	
+Newport County
+02842	
+Newport County
+02852	
+Washington County
+02854	
+Washington County
+02857	
+Providence County
+02858	
+Providence County
+02859	
+Providence County
+02860	
+Providence County
+02861	
+Providence County
+02862	
+Providence County
+02863	
+Providence County
+02864	
+Providence County
+02865	
+Providence County
+02871	
+Newport County
+02872	
+Newport County
+02873	
+Washington County
+02874	
+Washington County
+02875	
+Washington County
+02876	
+Providence County
+02877	
+Washington County
+02878	
+Newport County
+02879	
+Washington County
+02880	
+Washington County
+02881	
+Washington County
+02882	
+Washington County
+02883	
+Washington County
+02885	
+Bristol County
+02886	
+Kent County
+02887	
+Kent County
+02888	
+Kent County
+02889	
+Kent County
+02891	
+Washington County
+02892	
+Washington County
+02893	
+Kent County
+02894	
+Washington County
+02895	
+Providence County
+02896	
+Providence County
+02898	
+Washington County
+02901	
+Providence County
+02902	
+Providence County
+02903	
+Providence County
+02904	
+Providence County
+02905	
+Providence County
+02906	
+Providence County
+02907	
+Providence County
+02908	
+Providence County
+02909	
+Providence County
+02910	
+Providence County
+02911	
+Providence County
+02912	
+Providence County
+02914	
+Providence County
+02915	
+Providence County
+02916	
+Providence County
+02917	
+Providence County
+02918	
+Providence County
+02919	
+Providence County
+02920	
+Providence County
+02921	
+Providence County
+02940	
+Providence County
+66049
+78541
+15050
+77571
+28040
+37064
+91362
+15020
+19468
+44241
+16670
+16117
+44432
+43050
+87107
+48104
+16372
+44641
+15046
+44125
+98258
+60707
+94928
+44484
+44109
+15054
+15666
